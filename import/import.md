@@ -48,3 +48,4 @@ from __future__ import absolute_import
 这里仅介绍上面三种简单情况。
 以上这篇浅谈python import引入不同路径下的模块就是小编分享给大家的全部内容了，希望能给大家一个参考，也希望大家多多支持脚本之家。
 
+http://blog.konghy.cn/2017/04/24/python-entry-program/
