@@ -1,0 +1,62 @@
+{
+  "BETA": {
+    "DESC_NAME": "beta",
+    "TYPE": "E"
+  },
+  "BTOP": {
+    "DESC_NAME": "价值",
+    "TYPE": "E"
+  },
+  "EARNYILD": {
+    "DESC_NAME": "盈利能力",
+    "TYPE": "E"
+  },
+  "GROWTH": {
+    "DESC_NAME": "成长性",
+    "TYPE": "E"
+  },
+  "Income": {
+    "DESC_NAME": "利息收益",
+    "TYPE": "B"
+  },
+  "LEVERAGE": {
+    "DESC_NAME": "杠杆率",
+    "TYPE": "E"
+  },
+  "LIQUIDTY": {
+    "DESC_NAME": "流动性",
+    "TYPE": "E"
+  },
+  "MOMENTUM": {
+    "DESC_NAME": "动量",
+    "TYPE": "E"
+  },
+  "RESVOL": {
+    "DESC_NAME": "波动率",
+    "TYPE": "E"
+  },
+  "Selection": {
+    "DESC_NAME": "选券收益",
+    "TYPE": "B"
+  },
+  "ShiftReturn": {
+    "DESC_NAME": "国债平移",
+    "TYPE": "B"
+  },
+  "SIZE": {
+    "DESC_NAME": "市值",
+    "TYPE": "E"
+  },
+  "SIZENL": {
+    "DESC_NAME": "非线性市值",
+    "TYPE": "E"
+  },
+  "SpreadEffect": {
+    "DESC_NAME": "利差收益",
+    "TYPE": "B"
+  },
+  "TwistReturn": {
+    "DESC_NAME": "国债扭曲",
+    "TYPE": "B"
+  }
+}
