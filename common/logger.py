@@ -11,7 +11,7 @@ flow_log = logging.getLogger("flow_log")
 handler = logging.FileHandler('logs/data.log')
 handler.setLevel(logging.INFO)
 
-# create a logging format
+# create a logger format
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 handler.setFormatter(formatter)
 # add the handlers to the logger

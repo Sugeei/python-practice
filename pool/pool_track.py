@@ -15,7 +15,8 @@ def abortable_worker(func, *args, **kwargs):
     timeout = kwargs.get('timeout', None)
     p = ThreadPool(1)
     res = p.apply_async(func, args=args)
-    try:
+    try:  # 此处加断点， 我的理解是apply_async新启动一个线程开始执行func,
+        # 断点加在这里进程应该在执行才对。 但是事实上观察到的结果日志没有往下走
         status, message = res.get(timeout=timeout)
     except multiprocessing.TimeoutError:
         status = "FAIL"

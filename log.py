@@ -1,9 +1,9 @@
 # coding=utf-8
 
-import logging
-logging.basicConfig(level=logging.INFO)
+import logger
+logger.basicConfig(level=logger.INFO)
 print (__name__)
-logger = logging.getLogger(__name__)
+logger = logger.getLogger(__name__)
 
 logger.info('Start reading database')
 # read database here
