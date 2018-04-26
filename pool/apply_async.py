@@ -9,9 +9,9 @@ import random
 # logger.info("test")
 
 FORMAT = "%(asctime)-15s %(clientip)s %(user)-8s %(message)s"
-logger.basicConfig(format=FORMAT)
+# logger.basicConfig(format=FORMAT)
 # d = {'clientip': '192.168.0.1', 'user': 'fbloggs'}
-logger.warning("Protocol problem: %s", "connection reset")
+# logger.warning("Protocol problem: %s", "connection reset")
 
 
 def func(msg):
