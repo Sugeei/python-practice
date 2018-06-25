@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-from module.module import modulea ,printb
+from module import modulea ,printb
 
 printb()
 

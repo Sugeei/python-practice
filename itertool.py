@@ -19,6 +19,7 @@ import itertools
 
 a = [0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0]
 
+print ("---- itertools.groupby ----")
 print sorted([len(list(group)) for key, group in itertools.groupby(a)])[-1]
 
 # ```
@@ -51,7 +52,14 @@ print sorted([len(list(group)) for key, group in itertools.groupby(a)])[-1]
 
 ```
 """
-# itertools.cycle('0123')
+
+iter = itertools.cycle('0123')
+print ("---- itertools.cycle ----")
+print iter.next()
+print iter.next()
+print iter.next()
+print iter.next()
+print iter.next()
 
 def get_iter_index(df, w):
     # 参数 df 是一个pandas dataframe, 可以理解为是一个矩阵，由行列数据构成

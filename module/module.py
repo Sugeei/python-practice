@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 class modulea():
-    def __init__():
+    def __init__(self):
         __self__ = ''
 
     def printa(self):
@@ -11,4 +11,3 @@ class modulea():
 
 def printb():
     print "i am module b"
-

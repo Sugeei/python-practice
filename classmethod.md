@@ -40,3 +40,7 @@ http://pythoncentral.io/difference-between-staticmethod-and-classmethod-in-pytho
 Meaning of @classmethod and @staticmethod for beginner?https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-beginner
 
 
+# The difference between @classmethod and @staticmethod
+- classmethod can be used to provide another init method for class
+- classmethod defines a function that should be ihnerited by subclasses
+- static method
