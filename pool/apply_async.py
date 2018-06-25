@@ -16,7 +16,7 @@ FORMAT = "%(asctime)-15s %(clientip)s %(user)-8s %(message)s"
 
 def func(msg):
     print('msg: ', msg)
-    time.sleep(random.uniform(1, 10))
+    time.sleep(random.uniform(99, 107))
     print('******** msg %s' % msg)
     return 'func_return: %s' % msg
 
@@ -24,7 +24,8 @@ def func(msg):
 if __name__ == '__main__':
     # apply_async
     print('\n--------apply_async------------')
-    pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
+    # pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
+    pool = multiprocessing.Pool(processes=2)
     results = []
     for i in range(10):
         msg = 'hello world %d' % i

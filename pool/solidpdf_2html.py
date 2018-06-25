@@ -23,36 +23,36 @@
 #  */
 #
 # /** Copyright © 2013-2016 DataYes, All Rights Reserved. */
-from datetime import *
-import Queue
-import json
-import multiprocessing
-import os
-import shutil
-import subprocess
-import sys
-import time
-from decimal import Decimal, ROUND_HALF_UP
-from threading import *
-import MySQLdb
-import pymongo
-import schedule
-from flask import Flask, request, jsonify
-from flask_restful import Resource, Api
-from pymongo import ReturnDocument
-
-import report_env
-import research_convert
-import util
-import logging
-from logging.handlers import SocketHandler, DEFAULT_TCP_LOGGING_PORT
-from chinese_char_detector import ChDetector
-from conf.logger import logger
-from infrom_sender import Informer
-from converter import PostConverter
-from converter import Converter
-from multiprocessing import Manager
-import redis
+# from datetime import *
+# import Queue
+# import json
+# import multiprocessing
+# import os
+# import shutil
+# import subprocess
+# import sys
+# import time
+# from decimal import Decimal, ROUND_HALF_UP
+# # from threading import *
+# import MySQLdb
+# import pymongo
+# import schedule
+# from flask import Flask, request, jsonify
+# from flask_restful import Resource, Api
+# from pymongo import ReturnDocument
+#
+# # import report_env
+# # import research_convert
+# # import util
+# import logging
+# from logging.handlers import SocketHandler, DEFAULT_TCP_LOGGING_PORT
+# from chinese_char_detector import ChDetector
+# from conf.logger import logger
+# from infrom_sender import Informer
+# from converter import PostConverter
+# from converter import Converter
+# # from multiprocessing import Manager
+# # import redis
 
 logger1 = logging.getLogger()
 # logger1.setLevel(logging.DEBUG)
