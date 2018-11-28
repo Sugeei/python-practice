@@ -27,7 +27,6 @@ for state, city in city_list:
 for state, cities in cities_by_state.iteritems():
     print state, ', '.join(cities)
 
-
 a = range(10)
 b = range(20)[10:]
 for key, value in zip(a,b):
