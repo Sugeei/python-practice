@@ -2,6 +2,12 @@ import time
 import os
 import random
 from multiprocessing import Process, Queue, Lock
+import psutil
+
+# Some lists with our favorite characters
+names = [['Master Shake', 'Meatwad', 'Frylock', 'Carl'],
+         ['Early', 'Rusty', 'Sheriff', 'Granny', 'Lil'],
+         ['Rick', 'Morty', 'Jerry', 'Summer', 'Beth']]
 
 
 # Producer function that places data on the Queue
@@ -38,6 +44,8 @@ def producer(queue, lock):
 # The consumer function takes data off of the Queue
 def consumer(queue, lock):
     # Synchronize access to the console
+
+    psutil.cpu_times_percent(interval=1, percpu=False)
     with lock:
         print('Starting consumer => {}'.format(os.getpid()))
 
@@ -55,10 +63,6 @@ def consumer(queue, lock):
 
 if __name__ == '__main__':
 
-    # Some lists with our favorite characters
-    names = [['Master Shake', 'Meatwad', 'Frylock', 'Carl'],
-             ['Early', 'Rusty', 'Sheriff', 'Granny', 'Lil'],
-             ['Rick', 'Morty', 'Jerry', 'Summer', 'Beth']]
 
     # Create the Queue object
     queue = Queue()
@@ -96,4 +100,6 @@ if __name__ == '__main__':
 
     print('Parent process exiting...')
     #
+    while True:
+        time.sleep(1)
     # https://stonesoupprogramming.com/2017/09/11/python-multiprocessing-producer-consumer-pattern/
