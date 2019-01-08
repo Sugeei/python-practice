@@ -1,0 +1,31 @@
+On the last one we hit a snag:
+
+error: could not apply 3e86ed8... Added Copy Patron button to circ-toolbar
+hint: after resolving the conflicts, mark the corrected paths
+hint: with 'git add <paths>' or 'git rm <paths>'
+hint: and commit the result with 'git commit -c 3e86ed8'
+
+Unfortunately it doesn't tell us what the problems are, so we type:
+
+git status
+
+On branch bug-3475
+Your branch is ahead of 'origin/master' by 2 commits.
+Unmerged paths:
+(use "git reset HEAD <file>..." to unstage)
+(use "git add/rm <file>..." as appropriate to mark resolution)
+both modified:      koha-tmpl/intranet-tmpl/prog/en/includes/circ-toolbar.inc
+
+Now we can see that circ-toolbar.inc is the file with the conflict. Open the file, look for the standard "<<<<<<< HEAD" marker and edit as necessary. When finished:
+
+git add koha-tmpl/intranet-tmpl/prog/en/includes/circ-toolbar.inc
+
+And then:
+
+git commit -c 3e86ed8
+
+https://wiki.koha-community.org/wiki/Using_Git_Cherry_Pick#Resolve_conflicts 
+
+https://github.com/geeeeeeeeek/git-recipes/wiki/5.2-%E4%BB%A3%E7%A0%81%E5%9B%9E%E6%BB%9A%EF%BC%9AReset%E3%80%81Checkout%E3%80%81Revert-%E7%9A%84%E9%80%89%E6%8B%A9
+
+http://gitbook.liuhui998.com/4_9.html

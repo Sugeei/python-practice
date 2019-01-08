@@ -1,0 +1,2 @@
+clean untracked files forcelly
+git clean -f 

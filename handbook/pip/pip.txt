@@ -1,0 +1,16 @@
+﻿查看当前安装包的版本
+pip show --files pika
+pip show pandas
+
+uninstall
+pip uninstall pika
+
+安装指定版本号
+pip install -v pycrypto==2.3
+
+pip install mysqlclient
+
+升级版本
+
+修改pip源
+将配置内容写入 C:\Users\<用户名>\pip\pip.ini  文件
