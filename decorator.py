@@ -4,7 +4,8 @@
 def current_user_id():
     return 111
     """
-    this function returns the current logged in user id, if the user is not authenticated then return None
+    this function returns the current logged in user id, 
+    if the user is not authenticated then return None
     """
 
 
@@ -18,7 +19,8 @@ def get_permissions(user_id):
     else:
         return []
     """
-    returns a list of permission strings for the given user. For example ['logged_in','administrator','premium_member']
+    returns a list of permission strings for the given user. 
+    For example ['logged_in','administrator','premium_member']
     """
 
 
@@ -58,7 +60,8 @@ def requires_premium_member(fn):
 @requires_admin
 def delete_user(iUserId):
     """
-    delete the user with the given Id. This function is only accessable to users with administrator permissions
+    delete the user with the given Id.
+    This function is only accessable to users with administrator permissions
     """
 
 
@@ -84,14 +87,17 @@ def require_permission(strPermission):
             if strPermission in lPermissions:
                 return fn(*args, **kwargs)
             raise Exception("permission denied")
+
         return ret_fn
+
     return decorator
 
 
 @require_permission("administrator")
 def delete_user(iUserId):
     """
-    delete the user with the given Id. This function is only accessable to users with administrator permissions
+    delete the user with the given Id.
+    This function is only accessable to users with administrator permissions
     """
 
 
