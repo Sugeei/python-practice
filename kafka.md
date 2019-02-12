@@ -1,3 +1,8 @@
+kafka 数据备份与一致性方案
+1. master slave
+2. In-sync replica, 同步复制兼异步复制
+
+
 # function send()
 # notice the "key" parameter
     def send(self, topic, value=None, key=None, partition=None, timestamp_ms=None):
