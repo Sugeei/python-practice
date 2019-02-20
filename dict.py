@@ -1,6 +1,11 @@
 # coding=utf-8
 from collections import defaultdict
 
+newdict = defaultdict(int)
+for i in range(10):
+    newdict["key"] += i
+print newdict
+
 # https://www.accelebrate.com/blog/using-defaultdict-python/
 # A defaultdict will never raise a KeyError
 ice_cream = defaultdict(lambda: 'Vanilla')

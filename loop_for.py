@@ -17,9 +17,15 @@
 # ```
 import itertools
 
-a = [0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+# a = [0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0]
+#
+# for i in range(10):
+#     print i
+# else:
+#     print i+1
 
 for i in range(10):
-    print i
-else:
-    print i+1
+    for j in ["a", "b", "c"]:
+        if j=='b':
+            print j, i
+            break # break 内层循环
