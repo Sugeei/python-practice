@@ -10,6 +10,41 @@ logger.info("start log second")
 logger.debug("start log debug")  # level=logging.DEBUG这条log才会打印出来
 
 
+
+import os
+import logging.config
+
+import yaml
+
+
+def setup_logging(
+        default_path='logging.yaml',
+        default_level=logging.INFO,
+        env_key='LOG_CFG'
+):
+    """Setup logging configuration
+
+    """
+    path = default_path
+    value = os.getenv(env_key, None)
+    if value:
+        path = value
+    if os.path.exists(path):
+        with open(path, 'rt') as f:
+            config = yaml.safe_load(f.read())
+        logging.config.dictConfig(config)
+        # logger = logging.getLogger('dev')
+    else:
+        logging.basicConfig(level=default_level)
+    return logging
+
+
+logger = setup_logging().getLogger("my_module")
+logger.debug("debug")
+logger.info("info")
+logger.warning("warn")
+
+
 #
 # logger = logging.getLogger(__name__)
 # logger.setLevel(logging.DEBUG)
@@ -56,7 +91,6 @@ class Logger(object):
         self.handler.close()
         self._logger.removeHandler(self.handler)
 
-
 #
 # #
 # # with open(logdir + "/common/logging.yaml") as f:
@@ -64,9 +98,9 @@ class Logger(object):
 # #     ycfg.setdefault('version', 1)
 # #     logging.config.dictConfig(ycfg)
 # # logger = logging.getLogger("data_prd_consensus")
-#
-alogger = Logger('test', logging.DEBUG).get()
-alogger.debug("t aa ")
+# #
+# alogger = Logger('test', logging.DEBUG).get()
+# alogger.debug("t aa ")
 #
 # # consensus_logger = logging.getLogger("data_prd_consensus")
 # #
