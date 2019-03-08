@@ -1,2 +1,6 @@
 2019-03-08 17:01:21,243 - my_module - INFO - info
 2019-03-08 17:01:21,243 - my_module - WARNING - warn
+2019-03-08 17:12:44,128 - my_module - INFO - info
+2019-03-08 17:12:44,128 - my_module - WARNING - warn
+2019-03-08 17:23:17,168 - my_module - INFO - info
+2019-03-08 17:23:17,168 - my_module - WARNING - warn

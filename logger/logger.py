@@ -40,10 +40,12 @@ def setup_logging(
 
 
 logger = setup_logging().getLogger("my_module")
+samplelogger = setup_logging().getLogger("sample")
 logger.debug("debug")
 logger.info("info")
 logger.warning("warn")
 
+samplelogger.info("samplelogger test")
 
 #
 # logger = logging.getLogger(__name__)
