@@ -1,0 +1,2 @@
+git remote add upstream git@git.datayes.com:dataifs/dataifs-data-production.git
+git remote add upstream https://[upstream guy's repo url]

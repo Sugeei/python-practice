@@ -1,0 +1,8 @@
+find files with name starting with "filename" under root
+find / -name "filename*" 
+
+What is the difference between `sh` and `source`?
+https://stackoverflow.com/questions/13786499/what-is-the-difference-between-sh-and-source 
+
+display cpu info
+less /proc/cpuinfo

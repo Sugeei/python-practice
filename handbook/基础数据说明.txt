@@ -1,0 +1,1 @@
+证券代码及名称说明 ：select * from  sys_code

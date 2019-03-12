@@ -1,0 +1,1 @@
+git diff git_branch -- file_path

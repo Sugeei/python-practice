@@ -1,0 +1,7 @@
+git stash 
+https://stackoverflow.com/questions/15745045/how-do-i-resolve-git-saying-commit-your-changes-or-stash-them-before-you-can-me
+将当前工作区的修改另存。然后可以切换到其它分支
+
+https://longair.net/blog/2009/04/16/git-fetch-and-merge/
+
+git stash pop

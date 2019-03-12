@@ -1,0 +1,15 @@
+https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely
+
+Deleting a local branch:
+
+git branch --delete <branch>
+
+
+Deleting a local remote-tracking branch:
+
+git branch --delete --remotes origin/0.3.x
+
+
+Deleting a remote branch:
+
+git push origin --delete <branch>

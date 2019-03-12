@@ -24,3 +24,6 @@ mongo 查询， 筛选列，不全部显示
 - when get error, first thing to do is figure out what the problem really is.
 I always fail to do that because lacking of patience to read the error message clearly.
 -
+
+# 收集的学习与练习资料
+https://pycoders.com/one-more-step
