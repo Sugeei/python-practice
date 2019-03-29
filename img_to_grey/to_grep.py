@@ -58,14 +58,15 @@ def image_grey(sta, end, depths=10):
 def main():
     xs = 10
     start_time = time.clock()
-    # startss = os.listdir(r"C:\Users\Administrator\Desktop\gugong")
-    sta = 'python-programming-language.png'
+    startss = os.listdir("imgs")
+    # sta = 'python-programming-language.png'
+    # sta = 'star.jpg'
     # time.sleep(2)
     end = 'grep.png'
-    # for starts in startss:
-    # start = ''.join(starts)
-    # sta = 'C:/Users/Administrator/Desktop/gugong/' + start
-    # end = 'C:/Users/Administrator/Desktop/gugong/' + 'HD_' + start
+    for starts in startss:
+        start = ''.join(starts)
+        sta = 'imgs/' + start
+        end = 'imgs_grey/' + start
     image_grey(sta=sta, end=end, depths=xs)
     image(sta=sta, end=end, depths=xs)
 
