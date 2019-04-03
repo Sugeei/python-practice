@@ -27,3 +27,4 @@ I always fail to do that because lacking of patience to read the error message c
 
 # 收集的学习与练习资料
 https://pycoders.com/one-more-step
+https://realpython.com/run-python-scripts/
