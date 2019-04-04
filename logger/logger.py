@@ -1,7 +1,10 @@
 # coding=utf8
 import logging
 
-logging.basicConfig(filename='example.log', filemode='w', level=logging.DEBUG)
+FORMAT = "%(asctime)s [%(levelname)s] %(threadName)s Line:%(lineno)d - %(message)s"
+logging.basicConfig(filename='consensus.log', format=FORMAT, level=logging.DEBUG)
+
+# logging.basicConfig(filename='example.log', filemode='w', level=logging.DEBUG)
 # example.log 默认与当前文件同级
 # filemode='w' 使得每次运行重写整个文件， 上一次运行的log会被覆盖
 logger = logging.getLogger(__name__)
