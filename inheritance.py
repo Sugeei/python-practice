@@ -6,7 +6,7 @@
 # Overriding means that the first definition is not available anymore.
 # In C++, Having a function with a different number of parameters is another way of function overloading.
 #
-
+# base
 class Person():
     def __init__(self, first, last, age):
         self.firstname = first
@@ -16,7 +16,11 @@ class Person():
     def __str__(self):
         return self.firstname + " " + self.lastname + ", " + str(self.age)
 
+    def word(self):
+        print("my firstname is %s" % self.firstname)
 
+
+# inherit Person
 class Employee(Person):
     def __init__(self, first, last, age, staffnum):
         Person.__init__(self, first, last, age)
@@ -31,6 +35,7 @@ y = Employee("Homer", "Simpson", 28, "1007")
 
 print(x)
 print(y)
+
 
 #########################################################################
 

@@ -7,7 +7,7 @@ import pymongo
 from config import logger
 from sqlalchemy import create_engine
 import re
-import redis
+import redis_test
 
 
 class MongoConn(object):
@@ -71,9 +71,9 @@ class RedisConn(object):
 
     def connect(self):
         match = re.search('^(\\w+)://(.+):(\\d+).*', self.redis_config)
-        logger.info("redis connection creation with config = %s" % self.redis_config)
+        logger.info("redis_test connection creation with config = %s" % self.redis_config)
         if not match:
-            return redis.Redis(host='redis', port=6379)
+            return redis_test.Redis(host='redis_test', port=6379)
         else:
             logger.info("%s %s %s %s" % (match.group(0), match.group(1), match.group(2), match.group(3)))
-            return redis.Redis(host=match.group(2), port=match.group(3))
+            return redis_test.Redis(host=match.group(2), port=match.group(3))

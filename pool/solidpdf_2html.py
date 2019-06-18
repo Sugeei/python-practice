@@ -52,7 +52,7 @@
 # from converter import PostConverter
 # from converter import Converter
 # # from multiprocessing import Manager
-# # import redis
+# # import redis_test
 
 logger1 = logging.getLogger()
 # logger1.setLevel(logging.DEBUG)

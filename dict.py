@@ -34,8 +34,10 @@ for state, cities in cities_by_state.iteritems():
 
 a = range(10)
 b = range(20)[10:]
-for key, value in zip(a,b):
+for key, value in zip(a, b):
     print key, value
+
+
 # # from collections import Counter
 # from collections import defaultdict
 #
@@ -51,3 +53,12 @@ for key, value in zip(a,b):
 #
 # # https://docs.python.org/2/library/collections.html
 # # print Counter([1, 1, 1, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]).most_common()
+
+# https://stackoverflow.com/questions/13264511/typeerror-unhashable-type-dict
+# hashable
+def freeze(d):
+    if isinstance(d, dict):
+        return frozenset((key, freeze(value)) for key, value in d.items())
+    elif isinstance(d, list):
+        return tuple(freeze(value) for value in d)
+    return d
