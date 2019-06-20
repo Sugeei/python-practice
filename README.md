@@ -58,4 +58,5 @@ __foo: this has real meaning: the interpreter replaces this name with _classname
 class level and instance level variables
 https://www.digitalocean.com/community/tutorials/understanding-class-and-instance-variables-in-python-3
 
-
+不可中断的睡眠状态
+w    S       进程状态(D=不可中断的睡眠状态,R=运行,S=睡眠,T=跟踪/停止,Z=僵尸进程)
