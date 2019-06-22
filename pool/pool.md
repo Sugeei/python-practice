@@ -3,6 +3,8 @@ apply_async 将所有任务先放到等待队列，如果任务量过大，可�
 如果传给pool的class实例的参数中有一个100M的dict, 查看它们的Id会发现所有地址都一样， 也就是说没有copy,用的是同一个地址的变量，
 但是查看占用内存会发现所有实例的大小都是100多M
 
+# python pool vs process performance
+
 timeout
 https://stackoverflow.com/questions/29494001/how-can-i-abort-a-task-in-a-multiprocessing-pool-after-a-timeout
 

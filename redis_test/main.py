@@ -19,35 +19,57 @@ def redis_connect():
     return r
 
 
-r = redis_connect()
-r.zadd("test", 'abc', 1)
+def redis_pipeline():
+    r = redis.Redis(connection_pool=redis_pool)
+    pipeline = r.pipeline(transaction=False)
+
+    return pipeline
+
+
+# r = redis_connect()
+# r.zadd("test", 'abc', 1)
 
 
 #
 
 
 def pop_redis(key, score):
+    """
+    取指定score
+    :param key:
+    :param score:
+    :return:
+    """
     redis = redis_connect()
     result_list = redis.zrevrangebyscore(key, score, score)
-
     # To remove from redis
-    redis.zremrangebyscore(key, score, score)
+    # redis.zremrangebyscore(key, score, score)
     return result_list
 
 
-def get_redis(key):
+def get_redis(key, score=None):
+    """
+    取给定key的所有值
+    :param key:
+    :return:
+    """
     redis = redis_connect()
     # return redis.get(key)
-    return redis.zrange(key, 0, 999999999)
+    if score is None:
+        result = redis.zrange(key, 0, 999999999)
+    else:
+        result = redis.zrange(key, score, score)
+    return result
 
 
 def put_redis(key, score, data):
-    redis = redis_connect()
-    redis.zadd(key, data, score)
+    # redis = redis_connect()
+    p = redis_pipeline()
+    p.zadd(key, data, score)
     # for item in data_list:
 
 
-def range_store(key, scorename, data):
+def range_store(key, data):
     """
     将整张表缓存在redis中
     :param key:
@@ -55,17 +77,20 @@ def range_store(key, scorename, data):
     :param data:
     :return:
     """
-
+    p = redis_pipeline()
     for i in range(len(data)):
         # 逐条存储， 用create date + ticker_symbol做 key
         row = data.iloc[i]
-        score = row[scorename]
+        score = i
         # createdate = datetime.strptime(row['create_date'], "%Y-%m-%d").strftime("%Y%m%d")
         # score = int(str(year) + ticker + str(org))
-        put_redis(key, score, row.to_json(orient='records'))
+        p.zadd(key, {row.to_json(): score})
+        # p.execute()
+        # p.zadd(key, {row: score})
+    p.execute()
 
 
-def range_read(key, cloumns=None):
+def range_read(key, score=None):
     """
     从redis中读出整个key拼成df
     :param key:
@@ -73,20 +98,20 @@ def range_read(key, cloumns=None):
     :return:
     """
     df = pd.DataFrame()
-    data = get_redis(key)
+    # data = get_redis(key)
     for item in get_redis(key):
-        df.append(pd.DataFrame([json.loads(item)]))
-        df.append(pd.DataFrame(data)）
-
+        df = df.append(pd.DataFrame([json.loads(item)]))
+        # df.append(pd.DataFrame(data))
     return df
 
 
 if __name__ == "__main__":
-
+    # store data into redis
     # range_store('org_predict', "report_search_id", org_predict_df)
     org_predict_df.columns
     #
     df = range_read('org_predict', org_predict_df.columns)
+    pass
     # for i in range(len(data)):
     #     # 逐条存储， 用create date + ticker_symbol做 key
     #     row = org_predict_df.iloc[i]
