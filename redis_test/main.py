@@ -107,7 +107,7 @@ def range_read(key, score=None):
 
 if __name__ == "__main__":
     # store data into redis
-    # range_store('org_predict', "report_search_id", org_predict_df)
+    range_store('org_predict', "report_search_id", org_predict_df)
     org_predict_df.columns
     #
     df = range_read('org_predict', org_predict_df.columns)

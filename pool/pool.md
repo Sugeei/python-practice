@@ -58,5 +58,6 @@ operator = Operator(ticker, datelist, init_data, defaultdict(list))
 res = p.apply_async(run, args=(operator,))
 ```
 
-# TODO
+# TODO_DONE
 https://stackoverflow.com/questions/42584525/python-multiprocessing-debugging-oserror-errno-12-cannot-allocate-memory
+When using a multiprocessing.Pool, the default way to start the processes is fork. The issue with fork is that the entire process is duplicated. (see details here). Thus if your main process is already using a lot of memory, this memory will be duplicated, reaching this MemoryError.
