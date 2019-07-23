@@ -8,11 +8,15 @@
 - multiprocess
 - import
 
+# abstract class, abc, ABC
+https://www.python-course.eu/python3_abstract_classes.php
 # reading list
 https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
 
 
 # TODO
+super()
+inheritance
 
 pytest
 
