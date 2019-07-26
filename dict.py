@@ -107,3 +107,22 @@ d = {"key": 'abc',
 t = Test()
 t(**d)
 # test_kwargs(name="python", value="5", level="master")
+
+# in Python any empty  list, string, or tuple is falsy.
+
+import bs4
+
+print(repr(bs4.BeautifulSoup("")))
+print(str(bs4.BeautifulSoup("")))
+import os
+
+root = os.path.dirname(__file__)
+
+
+def fullpath(*args):
+    args = args.insert(root)
+    return os.path.join(*args)
+
+
+p = fullpath(['a', 'b', 'c'])
+print(p)

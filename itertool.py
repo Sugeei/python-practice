@@ -20,7 +20,7 @@ import itertools
 a = [0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0]
 
 print ("---- itertools.groupby ----")
-print sorted([len(list(group)) for key, group in itertools.groupby(a)])[-1]
+# print sorted([len(list(group)) for key, group in itertools.groupby(a)])[-1]
 
 # ```
 # itertools.groupby方法类似sql语法中的groupby, 用于给数据分组。但不同于sql中按值分组， itertools.groupby按值与位置两个条件分组。值相待且相邻才会归为一组。然后可以对每个组做类似sql中的那种聚合运算。
@@ -55,11 +55,11 @@ print sorted([len(list(group)) for key, group in itertools.groupby(a)])[-1]
 
 iter = itertools.cycle('0123')
 print ("---- itertools.cycle ----")
-print iter.next()
-print iter.next()
-print iter.next()
-print iter.next()
-print iter.next()
+# print iter.next()
+# print iter.next()
+# print iter.next()
+# print iter.next()
+# print iter.next()
 
 def get_iter_index(df, w):
     # 参数 df 是一个pandas dataframe, 可以理解为是一个矩阵，由行列数据构成
@@ -80,3 +80,21 @@ def get_iter_index(df, w):
 # a6b348958f449949df42a6d3a2e542c000 / 00143200162233153
 # 835
 # cfdd1a541a18ddc15059e3ddeec000
+
+
+# How to sort a Python dict by value
+# (== get a representation sorted by value)
+
+xs = {'a': 4, 'b': 3, 'c': 2, 'd': 1}
+
+xx = sorted(xs.items(), key=lambda x: x[1])
+# [('d', 1), ('c', 2), ('b', 3), ('a', 4)]
+# sorted(xs.items(), key=lambda x:x[])
+print(xs)
+print(sorted(xs.items(), key=lambda x: x[0]))
+# Or:
+print(xx)
+
+# >>> import operator
+# >>> sorted(xs.items(), key=operator.itemgetter(1))
+# [('d', 1), ('c', 2), ('b', 3), ('a', 4)]
