@@ -4,7 +4,7 @@ from collections import defaultdict
 newdict = defaultdict(int)
 for i in range(10):
     newdict["key"] += i
-print newdict
+# print newdict
 
 # https://www.accelebrate.com/blog/using-defaultdict-python/
 # A defaultdict will never raise a KeyError
@@ -12,15 +12,15 @@ ice_cream = defaultdict(lambda: 'Vanilla')
 ice_cream['Sarah'] = 'Chunky Monkey'
 print(ice_cream["e"])
 print(ice_cream["Sarah"])
-for item, value in ice_cream.iteritems():
-    print item, value
+# for item, value in ice_cream.iteritems():
+#     print item, value
 
 # In the following example, a defaultdict is used for counting.
 food_list = 'spam spam spam spam spam spam eggs spam'.split()
 food_count = defaultdict(int)  # default value of int is 0
 for food in food_list:
     food_count[food] += 1  # increment element's value by 1
-print dict(food_count)
+# print dict(food_count)
 #
 
 # In the next example, we start with a list of states and cities. We want to build a dictionary where the keys are the state abbreviations and the values are lists of all cities for that state
@@ -29,13 +29,15 @@ city_list = [('TX', 'Austin'), ('TX', 'Houston'), ('NY', 'Albany'), ('NY', 'Syra
 cities_by_state = defaultdict(list)
 for state, city in city_list:
     cities_by_state[state].append(city)
-for state, cities in cities_by_state.iteritems():
-    print state, ', '.join(cities)
+# for state, cities in cities_by_state.iteritems():
+#     print state, ', '.join(cities)
 
 a = range(10)
 b = range(20)[10:]
-for key, value in zip(a, b):
-    print key, value
+
+
+# for key, value in zip(a, b):
+#     print key, value
 
 
 # # from collections import Counter
@@ -62,3 +64,65 @@ def freeze(d):
     elif isinstance(d, list):
         return tuple(freeze(value) for value in d)
     return d
+
+
+# #
+# a = {'a': 1, 'b': 2}
+# b = {'c': 3, 'd': 4}
+# print({**a, **b})
+# print(id(a))
+#
+
+# # print(**a)
+# def temp(**kwargs):
+#     for key, val in kwargs.iterms():
+#         print(key, val)
+#
+
+# temp(a)
+# to pass multi key value pair
+class Test:
+    def __init__(self):
+        pass
+
+    def __call__(self, key, vaule, **kwargs):
+        print(key, vaule)
+        print('---------------------')
+        if kwargs is not None:
+            for key, value in kwargs.items():
+                print("{} = {}".format(key, value))
+            # Or you can visit kwargs like a dict() object
+            # for key in kwargs:
+            #    print("{} = {}".format(key, kwargs[key]))
+
+
+# def test_kwargs(key, vaule, **kwargs):
+
+
+d = {"key": 'abc',
+     "vaule": '123',
+     "first": 'nnn',
+     "other": 'some other thing'}
+
+t = Test()
+t(**d)
+# test_kwargs(name="python", value="5", level="master")
+
+# in Python any empty  list, string, or tuple is falsy.
+
+import bs4
+
+print(repr(bs4.BeautifulSoup("")))
+print(str(bs4.BeautifulSoup("")))
+import os
+
+root = os.path.dirname(__file__)
+
+
+def fullpath(*args):
+    args = args.insert(root)
+    return os.path.join(*args)
+
+
+p = fullpath(['a', 'b', 'c'])
+print(p)

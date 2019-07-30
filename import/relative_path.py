@@ -1,3 +1,3 @@
 # coding=utf8
 
-from submodule import subscript
+from .submodule import subscript

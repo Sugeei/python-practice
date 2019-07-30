@@ -8,7 +8,10 @@
 #
 # base
 class Person():
+    count = 0
+
     def __init__(self, first, last, age):
+        type(self).count += 1
         self.firstname = first
         self.lastname = last
         self.age = age
@@ -16,18 +19,35 @@ class Person():
     def __str__(self):
         return self.firstname + " " + self.lastname + ", " + str(self.age)
 
+    def __del__(self):
+        type(self).count -= 1
+
+    @staticmethod
+    def personcount():
+        """
+        https://www.python-course.eu/python3_class_and_instance_attributes.php
+        :return:
+        """
+        return Person.count
+
     def word(self):
         print("my firstname is %s" % self.firstname)
 
 
+# TODO how to count the instances
 # inherit Person
 class Employee(Person):
     def __init__(self, first, last, age, staffnum):
         Person.__init__(self, first, last, age)
+        self.id = Person.count + 1
+        Person.count += 1
         self.staffnumber = staffnum
 
     def __str__(self):
         return Person.__str__(self) + ", " + self.staffnumber
+
+    def word(self):
+        print("sub class employee ")
 
 
 x = Person("Marge", "Simpson", 36)
@@ -36,7 +56,8 @@ y = Employee("Homer", "Simpson", 28, "1007")
 print(x)
 print(y)
 
-
+x.word()
+y.word()
 #########################################################################
 
 # 在python中，类中的变量在内部被当作字典处理。
@@ -52,22 +73,3 @@ print(y)
 # 最后，如果父类改变了这个变量的值(例如，我们执行Parent.x = 3)，
 # 所有没有覆盖这个参数值的子类(在这个例子中覆盖了参数的就是Child2)都会受到影响，
 # 这就是为什么第三个print语句的输出为3 2 3
-
-
-class Parent(object):
-    x = 1
-
-
-class Child1(Parent):
-    pass
-
-
-class Child2(Parent):
-    pass
-
-
-print Parent.x, Child1.x, Child2.x
-Child1.x = 2
-print Parent.x, Child1.x, Child2.x
-Parent.x = 3
-print Parent.x, Child1.x, Child2.x

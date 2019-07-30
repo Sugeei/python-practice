@@ -24,3 +24,4 @@ def printb():
 # After initialization, Python programs can modify sys.path. The directory containing the script being run is placed at the beginning of the search path, ahead of the standard library path. This means that scripts in that directory will be loaded instead of modules of the same name in the library directory. Source: Python 2 and 3
 
 # TODO 关于module, import, 路径相关， 一直没有整理的特别清楚
+#

@@ -168,7 +168,6 @@ class Operator(object):
 
     @consume
     def format_stock_income(self, prd_date):
-        # todo for table con_stock_income
         con_stock_income_df = self.finalcial_index_df[[
             'code', 'time_year', 'pred_date', 'con_type_income', 'con_income']]
 
@@ -204,7 +203,6 @@ class Operator(object):
 
     @consume
     def format_forecast_stk(self, prd_date):
-        # todo for con_forecast_stk
         con_forecast_stk_df = self.finalcial_index_df[['code',
                                                        'time_year',
                                                        'pred_date',
@@ -246,7 +244,6 @@ class Operator(object):
 
     @consume
     def to_update_db(self, data_df, target_table, uniq_keys, where_condition):
-        # todo
         target_conn = loader.create_connection(conn_type='consensus_expectation_target_db')
         result_df = self.to_add_crc(data_df, target_table, uniq_keys, target_conn)
         base.merge_2_table(
@@ -291,7 +288,6 @@ if __name__ == '__main__':
     # t2 = time.time()
     # print(t2 - t1)
     # 入参ticker, date
-    # todo check delist date
     # if delist_date is not None and pred_date_s >= delist_date.strftime(
     #             "%Y-%m-%d"):
     #

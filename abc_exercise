@@ -1,0 +1,32 @@
+from abc import ABC, abstractmethod
+import abc
+
+
+class AbstractClassExample(ABC):
+
+    @abstractmethod
+    def do_something(self):
+        print("Some implementation!")
+
+
+class AnotherSubclass(AbstractClassExample):
+    def do_something(self):
+        super().do_something()
+        print("The enrichment from AnotherSubclass")
+
+
+# AbstractClassExample()
+x = AnotherSubclass()
+x.do_something()
+
+
+# another way to define an abstract class
+class AbstarctDemo():
+    __metaclass__ = abc.ABCMeta
+
+    @abstractmethod
+    def value(self):
+        return 'Should never get here'
+
+
+AbstarctDemo()
