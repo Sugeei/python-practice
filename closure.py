@@ -14,6 +14,7 @@ origin = [0, 0]  # 坐标系统原点
 legal_x = [0, 50]  # x轴方向的合法坐标
 legal_y = [0, 50]  # y轴方向的合法坐标
 
+# https://www.programiz.com/python-programming/closure
 
 # 闭包 希望函数的每次执行结果，都是基于这个函数上次的运行结果
 # https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures
@@ -33,16 +34,16 @@ def create(pos=origin):
 
 
 player = create()  # 创建棋子player，起点为原点
-print player([1, 0], 10)  # 向x轴正方向移动10步
-print player([0, 1], 20)  # 向y轴正方向移动20步
-print player([-1, 0], 10)  # 向x轴负方向移动10步
+# print player([1, 0], 10)  # 向x轴正方向移动10步
+# print player([0, 1], 20)  # 向y轴正方向移动20步
+# print player([-1, 0], 10)  # 向x轴负方向移动10步
 
 
 def multipliers():
     return [lambda x: i * x for i in range(4)]
 
 
-print [m(2) for m in multipliers()]
+# print [m(2) for m in multipliers()]
 
 
 # 可以绕过这个问题的方法。
@@ -51,7 +52,7 @@ def multipliers2():
     for i in range(4): yield lambda x: i * x
 
 
-print [m(2) for m in multipliers2()]
+# print [m(2) for m in multipliers2()]
 
 # 也可以使用functools.partial函数
 from functools import partial
@@ -75,5 +76,5 @@ def lazy_sum(arr):
 
 f = lazy_sum([1, 2, 3, 4, 5])
 
-print reduce(lambda x, y: x + y, [1, 2, 3, 4, 5])
-print f()
+# print reduce(lambda x, y: x + y, [1, 2, 3, 4, 5])
+# print f()

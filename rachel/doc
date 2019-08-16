@@ -1,0 +1,9 @@
+https://www.cnblogs.com/jyxbk/p/7677877.html
+
+在MacOS上安装
+
+首先，确保你安装了dlib，以及该软件的Python绑定接口。如果没有的话，看这篇安装说明：https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf
+
+然后，用pip安装这个软件包：
+
+用Python代码如何完成人脸识别步骤阅读

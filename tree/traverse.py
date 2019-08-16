@@ -1,5 +1,5 @@
 # coding=utf8
-#!/usr/bin/env python
+# !/usr/bin/env python
 import json
 
 
@@ -8,17 +8,24 @@ class TreeNode():
     定义树结点为多个子结点，以及多个父节点
     """
     __groups = []
+    __count = 0  # 计数， 实例个数，表示共处理了多少个结点
 
     def __init__(self, name):
         self.ancestor_nodes = []
         self.descendant_nodes = []
         self.name = name
         self.__groups.append(name)
+        TreeNode.__count += 1
         self.visited = False
 
     def __repr__(self):
         return self.name
         # print(self.name)
+
+    # @property
+    @staticmethod
+    def get_count():
+        return TreeNode.__count
 
     def set_visited(self):
         self.visited = True
@@ -37,7 +44,6 @@ class TreeNode():
             if not node.visited:
                 return False
         return True
-        pass
         # if all ancestors have been visited return true
 
 
@@ -50,6 +56,10 @@ class Forest():
         self.preorder_paths = []
 
         self.factor_names = []
+
+    def count(self):
+        # 返回总共创建的结点实例的个数
+        return TreeNode.get_count()
 
     def new_node(self, name):
         if name not in self.factor_names:
@@ -110,8 +120,8 @@ class Forest():
         traverse_paths = []
         for node in self.root_nodes:
             # print(node)
-            path = [[]]  # 路径有金条
-            path=PreorderIterator(node).traverse(path, node)
+            path = [[]]  # 路径有多条
+            path = PreorderIterator(node).traverse(path, node)
             traverse_paths.extend(path)
         self.preorder_paths = traverse_paths
         pass
@@ -125,18 +135,29 @@ class Forest():
         pass
 
     def path_to(self, name):
-        candidates = []
-        for p in self.preorder_paths:
-            if name in p:
-                idx = p.index(name)
-                candidates.append(p[:idx])
-        candidates= sorted(candidates,key=lambda x: len(x),reverse=True)
-        dependences = set()
-        for ds in candidates:
-            for val in ds:
-                dependences.add(val)
-        return dependences
+        for n in self.root_nodes:
+            treenode = self.search_node(n, name)
+            if treenode is not None:
+                break
+
+        dependencepath = PreorderIterator.preorder_traverse(treenode, [])
+        return dependencepath
         # return reduce(lambda x,y:set(x).add(y), candidates)
+    # def path_to(self, name):
+    #     candidates = []
+    #     for p in self.preorder_paths:
+    #         if name in p:
+    #             idx = p.index(name)
+    #             candidates.append(p[:idx])
+    #     candidates = sorted(candidates, key=lambda x: len(x), reverse=True)
+    #     dependences = []
+    #     for ds in candidates:
+    #         for val in ds:
+    #             if val not in dependences:
+    #                 dependences.add(val)
+    #     return dependences
+    #     # return reduce(lambda x,y:set(x).add(y), candidates)
+
 
 class PreorderIterator(object):
     """
@@ -158,14 +179,14 @@ class PreorderIterator(object):
         #     return path
         from copy import deepcopy
         # treenode.set_visited()
-        if len(treenode.descendant_nodes)==0:
+        if len(treenode.descendant_nodes) == 0:
             newpath = deepcopy(path)
             for p in newpath:
                 p.append(treenode.name)
             return newpath
         else:
             # len(treenode.descendant_nodes)>0:
-            newpath=[]
+            newpath = []
             # for p in path:
             # p.appenend(treenode.name)
             for node in treenode.descendant_nodes:
@@ -194,6 +215,22 @@ class PreorderIterator(object):
 
         return self.node.value
 
+    @staticmethod
+    def preorder_traverse(node, path):
+        # if node.ancestor_visited_flag() is True:
+        #     node.set_visited()
+        #     path.append(node.name)
+        #     return path
+        if node.ancestor_visited_flag() is False:
+            for n in node.ancestor_nodes:
+                if n.visited is False:
+                    for i in PreorderIterator.preorder_traverse(n, []):
+                        if i not in path:
+                            path.append(i)
+        path.append(node.name)
+        node.set_visited()
+        return path
+
 
 if __name__ == "__main__":
     import os
@@ -201,9 +238,10 @@ if __name__ == "__main__":
     dir = os.path.dirname(os.path.realpath(__file__))
     dependenceforest = Forest()
     dependenceforest.build_from(os.path.join(dir, 'factors_dependence.json'))
-    dependenceforest.preorder_traverse()
+    # dependenceforest.preorder_traverse()
     print(dependenceforest.path_to('cashconversioncycle'))
-        # "cashconversioncycle")
+    # "cashconversioncycle")
+    print(dependenceforest.count())
     pass
 # root = Node(10)
 

@@ -1,4 +1,4 @@
-from traverse import Forest
+from tree.traverse import Forest
 # import
 import os
 

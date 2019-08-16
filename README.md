@@ -1,5 +1,7 @@
 # My private notebook for practicing python
 
+# TODO check, 继承类修改了基类的golbal var, 另一个继承类看到的基类的这个变量是改之前的还是之后的
+
 # function list
 - logging
 - classmethon
@@ -13,6 +15,7 @@ https://www.python-course.eu/python3_abstract_classes.php
 # reading list
 https://jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
 
+# timeit to measure the execution time
 
 # TODO
 super()
