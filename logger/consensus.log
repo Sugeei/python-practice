@@ -1,0 +1,4 @@
+2019-05-21 15:17:09,898 [INFO] MainThread Line:12 - start log second
+2019-05-21 15:17:09,898 [DEBUG] MainThread Line:13 - start log debug
+2019-05-21 15:19:52,375 [INFO] MainThread Line:12 - start log second
+2019-05-21 15:19:52,375 [DEBUG] MainThread Line:13 - start log debug
