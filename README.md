@@ -1,6 +1,11 @@
 # My private notebook for practicing python
 
 # TODO check, 继承类修改了基类的golbal var, 另一个继承类看到的基类的这个变量是改之前的还是之后的
+# https://stackoverflow.com/questions/6501121/difference-between-exit-and-sys-exit-in-python
+# https://zhuanlan.zhihu.com/p/37534850
+# Running a method as a background thread in Python
+# python try catch else
+# https://docs.python.org/2/library/collections.html#collections.namedtuple
 
 # function list
 - logging
