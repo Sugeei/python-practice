@@ -2,3 +2,17 @@ redis.exceptions.ResponseError: MISCONF Redis is configured to save RDB snapshot
 but is currently not able to persist on disk. Commands that may modify the data set are disabled.
 Please check Redis logs for details about the error.
 
+效率问题
+https://stackoverflow.com/questions/25960695/why-python-using-redis-is-so-slow
+http://blog.jmoz.co.uk/python-redis-py-pipeline/
+
+* the solution *
+Start by reading http://redis.io/topics/benchmarks
+
+In a nutshell, your python program generates too many roundtrips to Redis on a single connection, so you pay for the network latency at each iteration. My suggestions:
+
+    use pipelining - examples in Python here
+    use mget to retrieve several keys in one command
+    do more than 8000 iterations, this is too low to assess the performance
+
+Note that you will not reach the performance of redis-benchmark in Python, but you should be able to achieve more than 50K get operations per second with pipelining or mget.

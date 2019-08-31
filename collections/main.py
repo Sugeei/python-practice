@@ -18,3 +18,5 @@ my_car
 # Like tuples, namedtuples are immutable:
 my_car.color = 'blue'
 AttributeError: "can't set attribute"
+
+# https://docs.python.org/zh-cn/3/library/collections.html

@@ -41,53 +41,6 @@ from monitor import add_heartbeat
 status = True
 
 
-# 同步all
-class Sync(Thread):
-    """
-        Search for 'informed' tasks, update database
-        """
-
-    def __init__(self):
-        Thread.__init__(self)
-        Thread.setName(self, "SyncStatus")
-        self.setDaemon(True)
-        self.interval = 3600
-        self.timestamp = datetime.now()
-
-    def run(self):
-        while True:
-            # try:
-            result = mongodb.get_collection(mcollection).find(
-                {"insertTime": {"$gte": (datetime.today() - timedelta(seconds=self.interval + 1)).strftime("%Y-%m-%d")}
-                 },
-                {"reportId": 1, "title": 1, "tool": 1,
-                 "progress": 1, "taskId": 1, "report_type": 1,
-                 "s3_address": 1, "publishDate": 1},
-            )
-            logger.info("[ sync_all ] run on %s" % time.time())
-            logger.info("[ sync_all ] run on %s, task length is %s" % (time.time(), len(list(result))))
-
-            self.update_db(list(result))
-            time.sleep(self.interval)
-
-    def update_db(self, data):
-        if data is None or len(data) == 0:
-            return
-        df_data = pd.DataFrame([data], columns=data.keys())
-        data['pre_status'] = data['progress']
-        df_data = df_data[['reportId', 'title', 'tool', 'progress', 'taskId', 'report_type',
-                           's3_address', 'publishDate']]
-        df_data.columns = ['report_id', 'title', 'tool', 'convert_status', 'convert_task_id',
-                           'report_type', 'absolute_pdf_s3_url', 'publish_date']
-        dbbase = DB_Base()
-        try:
-            dbbase.update(df_data, "report_htmls", ['report_id', 'tool'], """where report_id=%s""" % data["reportId"],
-                          cfg.bigdatadb.connect())
-        except Exception as err:
-            add_heartbeat({
-                "name": "sync_batch_exception"  # which means found in reporthtmls but not found in mongo
-            })
-
 
 # 只同步uploaded
 class SyncStatus(Thread):
@@ -313,37 +266,13 @@ class SyncStatus(Thread):
         return df_data
 
 
-# TODO 添加监听report_htmls表的状态变化， 获取到后更新mongo, 用于触发发送给下游的消息。
 
 if __name__ == "__main__":
     #
     # #
-    # 接入新任务
-    # taskreceiver = NewTask(source_msg_exchange, source_msg_queue)
-    # taskreceiver.start()
-    # #
-    # 转换任务
-    # TaskListner().start()
-    #
-    # TODO 转换失败的任务批量将状态置为done
-    # 上传完成后将uploaded状态同步到数据库
-    # S3Uploader().start()
-    #
-    # # 将mongo 中所有状态为uploaded同步到report_html
-    # Sync().start()
     SyncStatus().start()
     #
-    # # to 通知下游 uploaded -> informed
-    # Informer(inform_mq_conn, inform_msg_queue).start()
-    #
-    # # # 监听重转任务
-    # dbsync = DBSync(bigdata_db)
-    # dbsync.start()
-
+    # # to
     while True:
         time.sleep(100)
 
-    # TODO
-    # 1.开通访问国信s3端口443
-    # 2.report_htmls访问权限
-    # 3.datayes S3 bucket=pipeline开通访问权限
