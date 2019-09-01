@@ -1,11 +1,23 @@
 # My private notebook for practicing python
 
-# TODO check, 继承类修改了基类的golbal var, 另一个继承类看到的基类的这个变量是改之前的还是之后的
+#  check, 继承类修改了基类的golbal var, 另一个继承类看到的基类的这个变量是改之前的还是之后的
+inheritation/case.py
+inheritation/case2.py
+
 # https://stackoverflow.com/questions/6501121/difference-between-exit-and-sys-exit-in-python
+# exit is a helper for the interactive shell - sys.exit is intended for use in programs.
+
 # https://zhuanlan.zhihu.com/p/37534850
+# singleton
+
 # Running a method as a background thread in Python
-# python try catch else
+#  done, exit/exit_daemon.py
+
+# python try catch else,
+exception/exceptions.py
+
 # https://docs.python.org/2/library/collections.html#collections.namedtuple
+#
 
 # function list
 - logging
