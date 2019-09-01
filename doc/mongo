@@ -1,3 +1,16 @@
+
+# 目前为止写的最复杂的一个Pipeline了。 由于prd， taskId唯一索引丢失， 出来了taskId重复的任务记录， 需要把重复删除
+  db.getCollection('report_html').aggregate([
+  {$match: {"reportId" : 30006370}},
+ {$group: {"_id": "$taskId",
+            "count": { $sum: 1 },
+            "mininsert": {$min: "$insertTime"},
+            "progress": {$push: "$progress"}
+            } },
+  {$match:{"count":{$gt:1}} }
+    ])
+
+
 # to see whether updated or not found
 result = mongodb.get_collection(mcollection).update_one({"taskId": task_id}, {"$set": {key: value}})
             if result.raw_result['nModified']==0:

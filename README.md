@@ -4,6 +4,36 @@
 inheritation/case.py
 inheritation/case2.py
 
+rabbitmq : An Unacknowledged message implies that it has been read by your consumer, but the consumer has never sent back an ACK to the RabbitMQ broker to say that it has finished processing it.
+https://www.cnblogs.com/koka24/p/5304454.html 代码示例比较清楚
+
+2019-08-31
+TODO
+1. 垃圾回收 https://testerhome.com/topics/16556
+http://patshaughnessy.net/2013/10/30/generational-gc-in-python-and-ruby
+https://www.jianshu.com/p/1e375fb40506
+2. mq
+https://www.cnblogs.com/koka24/p/5304454.html
+3. 内存优化, 当main中启线程时，再fork，会把整个内存数据复制到fork出来的process中，
+https://www.cnblogs.com/xybaby/p/7488216.html
+https://juejin.im/entry/5d37cc45e51d454f723025d9
+4. deepcopy
+https://www.cnblogs.com/richardzhu/p/4723750.html
+5. collection, argparse,
+# https://docs.python.org/zh-cn/3/library/collections.html
+6. redis缓存效率
+https://www.cnblogs.com/kangoroo/p/7647052.html
+7. thread join, daemon,
+8. singleton
+https://zhuanlan.zhihu.com/p/37534850
+
+2019-08-29 TODO
+
+1. redis, efficience https://realpython.com/python-redis/#more-data-types-in-python-vs-redis
+2.
+
+# TODO check, 继承类修改了基类的golbal var, 另一个继承类看到的基类的这个变量是改之前的还是之后的
+>>>>>>> origin/master
 # https://stackoverflow.com/questions/6501121/difference-between-exit-and-sys-exit-in-python
 # exit is a helper for the interactive shell - sys.exit is intended for use in programs.
 
