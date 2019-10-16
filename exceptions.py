@@ -24,9 +24,13 @@ def divide(a, b):
         r = a / b
     except:
         raise ValueError
-    else:
+    else: # no exceptions , run this code
         print('divide result is %s' % r)
-    finally:
+    finally: # always run this code
         print("done")
 
-divide(4,0)
+# divide(4,0)
+
+print('--------')
+
+divide(4,1)

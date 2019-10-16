@@ -1,42 +1,8 @@
 # coding:utf8
-# /**
-# * 通联数据机密
-#  * --------------------------------------------------------------------
-#  * 通联数据股份公司版权所有 © 2013-1016
-#  *
-#  * 注意：本文所载所有信息均属于通联数据股份公司资产。本文所包含的知识和技术概念均属于
-#  * 通联数据产权，并可能由中国、美国和其他国家专利或申请中的专利所覆盖，并受商业秘密或
-#  * 版权法保护。
-#  * 除非事先获得通联数据股份公司书面许可，严禁传播文中信息或复制本材料。
-#  *
-#  * DataYes CONFIDENTIAL
-#  * --------------------------------------------------------------------
-#  * Copyright © 2013-2016 DataYes, All Rights Reserved.
-#  *
-#  * NOTICE:  All information contained herein is the property of DataYes
-#  * Incorporated. The intellectual and technical concepts contained herein are
-#  * proprietary to DataYes Incorporated, and may be covered by China, U.S. and
-#  * Other Countries Patents, patents in process, and are protected by trade
-#  * secret or copyright law.
-#  * Dissemination of this information or reproduction of this material is
-#  * strictly forbidden unless prior written permission is obtained from DataYes.
-#  */
-#
-# /** Copyright © 2013-2016 DataYes, All Rights Reserved. */
 import time
 from threading import Thread
-import pandas as pd
-from pymongo import ReturnDocument
-from conf.config_consul import cfg, mcollection, mongodb
-from conf.logger import logger
-from taskstatus import TASKSTATUS
-# from conf.config_consul import Config
+import sys
 from datetime import datetime, timedelta
-from db_base import DB_Base
-from mongohandler import MongoC
-from monitor import add_heartbeat
-
-# cfg = Config()
 
 status = True
 
@@ -45,7 +11,6 @@ status = True
 # 只同步uploaded
 class SyncStatus(Thread):
     """
-        Search for 'informed' tasks, update database
         """
 
     def __init__(self):
@@ -56,50 +21,27 @@ class SyncStatus(Thread):
         self.timestamp = datetime.now()
 
     def run(self):
+        i = 0
         while True:
             try:
-                result = mongodb.get_collection(mcollection).find_one_and_update(
-                    {"progress": {"$in": [TASKSTATUS.FINISH, TASKSTATUS.PASSUP]}
-                     # {"progress": TASKSTATUS.PASSUP,
-                     },
-                    {'$set': {
-                        "progress": TASKSTATUS.RECORD,  # to indicate syncing
-                        "processTime": time.time(),
-                    }},
-                    {"reportId": 1, "title": 1, "tool": 1, "s3key": 1,
-                     "status": 1, "tried_count": 1,
-                     "progress": 1, "taskId": 1, "pdfSize": 1, "report_type": 1,
-                     "s3_address": 1, "publishDate": 1, "message": 1},
-                    # sort=[("publishDate", pymongo.DESCENDING)
-                    #       ("submitTime", pymongo.ASCENDING)],
-                    return_document=ReturnDocument.BEFORE
-                )
-                if result is None:
-                    logger.info("[ syncStatus ] sleep %s seconds" % self.interval)
-                    time.sleep(self.interval)
-                    continue
-                self.update_db(result)
+                i += 1
+                print(i)
+                time.sleep(1)
+                if i == 3:
+                    raise ValueError
             except Exception as err:
                 # status = False
-                logger.warning("sync exception %s" % err)
-                exit(1)
+                print("sync exception %s" % err)
+                # sys.exit(1) # can exit main.py
+                exit(2) # can exit main.py
 
-    def sync_all(self):
-        result = mongodb.get_collection(mcollection).find(
-            {"insertTime": {"$gte": (datetime.today() - timedelta(seconds=self.interval + 1)).strftime("%Y-%m-%d")}
-             },
-            {"reportId": 1, "title": 1, "tool": 1,
-             "progress": 1, "taskId": 1, "report_type": 1,
-             "s3_address": 1, "publishDate": 1},
-        )
-        logger.info("[ sync_all ] run on %s" % time.time())
-        logger.info("[ sync_all ] run on %s, task length is %s" % (time.time(), len(list(result))))
 
-        self.update_all(list(result))
-        time.sleep(self.interval)
+if __name__ == "__main__":
+    SyncStatus().start()
+    while True:
+        time.sleep(100)
 
-    def update_all(self, data):
-
+    print('exit') # will not be executed
         if data is None or len(data) == 0:
             return
         df_data = pd.DataFrame([data], columns=data.keys())

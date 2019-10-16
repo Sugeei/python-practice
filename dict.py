@@ -126,3 +126,4 @@ def fullpath(*args):
 
 p = fullpath(['a', 'b', 'c'])
 print(p)
+

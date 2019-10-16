@@ -10,5 +10,7 @@ https://stackoverflow.com/questions/14799672/how-to-read-python-code-better
 https://docs.python.org/3.6/reference/datamodel.html#objects-values-and-types
 https://docs.python.org/3.6/reference/executionmodel.html#naming-and-binding
 https://docs.python.org/3/tutorial/classes.html
+
+https://pythontesting.net/framework/unittest/unittest-introduction/
 # python import 路径相关
 
