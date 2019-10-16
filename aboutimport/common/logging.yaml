@@ -1,0 +1,150 @@
+version: 1
+disable_existing_loggers: False
+formatters:
+    simple:
+        format: "%(asctime)s [%(levelname)s] %(threadName)s Line:%(lineno)d - %(message)s"
+
+handlers:
+    err_console:
+        class: logging.StreamHandler
+        level: WARN
+        formatter: simple
+        stream: ext://sys.stderr
+
+    sample:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/sample.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 10
+        encoding: utf8
+        delay: true
+
+    stock_cauter_critical_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: CRITICAL
+        formatter: simple
+        filename: logs/stock_cauter_critical.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    stock_cauter_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/stock_cauter.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    fund_tags_rfile_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/fund_tags.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    fund_tags_critical_rfile_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: CRITICAL
+        formatter: simple
+        filename: logs/fund_tags_critical.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    recommendation_rfile_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/recommendation_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    recommendation_critical_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/recommendation_critical_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    recommendation_zhongxin_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/recommendation_zhongxin_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    data_prd_idx_chuancai_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/idx_chuancai_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    data_mon_factor_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/data_mon_factor_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+
+loggers:
+    sample:
+        level: INFO
+        handlers: [err_console, sample]
+        propagate: no
+
+    stock_cauter:
+        level: INFO
+        handlers: [err_console, stock_cauter_handler, stock_cauter_critical_handler]
+        propagate: no
+
+    fund_label:
+        level: INFO
+        handlers: [err_console, fund_tags_rfile_handler, fund_tags_critical_rfile_handler]
+        propagate: no
+
+    data_prd_recommendation:
+        level: INFO
+        handlers: [err_console, recommendation_rfile_handler, recommendation_critical_handler, recommendation_zhongxin_handler]
+        propagate: no
+
+    data_prd_idx_chuancai:
+        level: INFO
+        handlers: [err_console, data_prd_idx_chuancai_handler]
+        propagate: no
+
+    data_mon_factor:
+        level: INFO
+        handlers: [err_console, data_mon_factor_handler]
+        propagate: no
+
+
+root:
+    level: WARN
+    handlers: [err_console]
+

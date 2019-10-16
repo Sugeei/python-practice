@@ -1,3 +1,14 @@
 TODO
+https://docs.python-guide.org/writing/style/#code-style
+
+https://docs.python-guide.org/writing/reading/
+import flask
+
+https://stackoverflow.com/questions/14799672/how-to-read-python-code-better
+
+# need to read in a for loop...
+https://docs.python.org/3.6/reference/datamodel.html#objects-values-and-types
+https://docs.python.org/3.6/reference/executionmodel.html#naming-and-binding
+https://docs.python.org/3/tutorial/classes.html
 # python import 路径相关
 

@@ -1,5 +1,8 @@
 # My private notebook for practicing python
 
+2019-10-14
+1. about update mysql: https://blog.csdn.net/u014520745/article/details/52416002
+
 rabbitmq : An Unacknowledged message implies that it has been read by your consumer, but the consumer has never sent back an ACK to the RabbitMQ broker to say that it has finished processing it.
 https://www.cnblogs.com/koka24/p/5304454.html 代码示例比较清楚
 
@@ -17,7 +20,7 @@ https://juejin.im/entry/5d37cc45e51d454f723025d9
 https://www.cnblogs.com/richardzhu/p/4723750.html
 5. collection, argparse,
 # https://docs.python.org/zh-cn/3/library/collections.html
-6. redis缓存效率
+6. redis缓存效率, 取出不同的score的值再拼接耗时较多，不如直接从redis中取出来来快
 https://www.cnblogs.com/kangoroo/p/7647052.html
 7. thread join, daemon,
 8. singleton

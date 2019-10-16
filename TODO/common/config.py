@@ -26,6 +26,8 @@ from collections import namedtuple
 '''
 
 this_dir = os.path.dirname(os.path.realpath(__file__))
+# run config.py, this_dir will be root.../common
+
 base_dir = os.path.dirname(this_dir)
 wechat_server = "http://114.215.238.50:8080/webcrawl/wechat/sendMsg?" \
                 "roboId=3319122883"
@@ -55,27 +57,6 @@ def determine_module():
         module_dir = os.path.dirname(sys.modules['__main__'].__file__)
         return module_dir[module_dir.rfind('/') + 1:]
 
-
-this_dir = os.path.dirname(os.path.realpath(__file__))
-base_dir = os.path.dirname(this_dir)
-
-with open(this_dir + "/logging.yaml") as f:
-    ycfg = yaml.safe_load(f.read())
-    # ycfg.setdefault('version', 1)
-    config.dictConfig(ycfg)
-
-try:
-    main_module = sys.modules['__main__'].__file__
-    module_dir = os.path.dirname(main_module)
-
-    if not os.path.exists(module_dir + "/logs"):
-        os.mkdir(module_dir + "/logs")
-    logger_name = module_dir[module_dir.rfind('/') + 1:]
-    print "main module is %s, logger name is %s" % (main_module, logger_name)
-except Exception, err:
-    logger_name = ""
-
-logger = logging.getLogger(logger_name)
 
 
 class Config:
@@ -311,11 +292,6 @@ class MssqlConn(object):
         return json.dumps(self.mssql_config, ensure_ascii=False,
                           encoding='utf-8')
 
-
-MQ = r"(?P<username>.+):(?P<password>.+)@(?P<host>.+):(?P<port>\d+)/?" \
-     r"(?P<virtual_host>.*)"
-
-
 class MqConn(object):
     def __init__(self, mq_url):
         # format: username:password@host:port/virtual_host
@@ -358,9 +334,6 @@ class Debug(object):
             return True
         else:
             return False
-
-
-MailCfg = namedtuple("MailCfg", "host port username password")
 
 
 def get_mail_cfg():

@@ -1,3 +1,5 @@
+# get max value of a given field
+db.things.find_one(sort=[("uid", -1)])
 
 # 目前为止写的最复杂的一个Pipeline了。 由于prd， taskId唯一索引丢失， 出来了taskId重复的任务记录， 需要把重复删除
   db.getCollection('report_html').aggregate([

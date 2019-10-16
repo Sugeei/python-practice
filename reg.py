@@ -9,4 +9,6 @@ title = { the tile is }
 """
 
 pattern = "author//s+=//s+"
-print re.search(pattern, str)
+print(re.search(pattern, str))
+# 对换行的识别不太友好
+
