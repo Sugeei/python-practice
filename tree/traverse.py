@@ -2,7 +2,6 @@
 # !/usr/bin/env python
 import json
 
-
 class TreeNode():
     """
     定义树结点为多个子结点，以及多个父节点
@@ -22,7 +21,6 @@ class TreeNode():
         return self.name
         # print(self.name)
 
-    # @property
     @staticmethod
     def get_count():
         return TreeNode.__count
@@ -48,13 +46,39 @@ class TreeNode():
 
 
 class Forest():
-    """存在多个root"""
+    """
+    The forest you get might have multi root nodes
+
+    You need to import a json file in which all the dependences are listed in the way as below sample:
+        {
+        "a":["b"], # node "a" is supposed to be a child node of "b",
+        "b":["c", "d"], # node "b" should be a child node of "c", and "d" as well,
+        "c":["e"], # "c" should be a child node of "e"
+        }
+
+    The forest you will get will be like below：
+                 e
+                /
+          d   c
+           \ /
+            b
+           /
+          a
+
+    About How to use this class:
+        dependenceforest = Forest()
+        dependenceforest.build_from(path_json_file)
+        # by calling preorder_traverse(), all the preorder paths in the forest will be listed pointed by the variable "predorder_paths"
+        dependenceforest.preorder_traverse()
+        # path_to(a_given_node_name) will return the full path related to the given node, preorder
+        dependenceforest.path_to('cashconversioncycle')
+
+    """
 
     def __init__(self):
         self.root_nodes = []
         self.root_factor_names = []
         self.preorder_paths = []
-
         self.factor_names = []
 
     def count(self):
@@ -114,7 +138,7 @@ class Forest():
 
     def preorder_traverse(self):
         """
-        以优先计算所有依赖
+        优先计算所有依赖
         :return: all exist path
         """
         traverse_paths = []
@@ -135,6 +159,11 @@ class Forest():
         pass
 
     def path_to(self, name):
+        """
+        To find out the Node object with the given name
+        :param name:
+        :return:
+        """
         for n in self.root_nodes:
             treenode = self.search_node(n, name)
             if treenode is not None:
@@ -217,6 +246,12 @@ class PreorderIterator(object):
 
     @staticmethod
     def preorder_traverse(node, path):
+        """
+        To find out al the parent node of given node
+        :param node:
+        :param path:
+        :return:
+        """
         # if node.ancestor_visited_flag() is True:
         #     node.set_visited()
         #     path.append(node.name)
@@ -238,7 +273,7 @@ if __name__ == "__main__":
     dir = os.path.dirname(os.path.realpath(__file__))
     dependenceforest = Forest()
     dependenceforest.build_from(os.path.join(dir, 'factors_dependence.json'))
-    # dependenceforest.preorder_traverse()
+    dependenceforest.preorder_traverse()
     print(dependenceforest.path_to('cashconversioncycle'))
     # "cashconversioncycle")
     print(dependenceforest.count())
