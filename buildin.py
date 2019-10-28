@@ -1,6 +1,12 @@
 # to see vesion of a module
 # pandas.__version__
 
+# 字典合并
+x = {'x':1,'y':2}
+y = {'a':3,'b':4}
+z= {**x, **y}
+print(z)
+
 # tuple
 # >>> import numpy as np
 # >>> a = np.nan
