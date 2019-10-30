@@ -6,11 +6,11 @@ class modulea():
         __self__ = ''
 
     def printa(self):
-        print "i am module a"
+        print( "i am module a")
 
 
 def printb():
-    print "i am module b"
+    print( "i am module b")
 
 # https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html
 

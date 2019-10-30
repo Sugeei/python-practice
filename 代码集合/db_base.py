@@ -142,6 +142,8 @@ class DB_Base():
         self.logger.info("insert database %s real_count = %s" % (tablename, len(df_data)))
         cur.close()
 
+    # about pymysql insert and update, executmany, replace
+    # http: // www.mysqltutorial.org / mysql - replace.aspx
     def update_batch(self, tablename, df_data, uniq_keys, conn, update_c_name="UPDATE_TIME"):
         """
         批量更新由'replace'及'executemany'实现。实际replace在做更新的时候，检测到数据库里已存在记录时，会先删除再新插入。

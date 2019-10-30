@@ -2,10 +2,20 @@
 # pandas.__version__
 
 # 字典合并
-x = {'x':1,'y':2}
-y = {'a':3,'b':4}
-z= {**x, **y}
+x = {'x': 1, 'y': 2}
+y = {'a': 3, 'b': 4}
+z = {**x, **y}
 print(z)
+
+a = set(range(10))
+b = set(range(15))
+# 交集
+print(a & b)
+# 差集
+print(list(a ^ b))
+# 并集
+print(list(a | b))
+
 
 # tuple
 # >>> import numpy as np
@@ -32,43 +42,18 @@ print(z)
 # One has to be mindful that in Python (and NumPy), the nan's don’t compare equal, but None's do. Note that pandas/NumPy uses the fact that np.nan != np.nan, and treats None like np.nan.
 
 
-# about pymysql insert and update, executmany, replace
-# http: // www.mysqltutorial.org / mysql - replace.aspx
-def update_batch(self, tablename, df_data, uniq_keys, conn, update_c_name="UPDATE_TIME"):
-    """
-    for loop写数据太慢， 如何batch
-    http://www.mysqltutorial.org/mysql-replace.aspx
-    :param tablename:
-    :param df_data: pandas.DataFrame
-    :param uniq_keys: no need
-    :param conn:
-    :param update_c_name:
-    :return:
-    """
-    if df_data is not None and len(df_data) > 0:
-        # self.logger.info("update database count = %s" % len(df_data))
-        field_quote = self.get_field_quote(conn)
-        cur = conn.cursor()
-        df_data = df_data.where(pd.notnull(df_data), None)
-        df_data[update_c_name] = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        # df_data['ETL_CRC'] = df_data['ETL_CRC'].astype(str)
-        df_data[update_c_name] = df_data[update_c_name].astype(str)
-        t1 = time.time()
+# Say I have a list
+fruits = ["apple", "orange", "banana", "lemon"]
+# I try to figure out whether a given character like "p" exists in one of these elements
+if any("p" in element for element in fruits):
+    print("yes")
+else:
+    print("failed")
 
-        row_data = df_data.iloc[0]
-        replace_sql = "REPLACE INTO %s (%s) VALUES(%s) " % (tablename,
-                                                            ','.join(
-                                                                [(field_quote + value + field_quote) for value in
-                                                                 row_data.index.values]),
-                                                            ','.join(['%s'] * len(row_data))
-                                                            )
-        tuples = self.tuple_convert(df_data)
-        try:
-            cur.executemany(replace_sql, tuples)
-        except Exception as Error:
-            logger.warning("update exception with table=%s, %s=%s" % (tablename, uniq_keys, list(
-                row_data[uniq_keys])))
-        self.logger.info("update database %s real_count = %s" % (tablename, df_data.shape[0]))
-        conn.commit()
-        cur.close()
-        self.logger.info("update timeconsue for one ticker = %s" % int(time.time() - t1))
+# If I want to know whether "a" can be found in all these elements
+if all("p" in element for element in fruits):
+    print("yes")
+else:
+    print("failed")
+
+print(any([]))
