@@ -13,7 +13,7 @@ ST = S0 * exp((r - 0.5 * sigma ** 2) * T + sigma * sqrt(T) * z)
 hT = maximum(ST - K, 0)
 C0 = exp(-r * T) * sum(hT) / I
 
-print C0
+# print C0
 
 a = numpy.arange(1, 25000000)
 r = 3 * numpy.log(a) + numpy.cos(a) ** 2
