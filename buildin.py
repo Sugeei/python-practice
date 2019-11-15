@@ -1,7 +1,16 @@
 # to see vesion of a module
 # pandas.__version__
 
+l = [1, 2, 3, 4, 5]
+print(l[10:])
+
+print(''.join([str(x) for x in l]))
 # 字典合并
+x = {'x': 1, 'y': 2}
+y = {'a': 3, 'b': 4}
+z = {**x, **y}
+print(z)
+
 x = {'x': 1, 'y': 2}
 y = {'a': 3, 'b': 4}
 z = {**x, **y}
@@ -13,9 +22,9 @@ b = set(range(15))
 print(a & b)
 # 差集
 print(list(a ^ b))
+print(list(b ^ a))
 # 并集
 print(list(a | b))
-
 
 # tuple
 # >>> import numpy as np
