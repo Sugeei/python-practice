@@ -14,8 +14,7 @@ class Department(Employee):
     def __init__(self, fullname, age, income):
         # Employee.__init__(self, fullname, age, income)
         super(Department, self).__init__(fullname, age, income)
-
-# 注意super的语法
+        # 注意super的语法
 emp = Employee('John', '27', '650000')
 emp.func_information()
 

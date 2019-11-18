@@ -15,19 +15,18 @@ list1 = extendList(10)
 list2 = extendList(123, [])
 list3 = extendList('a')
 
-print "list1 = %s" % list1
-print "list2 = %s" % list2
-print "list3 = %s" % list3
-
+print("list1 = %s" % list1)
+print("list2 = %s" % list2)
+print("list3 = %s" % list3)
 
 # list = [ [ ] ] * 5创建了一个元素是5个列表的列表。
 # 但是，这里要理解的关键是，list = [ [ ] ] * 5并没有创建一个包含5个不同列表的列表。
 # 创建的这个列表里的5个列表，是对同一个列表的引用（a a list of 5 references to the same list）
-list = [ [ ] ] * 5
-print list
+list = [[]] * 5
+print(list)
 list[0].append(10)
-print list
+print(list)
 list[1].append(20)
-print list
+print(list)
 list.append(30)
-print list
+print(list)

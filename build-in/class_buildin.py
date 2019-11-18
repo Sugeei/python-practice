@@ -35,3 +35,5 @@ print(l[::3])
 # https: // www.jianshu.com / p / e1d95c4e1697
 
 # https://docs.python.org/3/library/concurrent.futures.html
+
+# 类变量属于整个class所共享，而实例变量则仅仅属于特定对象实例

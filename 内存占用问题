@@ -2,3 +2,5 @@
 
 https://www.cnblogs.com/xybaby/p/7488216.html
 
+https://www.jb51.net/article/54498.htm
+Python的问题就在于，当循环结束以后，循环体中的临时变量i不会销毁，而是继续存在于执行环境中。还有一个python的现象是，python的函数只有在执行时，才会去找函数体里的变量的值。
