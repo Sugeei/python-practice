@@ -1,9 +1,5 @@
 # My private notebook for practicing python
 
-#  check, 继承类修改了基类的golbal var, 另一个继承类看到的基类的这个变量是改之前的还是之后的
-inheritation/case.py
-inheritation/case2.py
-
 rabbitmq : An Unacknowledged message implies that it has been read by your consumer, but the consumer has never sent back an ACK to the RabbitMQ broker to say that it has finished processing it.
 https://www.cnblogs.com/koka24/p/5304454.html 代码示例比较清楚
 
@@ -12,6 +8,9 @@ TODO
 1. 垃圾回收 https://testerhome.com/topics/16556
 http://patshaughnessy.net/2013/10/30/generational-gc-in-python-and-ruby
 https://www.jianshu.com/p/1e375fb40506
+
+垃圾收集机制是『引用计数法 Reference Counting
+
 2. mq
 https://www.cnblogs.com/koka24/p/5304454.html
 3. 内存优化, 当main中启线程时，再fork，会把整个内存数据复制到fork出来的process中，
@@ -26,6 +25,11 @@ https://www.cnblogs.com/kangoroo/p/7647052.html
 7. thread join, daemon,
 8. singleton
 https://zhuanlan.zhihu.com/p/37534850
+
+#  check, 继承类修改了基类的golbal var, 另一个继承类看到的基类的这个变量是改之前的还是之后的
+inheritation/case.py
+inheritation/case2.py
+
 
 2019-08-29 TODO
 
