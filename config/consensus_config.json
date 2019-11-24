@@ -1,0 +1,20 @@
+{
+
+  "consensus_columns": [
+    "code",
+    "time_year",
+    "pred_date",
+    "con_income",
+    "con_type_income",
+    "con_profit",
+    "con_type_profit",
+    "con_eps",
+    "con_type_eps",
+    "con_score",
+    "con_pe",
+    "con_pb",
+    "con_roe"
+  ],
+  "report_research": "DER_REPORT_RESEARCH",
+  "report_subtable": "DER_REPORT_SUBTABLE"
+}

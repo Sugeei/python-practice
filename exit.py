@@ -27,3 +27,9 @@ with Rectangle(3, 4) as r:
 # Traceback (most recent call last):
 #   File "e0235.py", line 27, in <module>
 #     r.divide_by_zero()
+
+import sys
+import os
+os._exit(1) # 可以直接退出当前主进程，可以用于docker容器中，需要主动重启容器的情况下。docker容器退出后会自动重启一个
+# sys.exit()
+# exit(1)

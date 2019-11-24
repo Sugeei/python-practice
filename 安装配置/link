@@ -1,0 +1,4 @@
+linux新安装版本后， 新建软链接， 使/usr/bin/python 指定新安装的python3.6的地址/usr/local/bin/python3.6
+ln -s /usr/local/bin/python3.6 /usr/bin/python
+
+

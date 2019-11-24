@@ -1,0 +1,421 @@
+version: 1
+disable_existing_loggers: False
+formatters:
+    simple:
+        format: "%(asctime)s [%(levelname)s] %(threadName)s Line:%(lineno)d - %(message)s"
+
+handlers:
+    console:
+        class: logging.StreamHandler
+        level: DEBUG
+        formatter: simple
+
+    err_console:
+        class: logging.StreamHandler
+        level: WARN
+        formatter: simple
+        stream: ext://sys.stderr
+
+    sample:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/sample.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 10
+        encoding: utf8
+        delay: true
+
+    consensus_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/consensus_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    mineiwang_rfile_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/mineiwang.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    mineiwang_critical_rfile_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: CRITICAL
+        formatter: simple
+        filename: logs/mineiwang_critical.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    fund_tags_rfile_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/fund_tags.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    fund_tags_critical_rfile_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: CRITICAL
+        formatter: simple
+        filename: logs/fund_tags_critical.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    data_mon_uts_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/data_mon_uts_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    recommendation_rfile_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/recommendation_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    recommendation_critical_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/recommendation_critical_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    recommendation_zhongxin_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/recommendation_zhongxin_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    data_prd_idx_chuancai_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/idx_chuancai_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    data_prd_pr_dic_table_scan_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/pr_dic_table_scan_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    data_prd_fund_derivative_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/data_prd_fund_derivative_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    data_prd_pr_bond_style_attr_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/data_prd_pr_bond_style_attr_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    data_prd_fund_qa_data_cmb_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/data_prd_fund_qa_data_cmb_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    data_prd_pr_bond_eight_factors_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/bond_eight_factors.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+
+    data_mon_factor_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/data_mon_factor_handler.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    data_prd_equ_indic_importer:
+        class: logging.handlers.RotatingFileHandler
+        level: DEBUG
+        formatter: simple
+        filename: logs/data_prd_equ_indic_importer.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 2
+        encoding: utf8
+        delay: true
+
+    uts_visualization_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/uts_visualization.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    data_trans_csrc_fund_consumer_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/data_trans_csrc_fund_consumer.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    data_trans_csrc_fund_producer_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/data_trans_csrc_fund_producer.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    data_trans_data_mover_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/data_trans_data_mover.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    data_prd_mof_pfund_idx_pro_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/data_prd_mof_pfund_idx_pro.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    data_prd_mkt_derivative_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/data_prd_mkt_derivative.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+
+    airflow_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/airflow.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    future_factor_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/future_factor.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    equ_theme_index_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/equ_theme_index.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+    estimate_equ_yield_handler:
+        class: logging.handlers.RotatingFileHandler
+        level: INFO
+        formatter: simple
+        filename: logs/estimate_equ_yield.log
+        maxBytes: 10485760 # 10MB
+        backupCount: 50
+        encoding: utf8
+        delay: true
+
+loggers:
+    sample:
+        level: INFO
+        handlers: [err_console, sample]
+        propagate: no
+
+    data_prd_base_consensus:
+        level: INFO
+        handlers: [err_console, consensus_handler]
+        propagate: no
+
+    data_prd_mineiwang:
+        level: INFO
+        handlers: [err_console, mineiwang_rfile_handler, mineiwang_critical_rfile_handler]
+        propagate: no
+
+    data_prd_fund_tags:
+        level: INFO
+        handlers: [err_console, fund_tags_rfile_handler, fund_tags_critical_rfile_handler]
+        propagate: no
+
+    data_prd_recommendation:
+        level: INFO
+        handlers: [err_console, recommendation_rfile_handler, recommendation_critical_handler, recommendation_zhongxin_handler]
+        propagate: no
+
+    data_prd_idx_chuancai:
+        level: INFO
+        handlers: [console, data_prd_idx_chuancai_handler]
+        propagate: no
+
+    data_prd_pr_dic_table_scan:
+        level: INFO
+        handlers: [console, data_prd_pr_dic_table_scan_handler]
+        propagate: no
+
+    data_prd_fund_derivative:
+        level: INFO
+        handlers: [console, data_prd_fund_derivative_handler]
+        propagate: no
+
+    data_prd_pr_bond_style_attr:
+        level: INFO
+        handlers: [console, data_prd_pr_bond_style_attr_handler]
+        propagate: no
+
+    data_prd_fund_qa_data_cmb:
+        level: INFO
+        handlers: [console, data_prd_fund_qa_data_cmb_handler]
+        propagate: no
+
+    data_prd_pr_bond_eight_factors:
+        level: INFO
+        handlers: [console, data_prd_pr_bond_eight_factors_handler]
+        propagate: no
+
+    data_mon_factor:
+        level: INFO
+        handlers: [err_console, data_mon_factor_handler]
+        propagate: no
+
+    data_equ_indic_importer:
+        level: INFO
+        handlers: [err_console, data_prd_equ_indic_importer]
+        propagate: no
+
+    data_mon_uts:
+        level: INFO
+        handlers: [err_console, data_mon_uts_handler,uts_visualization_handler]
+        propagate: no
+
+    data_trans_csrc_fund_consumer:
+        level: INFO
+        handlers: [console, data_trans_csrc_fund_consumer_handler]
+        propagate: no
+
+    data_trans_csrc_fund_producer:
+        level: INFO
+        handlers: [console, data_trans_csrc_fund_producer_handler]
+        propagate: no
+
+    data_trans_data_mover:
+        level: INFO
+        handlers: [console, data_trans_data_mover_handler]
+        propagate: no
+
+    data_prd_mof_pfund_idx_pro:
+        level: INFO
+        handlers: [console, data_prd_mof_pfund_idx_pro_handler]
+        propagate: no
+
+    data_prd_mkt_derivative:
+        level: INFO
+        handlers: [console, data_prd_mkt_derivative_handler]
+        propagate: no
+
+    airflow:
+        level: INFO
+        handlers: [err_console, airflow_handler]
+        propagate: no
+
+    future_factor:
+        level: INFO
+        handlers: [err_console, future_factor_handler]
+        propagate: no
+
+    equ_theme_index:
+        level: INFO
+        handlers: [err_console, equ_theme_index_handler]
+        propagate: no
+
+    estimate_equ_yield:
+        level: INFO
+        handlers: [err_console, estimate_equ_yield_handler]
+        propagate: no
+
+
+root:
+    level: WARN
+    handlers: [err_console]
+
