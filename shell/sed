@@ -3,3 +3,4 @@ sed -i "s/'0201010101'/'0201010101','0201010109'/g" dmkt_equd_all_technical_colu
 
 find ./datayes -name *.py | xagrs grep '010101'
 
+chmod –R 777 *
