@@ -1,3 +1,11 @@
+# createMetaclass create Classes and Classes creates objects
+# https://www.geeksforgeeks.org/metaprogramming-metaclasses-python/
+
+# To create our custom metaclass, our custom metaclass have to inherit type metaclass and usually override –
+#
+# __new__(): It’s a method which is called before __init__(). It creates the object and return it. We can overide this method to control how the objects are created.
+# __init__(): This method just initialize the created object passed as parameter
+
 class SingletonMetaclass(type):
     __instance = {}
     #
