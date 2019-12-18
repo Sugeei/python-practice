@@ -7,25 +7,18 @@
 # __init__(): This method just initialize the created object passed as parameter
 
 class SingletonMetaclass(type):
-    __instance = {}
-    #
-    # def __init__(self, *args, **kwargs):
-    #     if SingletonMetaclass.__instance is None:
-    #         SingletonMetaclass.__instance = SingletonMetaclass()
+    def __init__(self, *args, **kwargs):
+        self.__instance = None
+        super().__init__(*args, **kwargs)
 
-    def __call__(cls):
-        if cls not in cls.__instance:
-            cls.__instance[cls]  = super(SingletonMetaclass, cls).__call__()
-        return cls.__instance[cls]
-        # self.__instance = None
-        # super().__init__(*args, **kwargs)
-    #
-    # def __call__(self, *args, **kwargs):
-    #     if self.__instance is None:
-    #         self.__instance = SingletonMetaclass()
-    #         return self.__instance
-    #     else:
-    #         return self.__instance__
+    def __call__(self, *args, **kwargs):
+        if self.__instance is None:
+            self.__instance = super(SingletonMetaclass, self).__call__(*args, **kwargs)
+            return self.__instance
+        else:
+            return self.__instance
+
+
 #
 # 作者：浮生若梦的编程
 # 链接：https://juejin.im/post/5a64255c51882573432d42e0
@@ -33,15 +26,30 @@ class SingletonMetaclass(type):
 # 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
-# s = SingletonMetaclassss()
-#
-# t = SingletonMetaclass()
-class Demo(metaclass=SingletonMetaclass):
+class Single():
+    def __init__(self, *args, **kwargs):
+        self.__instance = None
+        super().__init__(*args, **kwargs)
+
+    def __call__(self, *args, **kwargs):
+        if self.__instance is None:
+            self.__instance = super(Single, self).__call__(*args, **kwargs)
+            return self.__instance
+        else:
+            return self.__instance
+
+
+class SingletonDecorator:
+    def __init__(self, klass):
+        self.klass = klass
+        self.instance = None
+
+    def __call__(self, *args, **kwds):
+        if self.instance is None:
+            self.instance = self.klass(*args, **kwds)
+        return self.instance
+
+
+@SingletonDecorator
+class Demo():
     pass
-
-a= Demo()
-b= Demo()
-
-print(a==b)
-
-# https://stackoverflow.com/questions/6760685/creating-a-singleton-in-python

@@ -48,6 +48,7 @@ def main(demo):
 
 
 if __name__ == '__main__':
+    # manager cannot be global variable
     manager = Manager()
 
     d = manager.dict()

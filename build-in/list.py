@@ -5,6 +5,17 @@
 # 使用的都是同一个list。
 # 这是因为带默认参数的表达式是在函数定义的时候被计算的，而不是在函数调用时。
 
+# slice with step=3
+a = list(range(10))
+print(a[::3])
+
+# slice list will create a new list, shallow copy, for immutable elements, all the element will be different objects.
+# thus the newly created list is independent to the original one.
+a = list(range(5))
+b = a[1:3]
+a[0] = 10
+print(a)
+print(b)
 
 # the str can be indexed
 s = "123"

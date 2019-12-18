@@ -179,6 +179,7 @@ class DB_Base():
             tuples = self.tuple_convert(df_data)
             # tuples = self.tuple_convert_none(df_data)
             try:
+                # 只对mysql生效， sqlserver中实际是一条一条执行
                 cur.executemany(replace_sql, tuples)
             except Exception as Error:
                 logger.warning("update exception with table=%s, %s=%s" % (tablename, uniq_keys, list(
@@ -427,6 +428,34 @@ class DB_Base():
         if 'mysql' in str(type(conn)).lower():
             field_quote = '`'
         return field_quote
+
+
+    def __insert_2_table_arr(self, tablename, df_data):
+        """分批入库， 每次取200条数据拼一个大的sql语句，执行入库操作"""
+        conn = self.target_conn_pool.connection()
+        # print df_data
+        df_data = df_data.where(pd.notnull(df_data), None)
+        l_field_quote, r_field_quote = self.get_field_quote()
+        cur = conn.cursor()  # <type 'pymssql.Connection'>
+        insert_sql_arr = []
+        for i in range(len(df_data)):
+            row_data = df_data.iloc[i]
+            insert_sql = "INSERT INTO %s (%s) VALUES(%s) " % (tablename,
+                                                              ','.join([(l_field_quote + value + r_field_quote) for value in row_data.index.values]),
+                                                              ','.join([str(string_util.value_2_db(row_data.values[j])) for j in range(len(row_data.values))]))
+
+            insert_sql_arr.append(insert_sql)
+            if (i + 1) % self.db_batch_size == 0:
+                cur.execute(';'.join(insert_sql_arr))
+                conn.commit()
+                insert_sql_arr = []
+                logger.info("arr insert database, tablename = %s, count = %s" % (tablename, i + 1))
+        if insert_sql_arr is not None and len(insert_sql_arr) > 0:
+            cur.execute(';'.join(insert_sql_arr))
+            conn.commit()
+        logger.info("arr insert database, tablename = %s, real_count = %s" % (tablename, len(df_data)))
+        cur.close()
+        conn.close()
 
 
 base = DB_Base()
