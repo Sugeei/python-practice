@@ -1,3 +1,5 @@
+https://sourcemaking.com/design_patterns/bridge/python/1
+https://refactoring.guru/design-patterns/bridge/python/example
 
 https://github.com/faif/python-patterns
 
