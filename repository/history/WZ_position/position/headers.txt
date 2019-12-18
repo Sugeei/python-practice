@@ -1,0 +1,36 @@
+header get from Chrome developer tools, to request page 2
+
+# header for https://www.liepin.com/
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate, sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4
+Connection:keep-alive
+Cookie:__uuid=1489196818550.82; _uuid=BB0C11E5FFA8420B34DB461EAE5829D6; slide_guide_home=1; verifycode=893183adf657483b87c2f71c06761771; _fecdn_=1; JSESSIONID=1A60D37A691E3316A26A3C66217B2E06; abtest=0; __tlog=1490785984323.49%7C00000000%7C00000000%7C00000000%7C00000000; __session_seq=57; __uv_seq=25; Hm_lvt_a2647413544f5a04f00da7eee0d5e200=1489196819,1490523816,1490530832,1490785984; Hm_lpvt_a2647413544f5a04f00da7eee0d5e200=1490965250; _mscid=00000000
+Host:www.liepin.com
+Referer:https://www.liepin.com/zhaopin/?fromSearchBtn=2&ckid=d2de4a9e32515b26&init=-1&key=%E6%95%B0%E6%8D%AE&headckid=878bf4df2246745c&curPage=2
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+
+# header for https://www.liepin.com/ and key=数据
+sfrom:click-pc_homepage-centre_searchbox-search_new
+key:数据
+
+# header for https://www.liepin.com/ & key=数据 & ask for other page
+ckid:bab0ed4e16f94e64
+fromSearchBtn:2
+init:-1
+sfrom:click-pc_homepage-centre_searchbox-search_new
+key:数据
+headckid:bab0ed4e16f94e64
+curPage:1
+
+# header for  https://www.liepin.com/ & key=数据 & ask for other page with publish time
+pubTime:7
+fromSearchBtn:2
+ckid:bab0ed4e16f94e64
+curPage:3
+sfrom:click-pc_homepage-centre_searchbox-search_new
+init:-1
+flushckid:1
+key:数据
+headckid:bab0ed4e16f94e64

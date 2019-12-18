@@ -1,0 +1,113 @@
+为什么page 41 没有访问到?
+
+2017-04-02 15:47:55 [root] DEBUG: Using default logger
+2017-04-02 15:47:55 [root] DEBUG: Using default logger
+[s] Available Scrapy objects:
+[s]   scrapy     scrapy module (contains scrapy.Request, scrapy.Selector, etc)
+[s]   crawler    <scrapy.crawler.Crawler object at 0x106266400>
+[s]   item       {}
+[s]   request    <GET https://www.liepin.com/zhaopin/?fromSearchBtn=2&init=-1&key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&curPage=40>
+[s]   response   <200 https://www.liepin.com/zhaopin/?fromSearchBtn=2&init=-1&key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&curPage=40>
+[s]   settings   <scrapy.settings.Settings object at 0x101b49e10>
+[s] Useful shortcuts:
+[s]   shelp()           Shell help (print this help)
+[s]   view(response)    View response in a browser
+In [1]:
+
+2017-04-02 15:48:52 [root] DEBUG: Using default logger
+2017-04-02 15:48:52 [root] DEBUG: Using default logger
+[s] Available Scrapy objects:
+[s]   scrapy     scrapy module (contains scrapy.Request, scrapy.Selector, etc)
+[s]   crawler    <scrapy.crawler.Crawler object at 0x106266400>
+[s]   item       {}
+[s]   request    <GET https://www.liepin.com/zhaopin/?fromSearchBtn=2&init=-1&key=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&curPage=40>
+[s]   response   <200 https://www.liepin.com/zhaopin/?fromSearchBtn=2&init=-1&key=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&curPage=40>
+[s]   settings   <scrapy.settings.Settings object at 0x101b49e10>
+[s] Useful shortcuts:
+[s]   shelp()           Shell help (print this help)
+[s]   view(response)    View response in a browser
+In [1]:
+
+2017-04-02 15:49:18 [root] DEBUG: Using default logger
+2017-04-02 15:49:18 [root] DEBUG: Using default logger
+[s] Available Scrapy objects:
+[s]   scrapy     scrapy module (contains scrapy.Request, scrapy.Selector, etc)
+[s]   crawler    <scrapy.crawler.Crawler object at 0x106266400>
+[s]   item       {}
+[s]   request    <GET https://www.liepin.com/zhaopin/?fromSearchBtn=2&init=-1&key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&curPage=42>
+[s]   response   <200 https://www.liepin.com/zhaopin/?fromSearchBtn=2&init=-1&key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&curPage=42>
+[s]   settings   <scrapy.settings.Settings object at 0x101b49e10>
+[s] Useful shortcuts:
+[s]   shelp()           Shell help (print this help)
+[s]   view(response)    View response in a browser
+In [1]:
+
+2017-04-02 15:49:34 [root] DEBUG: Using default logger
+2017-04-02 15:49:34 [root] DEBUG: Using default logger
+[s] Available Scrapy objects:
+[s]   scrapy     scrapy module (contains scrapy.Request, scrapy.Selector, etc)
+[s]   crawler    <scrapy.crawler.Crawler object at 0x106266400>
+[s]   item       {}
+[s]   request    <GET https://www.liepin.com/zhaopin/?fromSearchBtn=2&init=-1&key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&curPage=42>
+[s]   response   <200 https://www.liepin.com/zhaopin/?fromSearchBtn=2&init=-1&key=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&curPage=42>
+[s]   settings   <scrapy.settings.Settings object at 0x101b49e10>
+[s] Useful shortcuts:
+[s]   shelp()           Shell help (print this help)
+[s]   view(response)    View response in a browser
+In [1]:
+
+
+ShujinHuangs-MacBook-Air:position shujinhuang$ scrapy crawl liepinspider
+2017-03-28 06:49:02 [scrapy.utils.log] INFO: Scrapy 1.3.0 started (bot: position)
+2017-03-28 06:49:02 [scrapy.utils.log] INFO: Overridden settings: {'USER_AGENT': ('Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.2pre) Gecko/20070215 K-Ninja/2.1.1',), 'DOWNLOAD_DELAY': 3, 'SPIDER_MODULES': ['position.spiders'], 'COOKIES_ENABLED': False, 'NEWSPIDER_MODULE': 'position.spiders', 'BOT_NAME': 'position'}
+2017-03-28 06:49:02 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.logstats.LogStats']
+2017-03-28 06:49:02 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'position.middlewares.RandomUserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2017-03-28 06:49:02 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+Unhandled error in Deferred:
+2017-03-28 06:49:02 [twisted] CRITICAL: Unhandled error in Deferred:
+
+2017-03-28 06:49:02 [twisted] CRITICAL:
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/twisted/internet/defer.py", line 1299, in _inlineCallbacks
+    result = g.send(result)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/scrapy/crawler.py", line 72, in crawl
+    self.engine = self._create_engine()
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/scrapy/crawler.py", line 97, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/scrapy/core/engine.py", line 70, in __init__
+    self.scraper = Scraper(crawler)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/scrapy/core/scraper.py", line 71, in __init__
+    self.itemproc = itemproc_cls.from_crawler(crawler)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/scrapy/middleware.py", line 58, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/scrapy/middleware.py", line 34, in from_settings
+    mwcls = load_object(clspath)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages/scrapy/utils/misc.py", line 44, in load_object
+    mod = import_module(module)
+  File "/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 944, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'positions'
+ShujinHuangs-MacBook-Air:position shujinhuang$

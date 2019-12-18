@@ -1,0 +1,7 @@
+1. spider 目录下不能有其它非spider文件
+
+2. xpath 使用相对路径
+
+3. spider not found 终级解决方案(使用scrapy genspider 创建spider)
+
+4. ROBOTSTXT_OBEY

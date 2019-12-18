@@ -1,26 +1,30 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*
+# coding=utf8
 
-#  multiprocess
+from category.listcompanyinfo import infoobj
+# from util..urlhandler import get_soup
+from src.headers import header
 
-from util.urlhandler import get_soup
-import time
+from bs4 import BeautifulSoup
+import requests
 
-# from mongoconn import mongoset
 
-# table = mongoset('58sale', 'itemurls')
 
-if __name__ == '__main__':
-    starttime = time.time()
-    print ('start: ')
-    print (time.strftime('%Y-%m-%d %H:%M:%S'))
+def get_soup(params):
+    url = params.get('url')
+    header = params.get('header')
+    source = requests.get(url, headers=header)
+    soup = BeautifulSoup(source.text, 'lxml')
+    return soup
 
-    url = 'https://www.qichacha.com/search?key=91210800MA0QCLUT14'
-    # navurls = get_nav_urls(url)
-    t = get_soup(url)
 
-    # pool.map(insert_urls_by_nav, navurls)
 
-    endtime = time.time()
-    print (time.strftime('%Y-%m-%d %H:%M:%S'))
-    elapsed = endtime - starttime
+# header =
+key = '600125'
+url = infoobj.get_src_url(key)
+params = {
+    "url": url,
+    "header": header
+}
+t = get_soup(params)
+infoobj.get_cn_con(t)
+pass

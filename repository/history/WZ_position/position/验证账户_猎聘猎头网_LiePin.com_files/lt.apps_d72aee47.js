@@ -1,0 +1,1 @@
+var Apps={};Apps.passPort={},Apps.passPort.weakPassWord=function(pwd){var isWeakPassWord=!1;return $.ajax({url:LT.Env.passportRoot+"check-weak-pwd.json?__mn__=pwd",dataType:"json",type:"post",data:{pwd:pwd},async:!1,success:function(data){1===data.flag?"weak"===data.data&&(isWeakPassWord=!0):$.dialog.error(data.msg)}}),isWeakPassWord};

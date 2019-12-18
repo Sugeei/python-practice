@@ -1,0 +1,22 @@
+X-Powered-By:HHVM/3.7.3
+Request Headers
+view source
+Accept:*/*
+Accept-Encoding:gzip, deflate, sdch
+Accept-Language:en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4
+Connection:keep-alive
+Cookie:pgv_pvi=9772463104; RK=DAfTV/szRZ; ptui_loginuin=215626824; ptcz=0943f5b5be4e784e274499622dc385cdd43baf38b4bf5f99d9dedfeadd28aab4; pt2gguin=o0215626824; pac_uid=1_215626824; g_tk=40a5e379e876944ff70ba284e020cd7a434561e9; pgv_info=ssid=s7542608484; pgv_pvid=1015377764; o_cookie=215626824
+Host:coral.qq.com
+Referer:http://news.qq.com/a/20170405/007689.htm
+User-Agent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+Query String Parameters
+view source
+view URL encoded
+callback:_cbSum
+source:1
+t:0.6698205387880929
+callback:comment
+_:1491355944027
+
+
+comment({"errCode":0,"data":{"targetid":1853092734,"commentnum":"789"},"info":{"time":1491355925}})

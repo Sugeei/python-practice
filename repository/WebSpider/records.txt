@@ -1,0 +1,2 @@
+批量插入失败
+pymongo.errors.BulkWriteError: batch op errors occurred

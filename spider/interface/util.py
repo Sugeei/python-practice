@@ -1,6 +1,8 @@
 # coding=utf8
 from category.listcompanyinfo import infoobj
 # from util..urlhandler import get_soup
+from src.headers import header
+from src.cookies import cookie
 
 from bs4 import BeautifulSoup
 import requests
@@ -14,7 +16,6 @@ def get_soup(params):
     return soup
 
 
-from src.headers import header
 
 # header =
 key = '600125'
