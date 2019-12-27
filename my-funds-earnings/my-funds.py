@@ -14,7 +14,6 @@ print("---------total earnings----------")
 print(sum(df['earnings']))
 
 
-
 df = pd.read_csv('sellings.csv', dtype={'security-id':str})
 df['net-earnings'] = df['out-value'] - df['cost-per-share'] * df['out-share']
 print(df)
