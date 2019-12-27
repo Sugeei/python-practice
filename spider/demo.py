@@ -1,4 +1,8 @@
 # coding=utf8
+# console.log('Hello, world!');
+# phantom.exit();
+
+
 
 from category.listcompanyinfo import infoobj
 # from util..urlhandler import get_soup
