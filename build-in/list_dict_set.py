@@ -1,5 +1,11 @@
+# coding=utf8
 # to see vesion of a module
 # pandas.__version__
+
+
+a = set([1,2,3])
+b = set([3,4,5])
+print((a&b) ^ a)
 
 l = [1, 2, 3, 4, 5]
 print(l[10:])
@@ -8,13 +14,13 @@ print(''.join([str(x) for x in l]))
 # 字典合并
 x = {'x': 1, 'y': 2}
 y = {'a': 3, 'b': 4}
-z = {**x, **y}
-print(z)
+# z = {**x, **y}
+# print(z)
 
 x = {'x': 1, 'y': 2}
 y = {'a': 3, 'b': 4}
-z = {**x, **y}
-print(z)
+# z = {**x, **y}
+# print(z)
 
 a = set(range(10))
 b = set(range(15))

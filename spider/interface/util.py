@@ -6,6 +6,11 @@ from src.cookies import cookie
 
 from bs4 import BeautifulSoup
 import requests
+# coding:utf-8
+# 引入selenium中的webdriver
+import re
+from urllib import urlretrieve
+from selenium import webdriver
 
 
 def get_soup(params):
@@ -14,7 +19,6 @@ def get_soup(params):
     source = requests.get(url, headers=header)
     soup = BeautifulSoup(source.text, 'lxml')
     return soup
-
 
 
 # header =

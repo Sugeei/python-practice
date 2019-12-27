@@ -3,46 +3,46 @@
 https://stackoverflow.com/questions/19660744/git-push-permission-denied-public-key
 
 
-shujin.huang@SHN1708DSL9YF2 MINGW64 /d/1_handbook/python
+    shujin.huang@SHN1708DSL9YF2 MINGW64 /d/1_handbook/python
 $ ssh-keygen -t rsa -C shujin.huang@datayes.com
-Generating public/private rsa key pair.
-Enter file in which to save the key (/c/Users/shujin.huang/.ssh/id_rsa):
-/c/Users/shujin.huang/.ssh/id_rsa already exists.
-Overwrite (y/n)? y
-Enter passphrase (empty for no passphrase):
-Enter same passphrase again:
-Your identification has been saved in /c/Users/shujin.huang/.ssh/id_rsa.
-Your public key has been saved in /c/Users/shujin.huang/.ssh/id_rsa.pub.
-The key fingerprint is:
-SHA256:VIVPzVwIyEO7FHI+er2LfCGQWT1t0tsY5QeCWQhyu/4 shujin.huang@datayes.com
-The key's randomart image is:
-+---[RSA 2048]----+
-|      . ++=X=B.+o|
-|       o *Xo=.Xo |
-|        o+=+ + =o|
-|       .++ +. o o|
-|        S.o .    |
-|       . .. ..   |
-|        .  ...   |
-|         o ...   |
-|          E..    |
-+----[SHA256]-----+
+    Generating public/private rsa key pair.
+    Enter file in which to save the key (/c/Users/shujin.huang/.ssh/id_rsa):
+    /c/Users/shujin.huang/.ssh/id_rsa already exists.
+    Overwrite (y/n)? y
+    Enter passphrase (empty for no passphrase):
+    Enter same passphrase again:
+    Your identification has been saved in /c/Users/shujin.huang/.ssh/id_rsa.
+    Your public key has been saved in /c/Users/shujin.huang/.ssh/id_rsa.pub.
+    The key fingerprint is:
+    SHA256:VIVPzVwIyEO7FHI+er2LfCGQWT1t0tsY5QeCWQhyu/4 shujin.huang@datayes.com
+    The key's randomart image is:
+    +---[RSA 2048]----+
+    |      . ++=X=B.+o|
+    |       o *Xo=.Xo |
+    |        o+=+ + =o|
+    |       .++ +. o o|
+    |        S.o .    |
+    |       . .. ..   |
+    |        .  ...   |
+    |         o ...   |
+    |          E..    |
+    +----[SHA256]-----+
 
-shujin.huang@SHN1708DSL9YF2 MINGW64 /d/1_handbook/python
+    shujin.huang@SHN1708DSL9YF2 MINGW64 /d/1_handbook/python
 $ cd ~/.ssh
 
-shujin.huang@SHN1708DSL9YF2 MINGW64 ~/.ssh
+    shujin.huang@SHN1708DSL9YF2 MINGW64 ~/.ssh
 $ ll
 total 9
 -rw-r--r-- 1 shujin.huang 1049089 1675 ʮһ 28 19:06 id_rsa
 -rw-r--r-- 1 shujin.huang 1049089  406 ʮһ 28 19:06 id_rsa.pub
 -rw-r--r-- 1 shujin.huang 1049089 1388 ʮһ 28 18:49 known_hosts
 
-shujin.huang@SHN1708DSL9YF2 MINGW64 ~/.ssh
+    shujin.huang@SHN1708DSL9YF2 MINGW64 ~/.ssh
 $ cat id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCo6fANHXS8UzlTxOENGcZl4AGi89HHZlI07WTH69Lb875sbhTt9Dhg+Zj6FZdPEb1xqBbdDctT+pnZud3DTemVee+crmGzHdFZFjOmGvg7oz4Ul0IrcN7tL9XMNvuVmLhhRwLW7zPS1q7cbsE4xJkFRxprGoE7WO3ERWnPGF6DA+mL5TVcnl8w/0u+N9qkJOp6OmK6beHd+cF3nKNBKUmx4ngkJ7UJxjHrlt3ulrmy3QK+xbcphTKP0+j8fhWuJwghp+kLs6tnUiB/PLMRCcBDM1qs4prHiwegobVsBE0hSqrzW4dyBxbDvGMtpATIhwg+B60CUzXtAENp4/yHPj1r shujin.huang@datayes.com
 
-shujin.huang@SHN1708DSL9YF2 MINGW64 ~/.ssh
+    shujin.huang@SHN1708DSL9YF2 MINGW64 ~/.ssh
 $ ssh -T git@github.com
 Hi Sugeei/python-practice! You've successfully authenticated, but GitHub does not provide shell access.
 

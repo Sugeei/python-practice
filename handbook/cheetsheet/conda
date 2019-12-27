@@ -1,0 +1,20 @@
+To list all the env
+conda env list
+
+
+Use cmd instead of Powershell! I spent 2 hours before I switched to cmd and then it worked!
+
+create Environment:
+
+conda create -n your_environment_name
+conda create --name myclone --clone root
+
+see list of conda environments:
+
+conda env list
+
+activate your environment:
+
+activate your_environment_name
+
+conda search –f
