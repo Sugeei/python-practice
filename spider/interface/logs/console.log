@@ -1,0 +1,1092 @@
+2019-12-21 12:35:17,286 - spider - INFO - InterFaceListedCompany init
+2019-12-21 12:35:17,289 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600011
+2019-12-21 12:35:26,376 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000001
+2019-12-21 12:35:30,570 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000002
+2019-12-21 12:35:37,737 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000003
+2019-12-21 12:35:42,089 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000004
+2019-12-21 12:35:51,319 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000005
+2019-12-21 12:35:58,955 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000006
+2019-12-21 12:36:10,030 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000007
+2019-12-21 12:36:19,092 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000008
+2019-12-21 12:36:24,566 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000009
+2019-12-21 12:36:33,895 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000010
+2019-12-21 12:38:45,400 - spider - INFO - InterFaceListedCompany init
+2019-12-21 12:38:45,404 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600011
+2019-12-21 12:38:54,061 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600011, get title=公司概况 | 上海证券交易所, content length=290621
+2019-12-21 12:39:01,449 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000001
+2019-12-21 12:39:12,213 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000001, get title=公司概况 | 上海证券交易所, content length=281911
+2019-12-21 12:40:16,352 - spider - INFO - InterFaceListedCompany init
+2019-12-21 12:40:16,353 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600011
+2019-12-21 12:40:25,543 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600011, get title=公司概况 | 上海证券交易所, content length=290491
+2019-12-21 12:40:25,735 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600004
+2019-12-21 12:40:30,781 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600004, get title=公司概况 | 上海证券交易所, content length=295842
+2019-12-21 12:40:30,963 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600006
+2019-12-21 12:40:41,643 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600006, get title=公司概况 | 上海证券交易所, content length=294401
+2019-12-21 12:40:41,837 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600007
+2019-12-21 12:40:48,234 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600007, get title=公司概况 | 上海证券交易所, content length=294300
+2019-12-21 12:40:48,488 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600008
+2019-12-21 12:40:56,686 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600008, get title=公司概况 | 上海证券交易所, content length=280336
+2019-12-21 12:40:56,870 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600009
+2019-12-21 12:41:02,389 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600009, get title=公司概况 | 上海证券交易所, content length=293123
+2019-12-21 12:41:02,570 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000002
+2019-12-21 12:41:11,510 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000002, get title=公司概况 | 上海证券交易所, content length=288025
+2019-12-21 12:41:11,696 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000003
+2019-12-21 12:41:18,910 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000003, get title=公司概况 | 上海证券交易所, content length=282802
+2019-12-21 12:41:19,067 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000004
+2019-12-21 12:41:26,172 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000004, get title=公司概况 | 上海证券交易所, content length=288242
+2019-12-21 12:41:26,472 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000005
+2019-12-21 12:41:32,498 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000005, get title=公司概况 | 上海证券交易所, content length=290158
+2019-12-21 12:41:32,699 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000006
+2019-12-21 12:41:41,793 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000006, get title=公司概况 | 上海证券交易所, content length=287635
+2019-12-21 12:41:41,959 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000007
+2019-12-21 12:41:47,025 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000007, get title=公司概况 | 上海证券交易所, content length=288118
+2019-12-21 12:41:47,216 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000008
+2019-12-21 12:41:57,780 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000008, get title=公司概况 | 上海证券交易所, content length=286778
+2019-12-21 12:41:57,968 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000009
+2019-12-21 12:42:05,124 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000009, get title=公司概况 | 上海证券交易所, content length=289059
+2019-12-21 12:42:05,389 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000010
+2019-12-21 12:42:13,740 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000010, get title=公司概况 | 上海证券交易所, content length=287358
+2019-12-21 15:20:22,543 - spider - INFO - InterFaceListedCompany init
+2019-12-21 15:20:22,549 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000898
+2019-12-21 15:20:33,866 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000898, get title=公司概况 | 上海证券交易所, content length=232827
+2019-12-21 15:20:45,438 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-21 15:20:52,142 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234769
+2019-12-21 15:21:04,074 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-21 15:21:14,874 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238931
+2019-12-21 15:22:44,317 - spider - INFO - InterFaceListedCompany init
+2019-12-21 15:22:44,318 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000898
+2019-12-21 15:22:54,202 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000898, get title=公司概况 | 上海证券交易所, content length=232857
+2019-12-21 15:22:54,368 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-21 15:23:04,452 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234769
+2019-12-21 15:23:04,633 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-21 15:23:11,113 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238931
+2019-12-21 15:23:11,286 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000761
+2019-12-21 15:23:19,320 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000761, get title=公司概况 | 上海证券交易所, content length=230815
+2019-12-21 15:23:19,566 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=200761
+2019-12-21 15:23:32,209 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=200761, get title=公司概况 | 上海证券交易所, content length=231335
+2019-12-21 15:23:32,404 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000498
+2019-12-21 15:23:43,310 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000498, get title=公司概况 | 上海证券交易所, content length=231980
+2019-12-21 15:23:43,523 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000585
+2019-12-21 15:23:54,104 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000585, get title=公司概况 | 上海证券交易所, content length=231105
+2019-12-21 15:23:54,291 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000597
+2019-12-21 15:23:59,826 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000597, get title=公司概况 | 上海证券交易所, content length=231661
+2019-12-21 15:23:59,988 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399
+2019-12-21 15:24:10,184 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get title=公司概况 | 上海证券交易所, content length=294703
+2019-12-21 15:24:10,553 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795
+2019-12-21 15:24:20,694 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get title=公司概况 | 上海证券交易所, content length=284513
+2019-12-21 15:24:20,972 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000751
+2019-12-21 15:24:29,424 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000751, get title=公司概况 | 上海证券交易所, content length=233153
+2019-12-21 15:24:29,581 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609
+2019-12-21 15:24:37,728 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get title=公司概况 | 上海证券交易所, content length=286902
+2019-12-21 15:24:37,917 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000820
+2019-12-21 15:24:44,840 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000820, get title=公司概况 | 上海证券交易所, content length=227599
+2019-12-21 15:24:45,007 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000818
+2019-12-21 15:24:49,028 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000818, get title=公司概况 | 上海证券交易所, content length=231402
+2019-12-21 15:24:49,503 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190
+2019-12-21 15:25:02,210 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get title=公司概况 | 上海证券交易所, content length=289447
+2019-12-21 15:25:02,400 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952
+2019-12-21 15:25:11,850 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get title=公司概况 | 上海证券交易所, content length=268557
+2019-12-21 15:25:12,024 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000686
+2019-12-21 15:25:19,358 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000686, get title=公司概况 | 上海证券交易所, content length=231404
+2019-12-21 15:25:19,551 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000763
+2019-12-21 15:25:30,053 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000763, get title=公司概况 | 上海证券交易所, content length=232859
+2019-12-21 15:25:30,250 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000558
+2019-12-21 15:25:41,360 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000558, get title=公司概况 | 上海证券交易所, content length=233443
+2019-12-21 15:25:41,645 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000817
+2019-12-21 15:25:51,286 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000817, get title=公司概况 | 上海证券交易所, content length=232831
+2019-12-21 15:25:51,462 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739
+2019-12-21 15:26:04,824 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get title=公司概况 | 上海证券交易所, content length=293447
+2019-12-21 15:26:05,006 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077
+2019-12-21 15:26:17,234 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get title=公司概况 | 上海证券交易所, content length=286926
+2019-12-21 15:26:17,404 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000059
+2019-12-21 15:26:23,861 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000059, get title=公司概况 | 上海证券交易所, content length=288181
+2019-12-21 15:26:24,029 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758
+2019-12-21 15:26:34,128 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get title=公司概况 | 上海证券交易所, content length=296428
+2019-12-21 15:26:34,378 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=002123
+2019-12-21 15:26:40,542 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=002123, get title=公司概况 | 上海证券交易所, content length=229063
+2019-12-21 15:26:40,752 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241
+2019-12-21 15:26:47,529 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get title=公司概况 | 上海证券交易所, content length=286494
+2019-12-21 15:26:47,693 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303
+2019-12-21 15:26:57,124 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get title=公司概况 | 上海证券交易所, content length=286604
+2019-12-21 15:26:57,329 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231
+2019-12-21 15:27:02,392 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get title=公司概况 | 上海证券交易所, content length=280823
+2019-12-21 15:27:02,559 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718
+2019-12-21 15:27:10,093 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get title=公司概况 | 上海证券交易所, content length=293632
+2019-12-21 15:27:10,338 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000769
+2019-12-21 15:27:17,519 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000769, get title=公司概况 | 上海证券交易所, content length=231694
+2019-12-21 15:27:17,711 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000633
+2019-12-21 15:27:24,832 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000633, get title=公司概况 | 上海证券交易所, content length=230819
+2019-12-21 15:27:25,027 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000698
+2019-12-21 15:27:34,148 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000698, get title=公司概况 | 上海证券交易所, content length=231106
+2019-12-21 15:27:34,340 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000692
+2019-12-21 15:27:43,143 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000692, get title=公司概况 | 上海证券交易所, content length=231110
+2019-12-21 15:27:43,365 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000410
+2019-12-21 15:27:53,705 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000410, get title=公司概况 | 上海证券交易所, content length=229357
+2019-12-21 15:27:53,953 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396
+2019-12-21 15:28:07,682 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get title=公司概况 | 上海证券交易所, content length=294809
+2019-12-21 15:28:07,898 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306
+2019-12-21 15:28:15,856 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get title=公司概况 | 上海证券交易所, content length=292125
+2019-12-21 15:28:16,066 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000730
+2019-12-21 15:28:24,148 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000730, get title=公司概况 | 上海证券交易所, content length=234028
+2019-12-21 15:28:24,307 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167
+2019-12-21 15:28:33,202 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get title=公司概况 | 上海证券交易所, content length=295945
+2019-12-21 15:28:33,468 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000511
+2019-12-21 15:28:37,481 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000511, get title=公司概况 | 上海证券交易所, content length=231394
+2019-12-21 15:28:37,696 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715
+2019-12-21 15:28:50,329 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get title=公司概况 | 上海证券交易所, content length=297761
+2019-12-21 15:28:50,541 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=200706
+2019-12-21 15:29:00,120 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=200706, get title=公司概况 | 上海证券交易所, content length=231037
+2019-12-21 15:29:00,306 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000616
+2019-12-21 15:29:04,826 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000616, get title=公司概况 | 上海证券交易所, content length=232855
+2019-12-21 15:29:04,994 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317
+2019-12-21 15:29:15,169 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get title=公司概况 | 上海证券交易所, content length=281260
+2019-12-21 15:29:15,427 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000638
+2019-12-21 15:29:25,742 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000638, get title=公司概况 | 上海证券交易所, content length=230231
+2019-12-21 15:29:25,918 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125
+2019-12-21 15:29:36,712 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get title=公司概况 | 上海证券交易所, content length=290725
+2019-12-21 15:29:36,929 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000715
+2019-12-21 15:29:44,177 - spider - INFO - InterFaceListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=000715, get title=公司概况 | 上海证券交易所, content length=227828
+2019-12-21 15:48:24,529 - spider - INFO - InterFaceListedCompany init
+2019-12-21 15:48:51,956 - spider - INFO - InterFaceListedCompany init
+2019-12-21 15:51:00,967 - spider - INFO - InterFaceListedCompany init
+2019-12-21 15:53:22,147 - spider - INFO - InterFaceListedCompany init
+2019-12-21 15:54:02,173 - spider - INFO - InterFaceListedCompany init
+2019-12-21 15:54:14,469 - spider - INFO - InterFaceListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-21 15:54:35,992 - spider - INFO - InterFaceListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-21 15:55:48,712 - spider - INFO - InterFaceListedCompany init
+2019-12-21 15:55:54,283 - spider - INFO - InterFaceListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-21 15:56:07,784 - spider - INFO - InterFaceListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 11:24:55,193 - spider - INFO - InterFaceListedCompany init
+2019-12-22 11:25:02,829 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 11:25:13,747 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 11:42:52,762 - spider - INFO - InterFaceListedCompany init
+2019-12-22 11:43:16,126 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 11:43:28,000 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 11:44:00,975 - spider - INFO - InterFaceListedCompany init
+2019-12-22 11:44:03,848 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 11:44:17,354 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 11:44:18,037 - spider - INFO - valid data length=34, usr=http://www.szse.cn/certificate/individual/index.html?code=%s
+2019-12-22 11:45:11,180 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 11:45:19,010 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234740
+2019-12-22 11:45:43,026 - spider - INFO - InterFaceListedCompany init
+2019-12-22 11:45:43,032 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 11:45:52,971 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 11:45:53,739 - spider - INFO - valid data length=34, usr=http://www.szse.cn/certificate/individual/index.html?code=%s
+2019-12-22 11:48:52,540 - spider - INFO - InterFaceListedCompany init
+2019-12-22 11:48:52,544 - spider - INFO - valid usl=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 11:48:52,545 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 11:49:06,364 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 11:49:07,076 - spider - INFO - valid data length=34
+2019-12-22 11:51:01,877 - spider - INFO - valid usl=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 11:51:01,880 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 11:51:11,731 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234740
+2019-12-22 11:51:12,796 - spider - INFO - valid data length=20
+2019-12-22 11:51:12,807 - spider - INFO - valid usl=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-22 11:51:12,807 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-22 11:51:20,528 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238930
+2019-12-22 11:51:21,531 - spider - INFO - valid data length=20
+2019-12-22 11:51:21,548 - spider - INFO - valid usl=http://www.szse.cn/certificate/individual/index.html?code=000761
+2019-12-22 11:51:50,593 - spider - INFO - InterFaceListedCompany init
+2019-12-22 11:51:50,595 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 11:51:57,906 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 11:51:58,061 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get res length=34
+2019-12-22 11:51:58,066 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 11:52:04,802 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234769
+2019-12-22 11:52:04,971 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2019-12-22 11:52:04,974 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-22 11:52:17,750 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238931
+2019-12-22 11:52:17,967 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get res length=20
+2019-12-22 11:52:17,974 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761
+2019-12-22 11:52:31,469 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get title=深圳证券交易所-个股产品, content length=187940
+2019-12-22 11:52:31,623 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get res length=34
+2019-12-22 11:52:31,627 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761
+2019-12-22 11:52:43,637 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get title=深圳证券交易所-个股产品, content length=187741
+2019-12-22 11:52:43,864 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get res length=34
+2019-12-22 11:52:43,868 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498
+2019-12-22 11:52:53,383 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get title=深圳证券交易所-个股产品, content length=187795
+2019-12-22 11:52:53,530 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get res length=34
+2019-12-22 11:52:53,534 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585
+2019-12-22 11:53:08,111 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get title=深圳证券交易所-个股产品, content length=187983
+2019-12-22 11:53:08,250 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get res length=34
+2019-12-22 11:53:08,255 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597
+2019-12-22 11:53:18,845 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get title=深圳证券交易所-个股产品, content length=187802
+2019-12-22 11:53:18,990 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get res length=34
+2019-12-22 11:53:18,994 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399
+2019-12-22 11:53:48,450 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get title=公司概况 | 上海证券交易所, content length=294703
+2019-12-22 11:53:48,631 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get res length=20
+2019-12-22 11:53:48,635 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795
+2019-12-22 11:53:52,927 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get title=公司概况 | 上海证券交易所, content length=284588
+2019-12-22 11:53:53,252 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get res length=20
+2019-12-22 11:53:53,255 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751
+2019-12-22 11:54:03,893 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get title=深圳证券交易所-个股产品, content length=187773
+2019-12-22 11:54:04,052 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get res length=34
+2019-12-22 11:54:04,058 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609
+2019-12-22 11:54:12,023 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get title=公司概况 | 上海证券交易所, content length=286827
+2019-12-22 11:54:12,206 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get res length=20
+2019-12-22 11:54:12,211 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820
+2019-12-22 11:54:19,542 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get title=深圳证券交易所-个股产品, content length=187818
+2019-12-22 11:54:19,696 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get res length=34
+2019-12-22 11:54:19,700 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818
+2019-12-22 11:54:37,229 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get title=深圳证券交易所-个股产品, content length=187784
+2019-12-22 11:54:37,370 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get res length=34
+2019-12-22 11:54:37,374 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190
+2019-12-22 11:54:44,811 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get title=公司概况 | 上海证券交易所, content length=289447
+2019-12-22 11:54:44,985 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get res length=20
+2019-12-22 11:54:44,989 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952
+2019-12-22 11:54:55,180 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get title=公司概况 | 上海证券交易所, content length=268557
+2019-12-22 11:54:55,443 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get res length=0
+2019-12-22 11:54:55,447 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686
+2019-12-22 11:55:04,138 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get title=深圳证券交易所-个股产品, content length=187781
+2019-12-22 11:55:04,278 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get res length=34
+2019-12-22 11:55:04,282 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763
+2019-12-22 11:55:11,121 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get title=深圳证券交易所-个股产品, content length=187510
+2019-12-22 11:55:11,267 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get res length=34
+2019-12-22 11:55:11,274 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558
+2019-12-22 11:55:20,283 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get title=深圳证券交易所-个股产品, content length=187871
+2019-12-22 11:55:20,426 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get res length=34
+2019-12-22 11:55:20,431 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817
+2019-12-22 11:55:30,369 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get title=深圳证券交易所-个股产品, content length=187540
+2019-12-22 11:55:30,518 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get res length=34
+2019-12-22 11:55:30,525 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739
+2019-12-22 11:55:37,264 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get title=公司概况 | 上海证券交易所, content length=293497
+2019-12-22 11:55:37,632 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get res length=20
+2019-12-22 11:55:37,637 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077
+2019-12-22 11:55:45,809 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get title=公司概况 | 上海证券交易所, content length=286926
+2019-12-22 11:55:46,100 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get res length=20
+2019-12-22 11:55:46,103 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059
+2019-12-22 11:55:57,115 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get title=深圳证券交易所-个股产品, content length=187999
+2019-12-22 11:55:57,266 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get res length=34
+2019-12-22 11:55:57,270 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758
+2019-12-22 11:56:06,418 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get title=公司概况 | 上海证券交易所, content length=296428
+2019-12-22 11:56:06,597 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get res length=20
+2019-12-22 11:56:06,602 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123
+2019-12-22 11:56:17,831 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get title=深圳证券交易所-个股产品, content length=187834
+2019-12-22 11:56:17,984 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get res length=34
+2019-12-22 11:56:17,989 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241
+2019-12-22 11:56:30,316 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get title=公司概况 | 上海证券交易所, content length=286494
+2019-12-22 11:56:30,494 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get res length=20
+2019-12-22 11:56:30,501 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303
+2019-12-22 11:56:40,307 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get title=公司概况 | 上海证券交易所, content length=286604
+2019-12-22 11:56:40,562 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get res length=20
+2019-12-22 11:56:40,566 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231
+2019-12-22 11:56:52,082 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get title=公司概况 | 上海证券交易所, content length=234614
+2019-12-22 11:56:52,296 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get res length=20
+2019-12-22 11:56:52,302 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718
+2019-12-22 11:57:01,886 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get title=公司概况 | 上海证券交易所, content length=293577
+2019-12-22 11:57:02,068 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get res length=20
+2019-12-22 11:57:02,073 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769
+2019-12-22 11:57:13,820 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get title=深圳证券交易所-个股产品, content length=187214
+2019-12-22 11:57:13,973 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get res length=34
+2019-12-22 11:57:13,978 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633
+2019-12-22 11:57:25,829 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get title=深圳证券交易所-个股产品, content length=187829
+2019-12-22 11:57:25,988 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get res length=34
+2019-12-22 11:57:26,000 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698
+2019-12-22 11:57:35,872 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get title=深圳证券交易所-个股产品, content length=187724
+2019-12-22 11:57:36,117 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get res length=34
+2019-12-22 11:57:36,121 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692
+2019-12-22 11:57:49,079 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get title=深圳证券交易所-个股产品, content length=187854
+2019-12-22 11:57:49,227 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get res length=34
+2019-12-22 11:57:49,232 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410
+2019-12-22 11:58:03,484 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get title=深圳证券交易所-个股产品, content length=187865
+2019-12-22 11:58:03,636 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get res length=34
+2019-12-22 11:58:03,643 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396
+2019-12-22 11:58:12,727 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get title=公司概况 | 上海证券交易所, content length=294809
+2019-12-22 11:58:12,916 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get res length=20
+2019-12-22 11:58:12,921 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306
+2019-12-22 11:58:19,593 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get title=公司概况 | 上海证券交易所, content length=292125
+2019-12-22 11:58:19,761 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get res length=20
+2019-12-22 11:58:19,765 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730
+2019-12-22 11:58:32,460 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get title=深圳证券交易所-个股产品, content length=187274
+2019-12-22 11:58:32,604 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get res length=34
+2019-12-22 11:58:32,608 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167
+2019-12-22 11:58:39,734 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get title=公司概况 | 上海证券交易所, content length=295975
+2019-12-22 11:58:40,001 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get res length=20
+2019-12-22 11:58:40,005 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511
+2019-12-22 11:58:54,424 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get title=深圳证券交易所-个股产品, content length=187833
+2019-12-22 11:58:54,569 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get res length=34
+2019-12-22 11:58:54,575 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715
+2019-12-22 11:59:00,710 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get title=公司概况 | 上海证券交易所, content length=297761
+2019-12-22 11:59:00,898 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get res length=20
+2019-12-22 11:59:00,902 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706
+2019-12-22 11:59:11,830 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get title=深圳证券交易所-个股产品, content length=187709
+2019-12-22 11:59:11,960 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get res length=34
+2019-12-22 11:59:11,965 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616
+2019-12-22 11:59:25,252 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get title=深圳证券交易所-个股产品, content length=187908
+2019-12-22 11:59:25,397 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get res length=34
+2019-12-22 11:59:25,402 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317
+2019-12-22 11:59:30,479 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get title=公司概况 | 上海证券交易所, content length=281290
+2019-12-22 11:59:30,745 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get res length=20
+2019-12-22 11:59:30,749 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638
+2019-12-22 11:59:36,806 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get title=深圳证券交易所-个股产品, content length=187878
+2019-12-22 11:59:36,983 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get res length=34
+2019-12-22 11:59:36,987 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125
+2019-12-22 11:59:47,701 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get title=公司概况 | 上海证券交易所, content length=290725
+2019-12-22 11:59:47,909 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get res length=20
+2019-12-22 11:59:47,916 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715
+2019-12-22 12:00:00,324 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get title=深圳证券交易所-个股产品, content length=187861
+2019-12-22 12:00:00,457 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get res length=34
+2019-12-22 12:01:00,621 - spider - INFO - InterFaceListedCompany init
+2019-12-22 12:01:00,623 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 12:01:15,276 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 12:01:25,743 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get res length=34
+2019-12-22 12:01:58,482 - spider - INFO - InterFaceListedCompany init
+2019-12-22 12:01:58,484 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 12:02:10,255 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 12:02:13,256 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get res length=34
+2019-12-22 12:02:43,582 - spider - INFO - InterFaceListedCompany init
+2019-12-22 12:02:43,584 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 12:02:55,970 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 12:03:00,051 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get res length=34
+2019-12-22 12:05:04,477 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 12:05:13,272 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234769
+2019-12-22 12:05:13,906 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2019-12-22 12:06:22,175 - spider - INFO - InterFaceListedCompany init
+2019-12-22 12:06:22,177 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 12:06:35,880 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 12:06:38,750 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get res length=34
+2019-12-22 12:06:39,684 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 12:06:52,878 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234769
+2019-12-22 12:06:53,839 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2019-12-22 12:07:35,068 - spider - INFO - InterFaceListedCompany init
+2019-12-22 12:07:35,068 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 12:07:46,535 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 12:07:46,698 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get res length=34
+2019-12-22 12:07:46,702 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 12:07:52,245 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234769
+2019-12-22 12:07:52,437 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2019-12-22 12:08:18,999 - spider - INFO - InterFaceListedCompany init
+2019-12-22 12:08:19,000 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 12:08:33,545 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 12:08:33,700 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get res length=34
+2019-12-22 12:08:33,705 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 12:08:39,944 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234770
+2019-12-22 12:08:40,118 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2019-12-22 12:08:40,121 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-22 12:08:51,420 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238931
+2019-12-22 12:08:51,593 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get res length=20
+2019-12-22 12:08:51,597 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761
+2019-12-22 12:09:07,912 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get title=深圳证券交易所-个股产品, content length=187940
+2019-12-22 12:09:08,026 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get res length=34
+2019-12-22 12:09:08,032 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761
+2019-12-22 12:09:17,761 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get title=深圳证券交易所-个股产品, content length=187741
+2019-12-22 12:09:17,983 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get res length=34
+2019-12-22 12:09:17,989 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498
+2019-12-22 12:09:29,982 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get title=深圳证券交易所-个股产品, content length=187795
+2019-12-22 12:09:30,115 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get res length=34
+2019-12-22 12:09:30,120 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585
+2019-12-22 12:09:37,987 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get title=深圳证券交易所-个股产品, content length=187983
+2019-12-22 12:09:38,130 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get res length=34
+2019-12-22 12:09:38,134 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597
+2019-12-22 12:09:44,547 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get title=深圳证券交易所-个股产品, content length=187802
+2019-12-22 12:09:44,687 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get res length=34
+2019-12-22 12:09:44,690 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399
+2019-12-22 12:09:55,420 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get title=公司概况 | 上海证券交易所, content length=294703
+2019-12-22 12:09:55,599 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get res length=20
+2019-12-22 12:09:55,602 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795
+2019-12-22 12:10:05,009 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get title=公司概况 | 上海证券交易所, content length=284588
+2019-12-22 12:10:05,249 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get res length=20
+2019-12-22 12:10:05,253 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751
+2019-12-22 12:10:19,385 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get title=深圳证券交易所-个股产品, content length=187773
+2019-12-22 12:10:19,524 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get res length=34
+2019-12-22 12:10:19,528 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609
+2019-12-22 12:10:24,365 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get title=公司概况 | 上海证券交易所, content length=286827
+2019-12-22 12:10:24,523 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get res length=20
+2019-12-22 12:10:24,528 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820
+2019-12-22 12:10:37,809 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get title=深圳证券交易所-个股产品, content length=187818
+2019-12-22 12:10:37,948 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get res length=34
+2019-12-22 12:10:37,953 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818
+2019-12-22 12:10:46,471 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get title=深圳证券交易所-个股产品, content length=187784
+2019-12-22 12:10:46,628 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get res length=34
+2019-12-22 12:10:46,632 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190
+2019-12-22 12:10:55,721 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get title=公司概况 | 上海证券交易所, content length=289417
+2019-12-22 12:10:55,970 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get res length=20
+2019-12-22 12:10:55,975 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952
+2019-12-22 12:11:06,941 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get title=公司概况 | 上海证券交易所, content length=268557
+2019-12-22 12:11:07,230 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get res length=0
+2019-12-22 12:11:07,233 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686
+2019-12-22 12:11:17,644 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get title=深圳证券交易所-个股产品, content length=187781
+2019-12-22 12:11:17,783 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get res length=34
+2019-12-22 12:11:17,788 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763
+2019-12-22 12:11:33,021 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get title=深圳证券交易所-个股产品, content length=187510
+2019-12-22 12:11:33,174 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get res length=34
+2019-12-22 12:11:33,178 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558
+2019-12-22 12:11:43,106 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get title=深圳证券交易所-个股产品, content length=187871
+2019-12-22 12:11:43,238 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get res length=34
+2019-12-22 12:11:43,242 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817
+2019-12-22 12:11:58,654 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get title=深圳证券交易所-个股产品, content length=187540
+2019-12-22 12:11:58,821 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get res length=34
+2019-12-22 12:11:58,827 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739
+2019-12-22 12:12:03,953 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get title=公司概况 | 上海证券交易所, content length=293497
+2019-12-22 12:12:04,136 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get res length=20
+2019-12-22 12:12:04,141 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077
+2019-12-22 12:12:11,608 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get title=公司概况 | 上海证券交易所, content length=286926
+2019-12-22 12:12:11,883 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get res length=20
+2019-12-22 12:12:11,887 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059
+2019-12-22 12:12:23,211 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get title=深圳证券交易所-个股产品, content length=187999
+2019-12-22 12:12:23,350 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get res length=34
+2019-12-22 12:12:23,356 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758
+2019-12-22 12:12:30,331 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get title=公司概况 | 上海证券交易所, content length=296428
+2019-12-22 12:12:30,517 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get res length=20
+2019-12-22 12:12:30,521 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123
+2019-12-22 12:12:41,169 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get title=深圳证券交易所-个股产品, content length=187834
+2019-12-22 12:12:41,329 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get res length=34
+2019-12-22 12:12:41,333 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241
+2019-12-22 12:12:51,190 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get title=公司概况 | 上海证券交易所, content length=286494
+2019-12-22 12:12:51,353 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get res length=20
+2019-12-22 12:12:51,360 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303
+2019-12-22 12:12:57,910 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get title=公司概况 | 上海证券交易所, content length=286534
+2019-12-22 12:12:58,165 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get res length=20
+2019-12-22 12:12:58,169 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231
+2019-12-22 12:13:04,143 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get title=公司概况 | 上海证券交易所, content length=280823
+2019-12-22 12:13:04,312 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get res length=20
+2019-12-22 12:13:04,317 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718
+2019-12-22 12:13:10,857 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get title=公司概况 | 上海证券交易所, content length=293632
+2019-12-22 12:13:11,034 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get res length=20
+2019-12-22 12:13:11,038 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769
+2019-12-22 12:13:22,908 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get title=深圳证券交易所-个股产品, content length=187214
+2019-12-22 12:13:23,047 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get res length=34
+2019-12-22 12:13:23,050 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633
+2019-12-22 12:13:34,790 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get title=深圳证券交易所-个股产品, content length=187829
+2019-12-22 12:13:34,927 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get res length=34
+2019-12-22 12:13:34,931 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698
+2019-12-22 12:13:45,847 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get title=深圳证券交易所-个股产品, content length=187724
+2019-12-22 12:13:46,072 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get res length=34
+2019-12-22 12:13:46,077 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692
+2019-12-22 12:13:58,490 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get title=深圳证券交易所-个股产品, content length=187854
+2019-12-22 12:13:58,619 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get res length=34
+2019-12-22 12:13:58,623 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410
+2019-12-22 12:14:05,932 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get title=深圳证券交易所-个股产品, content length=187865
+2019-12-22 12:14:06,068 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get res length=34
+2019-12-22 12:14:06,075 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396
+2019-12-22 12:14:14,631 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get title=公司概况 | 上海证券交易所, content length=294809
+2019-12-22 12:14:14,801 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get res length=20
+2019-12-22 12:14:14,808 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306
+2019-12-22 12:14:19,919 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get title=公司概况 | 上海证券交易所, content length=292050
+2019-12-22 12:14:20,096 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get res length=20
+2019-12-22 12:14:20,101 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730
+2019-12-22 12:14:28,266 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get title=深圳证券交易所-个股产品, content length=187274
+2019-12-22 12:14:28,413 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get res length=34
+2019-12-22 12:14:28,419 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167
+2019-12-22 12:14:33,864 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get title=公司概况 | 上海证券交易所, content length=295945
+2019-12-22 12:14:34,182 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get res length=20
+2019-12-22 12:14:34,189 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511
+2019-12-22 12:14:46,296 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get title=深圳证券交易所-个股产品, content length=187833
+2019-12-22 12:14:46,422 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get res length=34
+2019-12-22 12:14:46,426 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715
+2019-12-22 12:14:54,420 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get title=公司概况 | 上海证券交易所, content length=297761
+2019-12-22 12:14:54,591 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get res length=20
+2019-12-22 12:14:54,598 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706
+2019-12-22 12:15:02,138 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get title=深圳证券交易所-个股产品, content length=187709
+2019-12-22 12:15:02,293 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get res length=34
+2019-12-22 12:15:02,298 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616
+2019-12-22 12:15:13,315 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get title=深圳证券交易所-个股产品, content length=187908
+2019-12-22 12:15:13,467 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get res length=34
+2019-12-22 12:15:13,471 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317
+2019-12-22 12:15:20,569 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get title=公司概况 | 上海证券交易所, content length=281290
+2019-12-22 12:15:20,813 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get res length=20
+2019-12-22 12:15:20,816 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638
+2019-12-22 12:15:32,724 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get title=深圳证券交易所-个股产品, content length=187878
+2019-12-22 12:15:32,864 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get res length=34
+2019-12-22 12:15:32,869 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125
+2019-12-22 12:15:40,879 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get title=公司概况 | 上海证券交易所, content length=290725
+2019-12-22 12:15:41,052 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get res length=20
+2019-12-22 12:15:41,056 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715
+2019-12-22 12:15:54,483 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get title=深圳证券交易所-个股产品, content length=187861
+2019-12-22 12:15:54,625 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get res length=34
+2019-12-22 12:29:59,971 - spider - INFO - InterFaceListedCompany init
+2019-12-22 12:29:59,972 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 12:30:10,308 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 12:36:56,347 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 12:37:04,638 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234739
+2019-12-22 12:37:04,851 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2019-12-22 12:37:04,854 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-22 12:37:13,943 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238931
+2019-12-22 12:37:14,103 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get res length=20
+2019-12-22 12:37:14,107 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761
+2019-12-22 12:37:28,900 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get title=深圳证券交易所-个股产品, content length=187940
+2019-12-22 12:37:29,044 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761
+2019-12-22 12:37:40,044 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get title=深圳证券交易所-个股产品, content length=187741
+2019-12-22 12:37:40,197 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498
+2019-12-22 12:37:54,539 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get title=深圳证券交易所-个股产品, content length=187795
+2019-12-22 12:37:54,695 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585
+2019-12-22 12:38:04,836 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get title=深圳证券交易所-个股产品, content length=187983
+2019-12-22 12:38:05,023 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597
+2019-12-22 12:38:09,622 - spider - INFO - InterFaceListedCompany init
+2019-12-22 12:38:09,623 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 12:38:19,288 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get title=深圳证券交易所-个股产品, content length=187802
+2019-12-22 12:38:19,532 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399
+2019-12-22 12:38:26,686 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 12:38:26,812 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get title=公司概况 | 上海证券交易所, content length=294703
+2019-12-22 12:38:27,087 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get res length=20
+2019-12-22 12:38:27,092 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795
+2019-12-22 12:38:35,552 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get title=公司概况 | 上海证券交易所, content length=284588
+2019-12-22 12:38:35,733 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get res length=20
+2019-12-22 12:38:35,737 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751
+2019-12-22 12:38:51,675 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get title=深圳证券交易所-个股产品, content length=187773
+2019-12-22 12:38:51,822 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609
+2019-12-22 12:39:00,066 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get title=公司概况 | 上海证券交易所, content length=286902
+2019-12-22 12:39:00,239 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get res length=20
+2019-12-22 12:39:00,243 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820
+2019-12-22 12:39:00,657 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 12:39:10,784 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234770
+2019-12-22 12:39:10,819 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get title=深圳证券交易所-个股产品, content length=187818
+2019-12-22 12:39:11,063 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2019-12-22 12:39:11,066 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-22 12:39:11,159 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818
+2019-12-22 12:39:12,579 - spider - INFO - InterFaceListedCompany init
+2019-12-22 12:39:12,580 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 12:39:20,992 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238931
+2019-12-22 12:39:21,192 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get res length=20
+2019-12-22 12:39:21,196 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761
+2019-12-22 12:39:24,950 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 12:39:26,771 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get title=深圳证券交易所-个股产品, content length=187784
+2019-12-22 12:39:26,919 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190
+2019-12-22 12:39:33,367 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get title=深圳证券交易所-个股产品, content length=187940
+2019-12-22 12:39:33,520 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get res length=0
+2019-12-22 12:39:33,524 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761
+2019-12-22 12:39:35,740 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get title=公司概况 | 上海证券交易所, content length=289447
+2019-12-22 12:39:35,971 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get res length=20
+2019-12-22 12:39:35,976 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952
+2019-12-22 12:39:40,044 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get title=深圳证券交易所-个股产品, content length=187741
+2019-12-22 12:39:40,162 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get title=公司概况 | 上海证券交易所, content length=268557
+2019-12-22 12:39:40,214 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get res length=0
+2019-12-22 12:39:40,220 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498
+2019-12-22 12:39:40,394 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get res length=0
+2019-12-22 12:39:40,400 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686
+2019-12-22 12:39:40,705 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 12:39:49,202 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234769
+2019-12-22 12:39:49,441 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2019-12-22 12:39:49,446 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-22 12:39:50,136 - spider - INFO - InterFaceListedCompany init
+2019-12-22 12:39:50,137 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 12:39:53,001 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get title=深圳证券交易所-个股产品, content length=187781
+2019-12-22 12:39:53,191 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763
+2019-12-22 12:39:56,817 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get title=深圳证券交易所-个股产品, content length=187795
+2019-12-22 12:39:57,051 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get res length=0
+2019-12-22 12:39:57,057 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585
+2019-12-22 12:40:00,678 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 12:40:01,346 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238876
+2019-12-22 12:40:01,712 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get res length=20
+2019-12-22 12:40:01,722 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761
+2019-12-22 12:40:04,876 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get title=深圳证券交易所-个股产品, content length=187983
+2019-12-22 12:40:05,024 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get res length=0
+2019-12-22 12:40:05,029 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597
+2019-12-22 12:40:07,255 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get title=深圳证券交易所-个股产品, content length=187510
+2019-12-22 12:40:07,400 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558
+2019-12-22 12:40:15,729 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get title=深圳证券交易所-个股产品, content length=187940
+2019-12-22 12:40:15,878 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get res length=0
+2019-12-22 12:40:15,884 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761
+2019-12-22 12:40:18,577 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get title=深圳证券交易所-个股产品, content length=187871
+2019-12-22 12:40:18,832 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817
+2019-12-22 12:40:20,309 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get title=深圳证券交易所-个股产品, content length=187802
+2019-12-22 12:40:20,563 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get res length=0
+2019-12-22 12:40:20,566 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399
+2019-12-22 12:40:24,839 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get title=公司概况 | 上海证券交易所, content length=294703
+2019-12-22 12:40:25,026 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get res length=20
+2019-12-22 12:40:25,031 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795
+2019-12-22 12:40:27,993 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get title=深圳证券交易所-个股产品, content length=187741
+2019-12-22 12:40:28,246 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get res length=0
+2019-12-22 12:40:28,252 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498
+2019-12-22 12:40:29,453 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get title=深圳证券交易所-个股产品, content length=187540
+2019-12-22 12:40:29,614 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739
+2019-12-22 12:40:32,486 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get title=公司概况 | 上海证券交易所, content length=284513
+2019-12-22 12:40:32,790 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get res length=20
+2019-12-22 12:40:32,798 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751
+2019-12-22 12:40:37,047 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get title=公司概况 | 上海证券交易所, content length=293497
+2019-12-22 12:40:37,240 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get res length=20
+2019-12-22 12:40:37,245 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077
+2019-12-22 12:40:41,394 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get title=深圳证券交易所-个股产品, content length=187795
+2019-12-22 12:40:41,542 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get res length=0
+2019-12-22 12:40:41,546 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585
+2019-12-22 12:40:44,302 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get title=深圳证券交易所-个股产品, content length=187773
+2019-12-22 12:40:44,449 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get res length=0
+2019-12-22 12:40:44,453 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609
+2019-12-22 12:40:45,535 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get title=公司概况 | 上海证券交易所, content length=286926
+2019-12-22 12:40:45,816 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get res length=20
+2019-12-22 12:40:45,824 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059
+2019-12-22 12:40:52,773 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get title=公司概况 | 上海证券交易所, content length=286827
+2019-12-22 12:40:53,001 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get res length=20
+2019-12-22 12:40:53,006 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820
+2019-12-22 12:40:56,104 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get title=深圳证券交易所-个股产品, content length=187999
+2019-12-22 12:40:56,387 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758
+2019-12-22 12:40:58,209 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get title=深圳证券交易所-个股产品, content length=187983
+2019-12-22 12:40:58,371 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get res length=0
+2019-12-22 12:40:58,375 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597
+2019-12-22 12:41:04,166 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get title=深圳证券交易所-个股产品, content length=187802
+2019-12-22 12:41:04,415 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get res length=0
+2019-12-22 12:41:04,418 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399
+2019-12-22 12:41:04,454 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get title=公司概况 | 上海证券交易所, content length=296428
+2019-12-22 12:41:04,960 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get res length=20
+2019-12-22 12:41:04,968 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123
+2019-12-22 12:41:05,077 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get title=深圳证券交易所-个股产品, content length=187818
+2019-12-22 12:41:05,521 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get res length=0
+2019-12-22 12:41:05,527 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818
+2019-12-22 12:41:10,624 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get title=公司概况 | 上海证券交易所, content length=294703
+2019-12-22 12:41:10,807 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get res length=20
+2019-12-22 12:41:10,814 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795
+2019-12-22 12:41:13,897 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get title=深圳证券交易所-个股产品, content length=187784
+2019-12-22 12:41:14,064 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get res length=0
+2019-12-22 12:41:14,068 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190
+2019-12-22 12:41:16,963 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get title=公司概况 | 上海证券交易所, content length=284513
+2019-12-22 12:41:17,144 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get res length=20
+2019-12-22 12:41:17,148 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751
+2019-12-22 12:41:17,716 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get title=深圳证券交易所-个股产品, content length=187834
+2019-12-22 12:41:18,024 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241
+2019-12-22 12:41:24,875 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get title=公司概况 | 上海证券交易所, content length=289447
+2019-12-22 12:41:25,084 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get res length=20
+2019-12-22 12:41:25,090 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952
+2019-12-22 12:41:28,166 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get title=公司概况 | 上海证券交易所, content length=286494
+2019-12-22 12:41:28,404 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get res length=20
+2019-12-22 12:41:28,410 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303
+2019-12-22 12:41:29,454 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get title=深圳证券交易所-个股产品, content length=187773
+2019-12-22 12:41:29,609 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get res length=0
+2019-12-22 12:41:29,613 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609
+2019-12-22 12:41:33,504 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get title=公司概况 | 上海证券交易所, content length=268557
+2019-12-22 12:41:33,713 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get res length=0
+2019-12-22 12:41:33,719 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686
+2019-12-22 12:41:34,786 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get title=公司概况 | 上海证券交易所, content length=286534
+2019-12-22 12:41:34,974 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get res length=20
+2019-12-22 12:41:34,978 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231
+2019-12-22 12:41:35,430 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get title=公司概况 | 上海证券交易所, content length=286827
+2019-12-22 12:41:35,860 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get res length=20
+2019-12-22 12:41:35,867 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820
+2019-12-22 12:41:43,010 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get title=公司概况 | 上海证券交易所, content length=280823
+2019-12-22 12:41:43,213 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get res length=20
+2019-12-22 12:41:43,219 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718
+2019-12-22 12:41:43,338 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get title=深圳证券交易所-个股产品, content length=187818
+2019-12-22 12:41:43,731 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get res length=0
+2019-12-22 12:41:43,738 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818
+2019-12-22 12:41:45,105 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get title=深圳证券交易所-个股产品, content length=187781
+2019-12-22 12:41:45,303 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get res length=0
+2019-12-22 12:41:45,308 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763
+2019-12-22 12:41:48,738 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get title=公司概况 | 上海证券交易所, content length=293632
+2019-12-22 12:41:49,111 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get res length=20
+2019-12-22 12:41:49,114 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769
+2019-12-22 12:41:55,249 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get title=深圳证券交易所-个股产品, content length=187510
+2019-12-22 12:41:55,406 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get res length=0
+2019-12-22 12:41:55,410 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558
+2019-12-22 12:41:57,021 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get title=深圳证券交易所-个股产品, content length=187784
+2019-12-22 12:41:57,173 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get res length=0
+2019-12-22 12:41:57,178 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190
+2019-12-22 12:42:05,698 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get title=公司概况 | 上海证券交易所, content length=289447
+2019-12-22 12:42:05,886 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get res length=20
+2019-12-22 12:42:05,893 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952
+2019-12-22 12:42:08,468 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get title=深圳证券交易所-个股产品, content length=187214
+2019-12-22 12:42:08,629 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633
+2019-12-22 12:42:10,395 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get title=深圳证券交易所-个股产品, content length=187871
+2019-12-22 12:42:10,654 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get res length=0
+2019-12-22 12:42:10,658 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817
+2019-12-22 12:42:17,690 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get title=公司概况 | 上海证券交易所, content length=268557
+2019-12-22 12:42:17,858 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get res length=0
+2019-12-22 12:42:17,862 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686
+2019-12-22 12:42:18,215 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get title=深圳证券交易所-个股产品, content length=187829
+2019-12-22 12:42:18,409 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698
+2019-12-22 12:42:22,936 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get title=深圳证券交易所-个股产品, content length=187540
+2019-12-22 12:42:23,169 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get res length=0
+2019-12-22 12:42:23,179 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739
+2019-12-22 12:42:28,996 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get title=深圳证券交易所-个股产品, content length=187724
+2019-12-22 12:42:29,164 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692
+2019-12-22 12:42:32,861 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get title=深圳证券交易所-个股产品, content length=187781
+2019-12-22 12:42:32,878 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get title=公司概况 | 上海证券交易所, content length=293497
+2019-12-22 12:42:33,220 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get res length=0
+2019-12-22 12:42:33,228 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763
+2019-12-22 12:42:33,276 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get res length=20
+2019-12-22 12:42:33,303 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077
+2019-12-22 12:42:39,944 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get title=深圳证券交易所-个股产品, content length=187854
+2019-12-22 12:42:40,120 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410
+2019-12-22 12:42:42,400 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get title=深圳证券交易所-个股产品, content length=187510
+2019-12-22 12:42:42,569 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get res length=0
+2019-12-22 12:42:42,573 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558
+2019-12-22 12:42:43,143 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get title=公司概况 | 上海证券交易所, content length=286926
+2019-12-22 12:42:43,685 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get res length=20
+2019-12-22 12:42:43,691 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059
+2019-12-22 12:42:51,605 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get title=深圳证券交易所-个股产品, content length=187865
+2019-12-22 12:42:51,765 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396
+2019-12-22 12:42:56,946 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get title=深圳证券交易所-个股产品, content length=187871
+2019-12-22 12:42:57,213 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get res length=0
+2019-12-22 12:42:57,219 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817
+2019-12-22 12:42:57,616 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get title=深圳证券交易所-个股产品, content length=187999
+2019-12-22 12:42:57,825 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get res length=0
+2019-12-22 12:42:57,832 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758
+2019-12-22 12:43:00,804 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get title=公司概况 | 上海证券交易所, content length=294809
+2019-12-22 12:43:01,409 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get res length=20
+2019-12-22 12:43:01,413 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306
+2019-12-22 12:43:03,044 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get title=公司概况 | 上海证券交易所, content length=296428
+2019-12-22 12:43:03,373 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get res length=20
+2019-12-22 12:43:03,376 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123
+2019-12-22 16:32:13,430 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get title=深圳证券交易所-个股产品, content length=183004
+2019-12-22 16:32:13,683 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get res length=0
+2019-12-22 16:32:13,802 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241
+2019-12-22 16:32:15,482 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get title=公司概况 | 上海证券交易所, content length=121679
+2019-12-22 16:32:15,669 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get res length=0
+2019-12-22 16:32:15,684 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730
+2019-12-22 16:32:27,024 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get title=公司概况 | 上海证券交易所, content length=286494
+2019-12-22 16:32:27,234 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get res length=20
+2019-12-22 16:32:27,244 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303
+2019-12-22 16:32:28,932 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get title=深圳证券交易所-个股产品, content length=187274
+2019-12-22 16:32:29,087 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167
+2019-12-22 16:32:40,564 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get title=公司概况 | 上海证券交易所, content length=286534
+2019-12-22 16:32:40,748 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get title=公司概况 | 上海证券交易所, content length=295975
+2019-12-22 16:32:40,878 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get res length=20
+2019-12-22 16:32:40,884 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231
+2019-12-22 16:32:41,006 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get res length=20
+2019-12-22 16:32:41,013 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511
+2019-12-22 16:32:49,944 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get title=深圳证券交易所-个股产品, content length=187833
+2019-12-22 16:32:50,108 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715
+2019-12-22 16:32:52,103 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get title=公司概况 | 上海证券交易所, content length=280823
+2019-12-22 16:32:52,327 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get res length=20
+2019-12-22 16:32:52,332 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718
+2019-12-22 16:33:00,215 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get title=公司概况 | 上海证券交易所, content length=297761
+2019-12-22 16:33:00,402 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get res length=20
+2019-12-22 16:33:00,407 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706
+2019-12-22 16:33:01,305 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get title=公司概况 | 上海证券交易所, content length=293632
+2019-12-22 16:33:01,865 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get res length=20
+2019-12-22 16:33:01,871 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769
+2019-12-22 16:33:11,769 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get title=深圳证券交易所-个股产品, content length=187709
+2019-12-22 16:33:12,099 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616
+2019-12-22 16:33:13,496 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get title=深圳证券交易所-个股产品, content length=187214
+2019-12-22 16:33:13,635 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get res length=0
+2019-12-22 16:33:13,640 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633
+2019-12-22 16:33:24,325 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get title=深圳证券交易所-个股产品, content length=187829
+2019-12-22 16:33:24,543 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get res length=0
+2019-12-22 16:33:24,547 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698
+2019-12-22 16:33:25,667 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get title=深圳证券交易所-个股产品, content length=187908
+2019-12-22 16:33:25,825 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317
+2019-12-22 16:33:35,827 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get title=公司概况 | 上海证券交易所, content length=281260
+2019-12-22 16:33:36,022 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get res length=20
+2019-12-22 16:33:36,027 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638
+2019-12-22 16:33:40,739 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get title=深圳证券交易所-个股产品, content length=187724
+2019-12-22 16:33:40,916 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get res length=0
+2019-12-22 16:33:40,923 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692
+2019-12-22 16:33:46,310 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get title=深圳证券交易所-个股产品, content length=187878
+2019-12-22 16:33:46,447 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125
+2019-12-22 16:33:51,968 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get title=深圳证券交易所-个股产品, content length=187854
+2019-12-22 16:33:52,138 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get res length=0
+2019-12-22 16:33:52,141 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410
+2019-12-22 16:33:53,206 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get title=公司概况 | 上海证券交易所, content length=290695
+2019-12-22 16:33:53,537 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get res length=20
+2019-12-22 16:33:53,544 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715
+2019-12-22 16:34:01,695 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get title=深圳证券交易所-个股产品, content length=187865
+2019-12-22 16:34:01,857 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get res length=0
+2019-12-22 16:34:01,861 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396
+2019-12-22 16:34:06,882 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get title=深圳证券交易所-个股产品, content length=187861
+2019-12-22 16:34:16,251 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get title=公司概况 | 上海证券交易所, content length=294779
+2019-12-22 16:34:16,548 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get res length=20
+2019-12-22 16:34:16,552 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306
+2019-12-22 16:34:27,053 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get title=公司概况 | 上海证券交易所, content length=292095
+2019-12-22 16:34:27,228 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get res length=20
+2019-12-22 16:34:27,232 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730
+2019-12-22 16:34:44,762 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get title=深圳证券交易所-个股产品, content length=187274
+2019-12-22 16:34:44,900 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get res length=0
+2019-12-22 16:34:44,906 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167
+2019-12-22 16:34:57,922 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get title=公司概况 | 上海证券交易所, content length=295945
+2019-12-22 16:34:58,114 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get res length=20
+2019-12-22 16:34:58,119 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511
+2019-12-22 16:35:13,648 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get title=深圳证券交易所-个股产品, content length=187833
+2019-12-22 16:35:13,820 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get res length=0
+2019-12-22 16:35:13,825 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715
+2019-12-22 16:35:25,191 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get title=公司概况 | 上海证券交易所, content length=297731
+2019-12-22 16:35:25,437 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get res length=20
+2019-12-22 16:35:25,453 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706
+2019-12-22 16:35:36,911 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get title=深圳证券交易所-个股产品, content length=187709
+2019-12-22 16:35:37,169 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get res length=0
+2019-12-22 16:35:37,173 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616
+2019-12-22 16:35:47,816 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get title=深圳证券交易所-个股产品, content length=187908
+2019-12-22 16:35:47,978 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get res length=0
+2019-12-22 16:35:47,983 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317
+2019-12-22 16:35:54,235 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get title=公司概况 | 上海证券交易所, content length=281290
+2019-12-22 16:35:54,417 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get res length=20
+2019-12-22 16:35:54,422 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638
+2019-12-22 16:36:05,257 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get title=深圳证券交易所-个股产品, content length=187878
+2019-12-22 16:36:05,438 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get res length=0
+2019-12-22 16:36:05,443 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125
+2019-12-22 16:36:12,795 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get title=公司概况 | 上海证券交易所, content length=290725
+2019-12-22 16:36:12,976 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get res length=20
+2019-12-22 16:36:12,980 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715
+2019-12-22 16:36:18,034 - spider - INFO - InterFaceListedCompany init
+2019-12-22 16:36:18,035 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-22 16:36:27,853 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get title=深圳证券交易所-个股产品, content length=187861
+2019-12-22 16:36:28,112 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get res length=0
+2019-12-22 16:36:29,778 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get title=深圳证券交易所-个股产品, content length=187759
+2019-12-22 16:36:29,935 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898, get res length=34
+2019-12-22 16:36:29,939 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-22 16:36:38,399 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234769
+2019-12-22 16:36:38,570 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2019-12-22 16:36:38,575 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-22 16:36:46,247 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238931
+2019-12-22 16:36:46,420 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get res length=20
+2019-12-22 16:36:46,425 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761
+2019-12-22 16:36:58,064 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get title=深圳证券交易所-个股产品, content length=187968
+2019-12-22 16:36:58,186 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get res length=34
+2019-12-22 16:36:58,192 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761
+2019-12-22 16:37:09,591 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get title=深圳证券交易所-个股产品, content length=187741
+2019-12-22 16:37:09,809 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get res length=34
+2019-12-22 16:37:09,813 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498
+2019-12-22 16:37:21,047 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get title=深圳证券交易所-个股产品, content length=187795
+2019-12-22 16:37:21,204 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get res length=34
+2019-12-22 16:37:21,207 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585
+2019-12-22 16:37:33,869 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get title=深圳证券交易所-个股产品, content length=187983
+2019-12-22 16:37:34,025 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get res length=34
+2019-12-22 16:37:34,029 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597
+2019-12-22 16:37:46,042 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get title=深圳证券交易所-个股产品, content length=187802
+2019-12-22 16:37:46,243 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get res length=34
+2019-12-22 16:37:46,247 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399
+2019-12-22 16:37:52,620 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get title=公司概况 | 上海证券交易所, content length=239001
+2019-12-22 16:37:52,806 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get res length=20
+2019-12-22 16:37:52,810 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795
+2019-12-22 16:37:59,087 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get title=公司概况 | 上海证券交易所, content length=284588
+2019-12-22 16:37:59,307 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get res length=20
+2019-12-22 16:37:59,313 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751
+2019-12-22 16:38:15,568 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get title=深圳证券交易所-个股产品, content length=187773
+2019-12-22 16:38:15,744 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get res length=34
+2019-12-22 16:38:15,750 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609
+2019-12-22 16:38:25,122 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get title=公司概况 | 上海证券交易所, content length=286902
+2019-12-22 16:38:25,302 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get res length=20
+2019-12-22 16:38:25,306 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820
+2019-12-22 16:38:38,329 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get title=深圳证券交易所-个股产品, content length=187818
+2019-12-22 16:38:38,465 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get res length=34
+2019-12-22 16:38:38,469 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818
+2019-12-22 16:38:46,228 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get title=深圳证券交易所-个股产品, content length=187784
+2019-12-22 16:38:46,368 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get res length=34
+2019-12-22 16:38:46,371 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190
+2019-12-22 16:38:54,336 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get title=公司概况 | 上海证券交易所, content length=289447
+2019-12-22 16:38:54,528 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get res length=20
+2019-12-22 16:38:54,534 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952
+2019-12-22 16:39:01,893 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get title=公司概况 | 上海证券交易所, content length=268557
+2019-12-22 16:39:02,201 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get res length=0
+2019-12-22 16:39:02,204 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686
+2019-12-22 16:39:16,042 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get title=深圳证券交易所-个股产品, content length=187781
+2019-12-22 16:39:16,192 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get res length=34
+2019-12-22 16:39:16,197 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763
+2019-12-22 16:39:22,786 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get title=深圳证券交易所-个股产品, content length=187510
+2019-12-22 16:39:22,939 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get res length=34
+2019-12-22 16:39:22,946 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558
+2019-12-22 16:39:39,154 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get title=深圳证券交易所-个股产品, content length=187871
+2019-12-22 16:39:39,290 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get res length=34
+2019-12-22 16:39:39,294 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817
+2019-12-22 16:39:51,889 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get title=深圳证券交易所-个股产品, content length=187540
+2019-12-22 16:39:52,018 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get res length=34
+2019-12-22 16:39:52,023 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739
+2019-12-22 16:40:00,448 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get title=公司概况 | 上海证券交易所, content length=293497
+2019-12-22 16:40:00,644 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get res length=20
+2019-12-22 16:40:00,649 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077
+2019-12-22 16:40:12,255 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get title=公司概况 | 上海证券交易所, content length=286926
+2019-12-22 16:40:12,472 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get res length=20
+2019-12-22 16:40:12,475 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059
+2019-12-22 16:40:21,586 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get title=深圳证券交易所-个股产品, content length=187999
+2019-12-22 16:40:21,721 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get res length=34
+2019-12-22 16:40:21,725 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758
+2019-12-22 16:40:30,266 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get title=公司概况 | 上海证券交易所, content length=296473
+2019-12-22 16:40:30,430 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get res length=20
+2019-12-22 16:40:30,434 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123
+2019-12-22 16:40:39,567 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get title=深圳证券交易所-个股产品, content length=187834
+2019-12-22 16:40:39,683 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get res length=34
+2019-12-22 16:40:39,689 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241
+2019-12-22 16:40:44,949 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get title=公司概况 | 上海证券交易所, content length=286494
+2019-12-22 16:40:45,127 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get res length=20
+2019-12-22 16:40:45,132 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303
+2019-12-22 16:40:51,567 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get title=公司概况 | 上海证券交易所, content length=286534
+2019-12-22 16:40:51,819 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get res length=20
+2019-12-22 16:40:51,822 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231
+2019-12-22 16:41:00,560 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get title=公司概况 | 上海证券交易所, content length=280823
+2019-12-22 16:41:00,722 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get res length=20
+2019-12-22 16:41:00,729 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718
+2019-12-22 16:41:06,804 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get title=公司概况 | 上海证券交易所, content length=293632
+2019-12-22 16:41:06,975 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get res length=20
+2019-12-22 16:41:06,980 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769
+2019-12-22 16:41:19,690 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get title=深圳证券交易所-个股产品, content length=187214
+2019-12-22 16:41:19,836 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get res length=34
+2019-12-22 16:41:19,841 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633
+2019-12-22 16:41:27,292 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get title=深圳证券交易所-个股产品, content length=187829
+2019-12-22 16:41:27,423 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get res length=34
+2019-12-22 16:41:27,427 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698
+2019-12-22 16:41:35,811 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get title=深圳证券交易所-个股产品, content length=187724
+2019-12-22 16:41:36,037 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get res length=34
+2019-12-22 16:41:36,040 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692
+2019-12-22 16:41:47,811 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get title=深圳证券交易所-个股产品, content length=187854
+2019-12-22 16:41:47,940 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get res length=34
+2019-12-22 16:41:47,945 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410
+2019-12-22 16:41:58,150 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get title=深圳证券交易所-个股产品, content length=187865
+2019-12-22 16:41:58,299 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get res length=34
+2019-12-22 16:41:58,305 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396
+2019-12-22 16:42:06,829 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get title=公司概况 | 上海证券交易所, content length=294809
+2019-12-22 16:42:06,989 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get res length=20
+2019-12-22 16:42:06,992 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306
+2019-12-22 16:42:14,039 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get title=公司概况 | 上海证券交易所, content length=292050
+2019-12-22 16:42:14,199 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get res length=20
+2019-12-22 16:42:14,203 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730
+2019-12-22 16:42:26,512 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get title=深圳证券交易所-个股产品, content length=187274
+2019-12-22 16:42:26,646 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get res length=34
+2019-12-22 16:42:26,650 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167
+2019-12-22 16:42:34,237 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get title=公司概况 | 上海证券交易所, content length=295945
+2019-12-22 16:42:34,470 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get res length=20
+2019-12-22 16:42:34,473 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511
+2019-12-22 16:42:49,110 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get title=深圳证券交易所-个股产品, content length=187833
+2019-12-22 16:42:49,270 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get res length=34
+2019-12-22 16:42:49,275 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715
+2019-12-22 16:43:00,945 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get title=公司概况 | 上海证券交易所, content length=297761
+2019-12-22 16:43:01,117 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get res length=20
+2019-12-22 16:43:01,121 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706
+2019-12-22 16:43:13,390 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get title=深圳证券交易所-个股产品, content length=187709
+2019-12-22 16:43:13,524 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get res length=34
+2019-12-22 16:43:13,529 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616
+2019-12-22 16:43:22,521 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get title=深圳证券交易所-个股产品, content length=187908
+2019-12-22 16:43:22,653 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get res length=34
+2019-12-22 16:43:22,656 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317
+2019-12-22 16:43:32,705 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get title=公司概况 | 上海证券交易所, content length=281290
+2019-12-22 16:43:32,956 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get res length=20
+2019-12-22 16:43:32,959 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638
+2019-12-22 16:43:44,783 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get title=深圳证券交易所-个股产品, content length=187878
+2019-12-22 16:43:44,910 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get res length=34
+2019-12-22 16:43:44,914 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125
+2019-12-22 16:43:51,069 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get title=公司概况 | 上海证券交易所, content length=290725
+2019-12-22 16:43:51,257 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get res length=20
+2019-12-22 16:43:51,261 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715
+2019-12-22 16:44:03,177 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get title=深圳证券交易所-个股产品, content length=187861
+2019-12-22 16:44:03,315 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get res length=34
+2019-12-22 18:41:36,208 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get title=深圳证券交易所-个股产品, content length=177786
+2019-12-22 18:41:36,371 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get res length=0
+2019-12-22 18:41:36,399 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739
+2019-12-22 18:41:46,461 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get title=公司概况 | 上海证券交易所, content length=293472
+2019-12-22 18:41:46,631 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get res length=20
+2019-12-22 18:41:46,636 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077
+2019-12-22 18:41:57,073 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get title=公司概况 | 上海证券交易所, content length=286926
+2019-12-22 18:41:57,233 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get res length=20
+2019-12-22 18:41:57,237 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059
+2019-12-22 18:42:09,644 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get title=深圳证券交易所-个股产品, content length=187999
+2019-12-22 18:42:09,773 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get res length=0
+2019-12-22 18:42:09,778 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758
+2019-12-22 18:42:18,952 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get title=公司概况 | 上海证券交易所, content length=296428
+2019-12-22 18:42:19,121 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get res length=20
+2019-12-22 18:42:19,125 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123
+2019-12-22 18:42:30,421 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get title=深圳证券交易所-个股产品, content length=187834
+2019-12-22 18:42:30,720 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get res length=0
+2019-12-22 18:42:30,723 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241
+2019-12-22 18:42:36,625 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get title=公司概况 | 上海证券交易所, content length=286494
+2019-12-22 18:42:36,788 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get res length=20
+2019-12-22 18:42:36,792 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303
+2019-12-22 18:42:41,822 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get title=公司概况 | 上海证券交易所, content length=286534
+2019-12-22 18:42:42,009 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get res length=20
+2019-12-22 18:42:42,013 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231
+2019-12-22 18:42:54,298 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get title=公司概况 | 上海证券交易所, content length=280768
+2019-12-22 18:42:54,457 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get res length=20
+2019-12-22 18:42:54,461 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718
+2019-12-22 18:43:01,306 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get title=公司概况 | 上海证券交易所, content length=293632
+2019-12-22 18:43:01,560 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get res length=20
+2019-12-22 18:43:01,564 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769
+2019-12-22 18:43:10,104 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get title=深圳证券交易所-个股产品, content length=187214
+2019-12-22 18:43:10,231 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get res length=0
+2019-12-22 18:43:10,234 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633
+2019-12-22 18:43:20,061 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get title=深圳证券交易所-个股产品, content length=187829
+2019-12-22 18:43:20,215 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get res length=0
+2019-12-22 18:43:20,221 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698
+2019-12-22 18:43:27,261 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get title=深圳证券交易所-个股产品, content length=187724
+2019-12-22 18:43:27,393 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get res length=0
+2019-12-22 18:43:27,397 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692
+2019-12-22 18:43:36,739 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get title=深圳证券交易所-个股产品, content length=187854
+2019-12-22 18:43:36,875 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get res length=0
+2019-12-22 18:43:36,880 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410
+2019-12-22 18:43:46,662 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get title=深圳证券交易所-个股产品, content length=187865
+2019-12-22 18:43:46,801 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get res length=0
+2019-12-22 18:43:46,805 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396
+2019-12-22 18:43:55,900 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get title=公司概况 | 上海证券交易所, content length=294809
+2019-12-22 18:43:56,144 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get res length=20
+2019-12-22 18:43:56,147 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306
+2019-12-22 18:44:03,782 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get title=公司概况 | 上海证券交易所, content length=292125
+2019-12-22 18:44:03,939 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get res length=20
+2019-12-22 18:44:03,944 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730
+2019-12-22 18:44:12,507 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get title=深圳证券交易所-个股产品, content length=187274
+2019-12-22 18:44:12,647 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get res length=0
+2019-12-22 18:44:12,650 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167
+2019-12-22 18:44:17,729 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get title=公司概况 | 上海证券交易所, content length=295945
+2019-12-22 18:44:17,884 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get res length=20
+2019-12-22 18:44:17,888 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511
+2019-12-22 18:44:31,906 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get title=深圳证券交易所-个股产品, content length=187833
+2019-12-22 18:44:32,051 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get res length=0
+2019-12-22 18:44:32,054 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715
+2019-12-22 18:44:43,682 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get title=公司概况 | 上海证券交易所, content length=297761
+2019-12-22 18:44:43,849 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get res length=20
+2019-12-22 18:44:43,853 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706
+2019-12-22 18:44:55,616 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get title=深圳证券交易所-个股产品, content length=187709
+2019-12-22 18:44:55,857 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get res length=0
+2019-12-22 18:44:55,861 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616
+2019-12-22 18:45:09,594 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get title=深圳证券交易所-个股产品, content length=187908
+2019-12-22 18:45:09,717 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get res length=0
+2019-12-22 18:45:09,721 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317
+2019-12-22 18:45:20,347 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get title=公司概况 | 上海证券交易所, content length=281260
+2019-12-22 18:45:20,504 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get res length=20
+2019-12-22 18:45:20,508 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638
+2019-12-22 18:45:31,992 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get title=深圳证券交易所-个股产品, content length=187878
+2019-12-22 18:45:32,139 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get res length=0
+2019-12-22 18:45:32,143 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125
+2019-12-22 18:45:43,687 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get title=公司概况 | 上海证券交易所, content length=290575
+2019-12-22 18:45:43,838 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get res length=20
+2019-12-22 18:45:43,842 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715
+2019-12-22 18:45:57,127 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get title=深圳证券交易所-个股产品, content length=187861
+2019-12-22 18:45:57,348 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get res length=0
+2019-12-28 08:54:37,684 - spider - INFO - InterFaceListedCompany init
+2019-12-28 08:54:37,688 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000898
+2019-12-28 08:54:45,783 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2019-12-28 08:54:55,521 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234714
+2019-12-28 08:54:56,561 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2019-12-28 08:54:56,574 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2019-12-28 08:54:59,612 - spider - INFO - InterFaceLandInfo init
+2019-12-28 08:55:09,495 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238931
+2019-12-28 08:55:10,510 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get res length=20
+2019-12-28 08:55:10,526 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761
+2019-12-28 08:55:21,939 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get title=深圳证券交易所-个股产品, content length=187929
+2019-12-28 08:59:13,113 - spider - INFO - InterFaceLandInfo init
+2019-12-28 09:01:52,819 - spider - INFO - InterFaceLandInfo init
+2019-12-28 09:23:41,329 - spider - INFO - InterFaceLandInfo init
+2019-12-28 09:24:06,128 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48070
+2019-12-28 09:35:39,461 - spider - INFO - InterFaceLandInfo init
+2019-12-28 09:35:57,031 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48070
+2019-12-28 09:36:03,287 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6F4AFDCD1351AAE055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48072
+2019-12-28 09:36:07,831 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1AAE2DBE343236E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48123
+2019-12-28 09:36:12,994 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1FC1FE3AAE6001E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48115
+2019-12-28 09:36:21,444 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A55F93AA4C62FC8E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48102
+2019-12-28 09:36:30,695 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A565C26D2B0348AE055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48117
+2019-12-28 09:36:41,167 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A56F0BE8F683B53E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48095
+2019-12-28 09:36:49,006 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A57578C2B404121E055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:36:56,014 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:36:59,397 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A6E24E36F5739E055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:37:06,111 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AA0C21BBE5992E055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:37:10,492 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AD3541FA15B93E055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:37:14,081 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1D512005B1440EE055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:37:20,483 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A7AA9AD0B57B3E055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:37:23,783 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A98D43BAE5925E055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:37:28,412 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6A31ED98F528BFE055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:37:39,312 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=cf7faf8d-cc18-4903-9e0c-14fd9c0a1d35, get title=403 Forbidden, content length=154
+2019-12-28 09:37:45,699 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=0809d9b9-7cd5-481b-ac37-097f0f95696e, get title=403 Forbidden, content length=154
+2019-12-28 09:37:50,497 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=4c02896e-1e91-4f82-8664-dd1b9dd74ad7, get title=403 Forbidden, content length=154
+2019-12-28 09:37:53,889 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=699bacd6-6a12-42c3-b7d3-6c57831c65ce, get title=403 Forbidden, content length=154
+2019-12-28 09:38:01,114 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=a7cb9f03-759e-468c-a02b-4498add7a972, get title=403 Forbidden, content length=154
+2019-12-28 09:38:09,507 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9a54803d-800a-4823-8eec-2d8d644ea573, get title=403 Forbidden, content length=154
+2019-12-28 09:38:16,321 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=3be8c389-c5e7-41cb-a953-d144e9289915, get title=403 Forbidden, content length=154
+2019-12-28 09:38:22,710 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=c969a621-6cf6-4440-9785-ef285df46e92, get title=403 Forbidden, content length=154
+2019-12-28 09:38:27,107 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=146542ac-baa8-4761-8287-a0216ce52e2a, get title=403 Forbidden, content length=154
+2019-12-28 09:38:34,412 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=1f3f51d0-405d-4c5f-b965-728383d4f5b9, get title=403 Forbidden, content length=154
+2019-12-28 09:38:44,118 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=3a5fe753-fde8-411f-9df8-6c5a0b200bdb, get title=403 Forbidden, content length=154
+2019-12-28 09:38:52,128 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=584f47d8-4af2-4c71-8436-741806601c90, get title=403 Forbidden, content length=154
+2019-12-28 09:38:57,920 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=5f940e5d-b0fd-46d2-b6ad-75265d4214bd, get title=403 Forbidden, content length=154
+2019-12-28 09:39:06,921 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6595dd5f-8ea2-48ba-84ca-80fbc3f016d5, get title=403 Forbidden, content length=154
+2019-12-28 09:51:42,256 - spider - INFO - InterFaceLandInfo init
+2019-12-28 09:51:58,159 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48070
+2019-12-28 09:51:58,219 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001, get res_length=42
+2019-12-28 09:52:05,712 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6F4AFDCD1351AAE055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48072
+2019-12-28 09:52:05,778 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6F4AFDCD1351AAE055000000000001, get res_length=42
+2019-12-28 09:52:13,607 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1AAE2DBE343236E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48123
+2019-12-28 09:52:13,661 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1AAE2DBE343236E055000000000001, get res_length=42
+2019-12-28 09:52:21,961 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1FC1FE3AAE6001E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=20281
+2019-12-28 09:52:22,002 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1FC1FE3AAE6001E055000000000001, get res_length=0
+2019-12-28 09:52:26,598 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A55F93AA4C62FC8E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48102
+2019-12-28 09:52:26,658 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A55F93AA4C62FC8E055000000000001, get res_length=42
+2019-12-28 09:52:36,063 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A565C26D2B0348AE055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48117
+2019-12-28 09:52:36,124 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A565C26D2B0348AE055000000000001, get res_length=42
+2019-12-28 09:52:45,350 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A56F0BE8F683B53E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48095
+2019-12-28 09:52:45,414 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A56F0BE8F683B53E055000000000001, get res_length=42
+2019-12-28 09:52:51,308 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A57578C2B404121E055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:53:01,322 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A57578C2B404121E055000000000001, get res_length=0
+2019-12-28 09:53:04,708 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001, get title=403 Forbidden, content length=154
+2019-12-28 09:53:14,714 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001, get res_length=0
+2019-12-28 09:53:20,098 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A6E24E36F5739E055000000000001, get title=403 Forbidden, content length=154
