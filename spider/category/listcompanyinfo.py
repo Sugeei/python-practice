@@ -25,18 +25,24 @@ class CategoryListedCompany():
             # return FeedSSE()
             r = self.access(self.sseobj, id)
             self.output_sse = pd.concat([self.output_sse, r])
+            # self.sseobj.transform(self.output_sse, self.sseobj.__class__.__name__+str(id))
         elif flag == '深圳':
             r = self.access(self.zseobj, id)
             self.output_zse = pd.concat([self.output_zse, r])
+            # self.zseobj.transform(self.output_zse, self.zseobj.__class__.__name__+str(id))
 
     def access(self, feedobj, id):
-        url = feedobj.get_src_url(id)
-        logger.info("%s url=%s" % (self.__class__.__name__, url))
-        title, page = accessbase.get(url)
-        logger.info("%s url=%s, get title=%s, content length=%s" % (self.__class__.__name__, url, title, len(page)))
-        s = feedobj.get_soup(page)
-        res = feedobj.get_cn_con(s)
-        logger.info("%s url=%s, get res length=%s" % (self.__class__.__name__, url, len(res)))
+        try:
+            url = feedobj.get_src_url(id)
+            logger.info("%s url=%s" % (self.__class__.__name__, url))
+            title, page = accessbase.get(url)
+            logger.info("%s url=%s, get title=%s, content length=%s" % (self.__class__.__name__, url, title, len(page)))
+            s = feedobj.get_soup(page)
+            res = feedobj.get_cn_con(s)
+            logger.info("%s url=%s, get res length=%s" % (self.__class__.__name__, url, len(res)))
+        except:
+            res = []
         a = pd.DataFrame(res, columns=['key', 'value'])
         a['id'] = id
         return a
+        # return
