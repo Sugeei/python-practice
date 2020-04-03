@@ -1,3 +1,6 @@
+https://rushter.com/blog/python-memory-managment/
+https://rushter.com/blog/python-garbage-collector/
+
 https://stackoverflow.com/questions/42584525/python-multiprocessing-debugging-oserror-errno-12-cannot-allocate-memory
 Python multiprocessing - Debugging OSError: [Errno 12] Cannot allocate memory
 

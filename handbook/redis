@@ -1,0 +1,49 @@
+Clear all keys : redis-cli FLUSHALL
+
+For Linux  https://redis.io/download
+Download, extract and compile Redis with:
+
+$ wget http://download.redis.io/releases/redis-5.0.3.tar.gz
+$ tar xzf redis-5.0.3.tar.gz
+$ cd redis-5.0.3
+$ make
+
+The binaries that are now compiled are available in the src directory. Run Redis with:
+
+$ src/redis-server
+
+You can interact with Redis using the built-in client:
+
+$ src/redis-cli
+redis> set foo bar
+OK
+redis> get foo
+"bar"
+
+Rancher 容器中查看redis的使用情况
+
+
+
+For Windows
+
+Start redis server : redis-server.exe redis.windows.conf
+
+Sorted_set https://www.jianshu.com/p/2639549bedc8
+
+Pub sub , channel.
+
+Set
+
+multi exce
+
+无状态消息传输， 断开重连后数据会丢失。 不重传。
+
+Check-and-set 乐观锁
+
+键空间通知 fire and forget, 通知所有订阅者某个键的修改。
+
+持久化：
+RDB , 类似快照， 保存成一个文件
+LF文件， 保存所有执行过的命令
+
+流水线，批量发送一批命令
