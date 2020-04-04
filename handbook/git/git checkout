@@ -1,0 +1,18 @@
+# TODO a good way to copy files from other branch.
+# in case that you do some changes under folder X/ on branch A, then you go to branch B, you want to use those changes
+in branch A, git checkout A X/ will work.
+$ git branch
+* master
+  twitter_integration
+
+$ git checkout twitter_integration app/models/avatar.rb db/migrate/20090223104419_create_avatars.rb test/unit/models/avatar_test.rb test/functional/models/avatar_test.rb
+
+$ git status
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   app/models/avatar.rb
+#	new file:   db/migrate/20090223104419_create_avatars.rb
+#	new file:   test/functional/models/avatar_test.rb
+#	new file:   test/unit/models/avatar_test.rb

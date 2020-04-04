@@ -29,7 +29,6 @@ with open(filename, 'r') as f:
 base_path = os.path.dirname(os.path.realpath(__file__))
 path = os.path.join(base_path, 'solid_htm', filename)
 
-# from datayes.rdp.datalayer.data_center import DC
 
 j_data = {
     'beginDate': '20171030',

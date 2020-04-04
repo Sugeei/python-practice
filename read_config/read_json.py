@@ -1,6 +1,7 @@
 import os
 import json
 
+
 def __get_parameters():
     uranus_path = os.getenv('URANUS_PATH')
     uranus_path = os.path.dirname(os.path.realpath(__file__))
@@ -12,5 +13,6 @@ def __get_parameters():
     print (os.listdir(uranus_path))
     with open(uranus_path + '/etc/data.json') as logger_json:
         logger_dict = json.load(logger_json)
+
 
 __get_parameters()
