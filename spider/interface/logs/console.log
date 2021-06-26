@@ -1090,3 +1090,487 @@
 2019-12-28 09:53:04,708 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001, get title=403 Forbidden, content length=154
 2019-12-28 09:53:14,714 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001, get res_length=0
 2019-12-28 09:53:20,098 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A6E24E36F5739E055000000000001, get title=403 Forbidden, content length=154
+2020-01-01 10:31:22,334 - spider - INFO - InterFaceLandInfo init
+2020-01-01 10:32:12,999 - spider - INFO - InterFaceLandInfo init
+2020-01-01 10:33:04,851 - spider - INFO - InterFaceLandInfo init
+2020-01-01 10:33:13,232 - spider - INFO - InterFaceLandInfo init
+2020-01-01 10:34:29,180 - spider - INFO - InterFaceLandInfo init
+2020-01-01 10:34:35,988 - spider - INFO - InterFaceLandInfo init
+2020-01-01 10:41:29,108 - spider - INFO - InterFaceLandInfo init
+2020-01-01 10:42:06,328 - spider - INFO - InterFaceLandInfo init
+2020-01-01 10:47:59,703 - spider - INFO - InterFaceLandInfo init
+2020-01-01 10:48:12,487 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:13:42,825 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:17:18,368 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:22:45,084 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:42:19,874 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:43:49,232 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:46:49,189 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:48:12,610 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:52:44,665 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:55:44,621 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:58:49,618 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:59:34,259 - spider - INFO - InterFaceLandInfo init
+2020-01-01 11:59:48,132 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001
+2020-01-01 11:59:53,842 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48068
+2020-01-01 12:00:44,467 - spider - INFO - InterFaceLandInfo init
+2020-01-01 12:01:13,548 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001
+2020-01-01 12:01:25,363 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48068
+2020-01-01 12:01:25,604 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001, get res_length=42
+2020-01-01 12:01:25,638 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2577EDDB266A0E055000000000001
+2020-01-01 12:01:31,749 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2577EDDB266A0E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48084
+2020-01-01 12:01:32,000 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2577EDDB266A0E055000000000001, get res_length=42
+2020-01-01 12:01:32,015 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE292E8426168A0E055000000000001
+2020-01-01 12:01:36,422 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE292E8426168A0E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48086
+2020-01-01 12:01:36,628 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE292E8426168A0E055000000000001, get res_length=42
+2020-01-01 12:01:36,643 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2D47AF8AB6D17E055000000000001
+2020-01-01 12:01:44,877 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2D47AF8AB6D17E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48076
+2020-01-01 12:01:45,143 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2D47AF8AB6D17E055000000000001, get res_length=42
+2020-01-01 12:01:45,158 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6F4AFDCD1351AAE055000000000001
+2020-01-01 12:01:54,984 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6F4AFDCD1351AAE055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48070
+2020-01-01 12:01:55,661 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6F4AFDCD1351AAE055000000000001, get res_length=42
+2020-01-01 12:01:55,682 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=3ece08ee-9c2d-4e16-b908-ca9d39f7c76f
+2020-01-01 12:02:01,199 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=3ece08ee-9c2d-4e16-b908-ca9d39f7c76f, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48123
+2020-01-01 12:02:01,467 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=3ece08ee-9c2d-4e16-b908-ca9d39f7c76f, get res_length=42
+2020-01-01 12:02:01,483 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c817b5d-522b-4fbe-bdda-3ea9da8eb6b6
+2020-01-01 12:02:09,186 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c817b5d-522b-4fbe-bdda-3ea9da8eb6b6, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47153
+2020-01-01 12:02:09,439 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c817b5d-522b-4fbe-bdda-3ea9da8eb6b6, get res_length=38
+2020-01-01 12:02:09,455 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=8fec15ea-d5de-4838-8635-3521d6872d0c
+2020-01-01 12:02:14,071 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=8fec15ea-d5de-4838-8635-3521d6872d0c, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47142
+2020-01-01 12:02:14,438 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=8fec15ea-d5de-4838-8635-3521d6872d0c, get res_length=38
+2020-01-01 12:02:14,450 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1AAE2DBE343236E055000000000001
+2020-01-01 12:02:19,188 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1AAE2DBE343236E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=46345
+2020-01-01 12:02:19,449 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1AAE2DBE343236E055000000000001, get res_length=42
+2020-01-01 12:02:19,462 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1FC1FE3AAE6001E055000000000001
+2020-01-01 12:02:25,777 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1FC1FE3AAE6001E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48115
+2020-01-01 12:02:26,028 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1FC1FE3AAE6001E055000000000001, get res_length=42
+2020-01-01 12:02:26,042 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A55F93AA4C62FC8E055000000000001
+2020-01-01 12:02:34,552 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A55F93AA4C62FC8E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48100
+2020-01-01 12:02:34,954 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A55F93AA4C62FC8E055000000000001, get res_length=42
+2020-01-01 12:02:34,969 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A565C26D2B0348AE055000000000001
+2020-01-01 12:02:46,922 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A565C26D2B0348AE055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48115
+2020-01-01 12:02:47,160 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A565C26D2B0348AE055000000000001, get res_length=42
+2020-01-01 12:02:47,176 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A56F0BE8F683B53E055000000000001
+2020-01-01 12:02:51,596 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A56F0BE8F683B53E055000000000001, get title=403 Forbidden, content length=154
+2020-01-01 12:08:38,890 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A56F0BE8F683B53E055000000000001, get res_length=42
+2020-01-01 12:08:38,914 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A57578C2B404121E055000000000001
+2020-01-01 12:08:45,331 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A57578C2B404121E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48093
+2020-01-01 12:08:45,599 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A57578C2B404121E055000000000001, get res_length=42
+2020-01-01 12:08:45,611 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001
+2020-01-01 12:17:52,951 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47921
+2020-01-01 12:17:53,602 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001, get res_length=42
+2020-01-01 12:17:53,615 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A6E24E36F5739E055000000000001
+2020-01-01 12:18:03,124 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A6E24E36F5739E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48095
+2020-01-01 12:18:03,433 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A6E24E36F5739E055000000000001, get res_length=42
+2020-01-01 12:18:03,449 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AA0C21BBE5992E055000000000001
+2020-01-01 12:18:09,671 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AA0C21BBE5992E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48098
+2020-01-01 12:18:09,970 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AA0C21BBE5992E055000000000001, get res_length=42
+2020-01-01 12:18:09,986 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AD3541FA15B93E055000000000001
+2020-01-01 12:18:18,445 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AD3541FA15B93E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48084
+2020-01-01 12:18:18,720 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AD3541FA15B93E055000000000001, get res_length=42
+2020-01-01 12:18:18,735 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE8C7F3CBFA20D3E055000000000001
+2020-01-01 12:18:28,852 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE8C7F3CBFA20D3E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48078
+2020-01-01 12:18:29,102 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE8C7F3CBFA20D3E055000000000001, get res_length=42
+2020-01-01 12:18:29,128 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE91C93F32A2368E055000000000001
+2020-01-01 12:18:41,053 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE91C93F32A2368E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48072
+2020-01-01 12:18:41,288 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE91C93F32A2368E055000000000001, get res_length=42
+2020-01-01 12:18:41,315 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9f528fad-543b-4c86-b622-c3eeb52b2517
+2020-01-01 12:18:49,046 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9f528fad-543b-4c86-b622-c3eeb52b2517, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47154
+2020-01-01 12:18:49,382 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9f528fad-543b-4c86-b622-c3eeb52b2517, get res_length=38
+2020-01-01 12:18:49,401 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1
+2020-01-01 12:18:55,222 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47160
+2020-01-01 12:18:55,485 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1, get res_length=38
+2020-01-01 12:18:55,501 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=62123c2f-aaec-4d10-ba53-e0dc76303aef
+2020-01-01 12:19:03,430 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=62123c2f-aaec-4d10-ba53-e0dc76303aef, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48152
+2020-01-01 12:19:03,659 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=62123c2f-aaec-4d10-ba53-e0dc76303aef, get res_length=42
+2020-01-01 12:19:03,693 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c927a1a-ef32-4061-8fb1-83d80700dc7e
+2020-01-01 12:19:08,096 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c927a1a-ef32-4061-8fb1-83d80700dc7e, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48183
+2020-01-01 12:19:08,421 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c927a1a-ef32-4061-8fb1-83d80700dc7e, get res_length=42
+2020-01-01 12:19:08,439 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=70466832-2e9a-448f-bfd9-ab57cbc51a5b
+2020-01-01 12:19:17,741 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=70466832-2e9a-448f-bfd9-ab57cbc51a5b, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47145
+2020-01-01 12:19:18,021 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=70466832-2e9a-448f-bfd9-ab57cbc51a5b, get res_length=38
+2020-01-01 12:19:18,038 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=bf8f5a1a-ac06-4120-8e2a-8bf8259e124d
+2020-01-01 12:19:25,844 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=bf8f5a1a-ac06-4120-8e2a-8bf8259e124d, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48113
+2020-01-01 12:19:26,182 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=bf8f5a1a-ac06-4120-8e2a-8bf8259e124d, get res_length=42
+2020-01-01 12:19:26,196 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6d94a961-f3df-4e80-9ee8-5806e30b9685
+2020-01-01 12:19:37,965 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6d94a961-f3df-4e80-9ee8-5806e30b9685, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48117
+2020-01-01 12:19:38,388 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6d94a961-f3df-4e80-9ee8-5806e30b9685, get res_length=42
+2020-01-01 12:19:38,406 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6978a9d7-8d6f-4007-89a2-38457afe8d50
+2020-01-01 12:19:44,024 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6978a9d7-8d6f-4007-89a2-38457afe8d50, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47137
+2020-01-01 12:19:44,258 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6978a9d7-8d6f-4007-89a2-38457afe8d50, get res_length=38
+2020-01-01 12:19:44,276 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=5848f6df-3fbd-4f6a-972b-650f94b37fa9
+2020-01-01 12:19:47,808 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=5848f6df-3fbd-4f6a-972b-650f94b37fa9, get title=403 Forbidden, content length=154
+2020-01-01 12:40:20,419 - spider - INFO - InterFaceLandInfo init
+2020-01-01 12:40:28,412 - spider - INFO - InterFaceLandInfo init
+2020-01-01 12:40:37,173 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=3ece08ee-9c2d-4e16-b908-ca9d39f7c76f
+2020-01-01 12:40:47,077 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=3ece08ee-9c2d-4e16-b908-ca9d39f7c76f, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48123
+2020-01-01 12:40:47,131 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=3ece08ee-9c2d-4e16-b908-ca9d39f7c76f, get res_length=42
+2020-01-01 12:40:47,137 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=5848f6df-3fbd-4f6a-972b-650f94b37fa9
+2020-01-01 12:40:57,820 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=5848f6df-3fbd-4f6a-972b-650f94b37fa9, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47140
+2020-01-01 12:40:57,897 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=5848f6df-3fbd-4f6a-972b-650f94b37fa9, get res_length=38
+2020-01-01 12:40:57,903 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=62123c2f-aaec-4d10-ba53-e0dc76303aef
+2020-01-01 12:41:05,391 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=62123c2f-aaec-4d10-ba53-e0dc76303aef, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48152
+2020-01-01 12:41:05,450 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=62123c2f-aaec-4d10-ba53-e0dc76303aef, get res_length=42
+2020-01-01 12:41:05,455 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=66c11733-2f29-4c52-b0f9-43af4c28affe
+2020-01-01 12:41:10,155 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=66c11733-2f29-4c52-b0f9-43af4c28affe, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47149
+2020-01-01 12:41:10,225 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=66c11733-2f29-4c52-b0f9-43af4c28affe, get res_length=38
+2020-01-01 12:41:10,230 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6978a9d7-8d6f-4007-89a2-38457afe8d50
+2020-01-01 12:41:19,421 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6978a9d7-8d6f-4007-89a2-38457afe8d50, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47137
+2020-01-01 12:41:19,486 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6978a9d7-8d6f-4007-89a2-38457afe8d50, get res_length=38
+2020-01-01 12:41:19,495 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6d94a961-f3df-4e80-9ee8-5806e30b9685
+2020-01-01 12:41:26,889 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6d94a961-f3df-4e80-9ee8-5806e30b9685, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48117
+2020-01-01 12:41:26,951 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=6d94a961-f3df-4e80-9ee8-5806e30b9685, get res_length=42
+2020-01-01 12:41:26,957 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=70466832-2e9a-448f-bfd9-ab57cbc51a5b
+2020-01-01 12:41:36,714 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=70466832-2e9a-448f-bfd9-ab57cbc51a5b, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47145
+2020-01-01 12:41:36,753 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=70466832-2e9a-448f-bfd9-ab57cbc51a5b, get res_length=38
+2020-01-01 12:41:36,759 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c817b5d-522b-4fbe-bdda-3ea9da8eb6b6
+2020-01-01 12:41:42,308 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c817b5d-522b-4fbe-bdda-3ea9da8eb6b6, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=45380
+2020-01-01 12:41:42,505 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c817b5d-522b-4fbe-bdda-3ea9da8eb6b6, get res_length=38
+2020-01-01 12:41:42,520 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c927a1a-ef32-4061-8fb1-83d80700dc7e
+2020-01-01 12:41:55,792 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c927a1a-ef32-4061-8fb1-83d80700dc7e, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48183
+2020-01-01 12:41:55,909 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=7c927a1a-ef32-4061-8fb1-83d80700dc7e, get res_length=42
+2020-01-01 12:41:55,940 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=8fec15ea-d5de-4838-8635-3521d6872d0c
+2020-01-01 12:42:04,351 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=8fec15ea-d5de-4838-8635-3521d6872d0c, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47142
+2020-01-01 12:42:04,424 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=8fec15ea-d5de-4838-8635-3521d6872d0c, get res_length=38
+2020-01-01 12:42:04,432 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1AAE2DBE343236E055000000000001
+2020-01-01 12:42:20,529 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1AAE2DBE343236E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48121
+2020-01-01 12:42:20,597 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1AAE2DBE343236E055000000000001, get res_length=42
+2020-01-01 12:42:20,601 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1FC1FE3AAE6001E055000000000001
+2020-01-01 12:42:29,200 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1FC1FE3AAE6001E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48115
+2020-01-01 12:42:29,270 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A1FC1FE3AAE6001E055000000000001, get res_length=42
+2020-01-01 12:42:29,275 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A55F93AA4C62FC8E055000000000001
+2020-01-01 12:42:41,707 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A55F93AA4C62FC8E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48100
+2020-01-01 12:42:41,775 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A55F93AA4C62FC8E055000000000001, get res_length=42
+2020-01-01 12:42:41,779 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A565C26D2B0348AE055000000000001
+2020-01-01 12:42:48,487 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A565C26D2B0348AE055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48115
+2020-01-01 12:42:48,548 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A565C26D2B0348AE055000000000001, get res_length=42
+2020-01-01 12:42:48,554 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A56F0BE8F683B53E055000000000001
+2020-01-01 12:42:52,946 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A56F0BE8F683B53E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48095
+2020-01-01 12:42:53,007 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A56F0BE8F683B53E055000000000001, get res_length=42
+2020-01-01 12:42:53,011 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A57578C2B404121E055000000000001
+2020-01-01 12:43:01,006 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A57578C2B404121E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48093
+2020-01-01 12:43:01,070 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A57578C2B404121E055000000000001, get res_length=42
+2020-01-01 12:43:01,076 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001
+2020-01-01 12:43:04,467 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=19984
+2020-01-01 12:43:04,487 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A59E61025A951EDE055000000000001, get res_length=0
+2020-01-01 12:43:04,496 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A6E24E36F5739E055000000000001
+2020-01-01 12:43:10,588 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A6E24E36F5739E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48095
+2020-01-01 12:43:10,670 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5A6E24E36F5739E055000000000001, get res_length=42
+2020-01-01 12:43:10,677 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AA0C21BBE5992E055000000000001
+2020-01-01 12:43:15,280 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AA0C21BBE5992E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=46325
+2020-01-01 12:43:15,345 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AA0C21BBE5992E055000000000001, get res_length=42
+2020-01-01 12:43:15,353 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AD3541FA15B93E055000000000001
+2020-01-01 12:43:21,047 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AD3541FA15B93E055000000000001, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=48082
+2020-01-01 12:43:21,109 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A5AD3541FA15B93E055000000000001, get res_length=42
+2020-01-01 12:43:21,117 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001
+2020-01-01 12:43:30,509 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001, get title=403 Forbidden, content length=154
+2020-01-01 12:43:32,021 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6BC43332A33865E055000000000001, get res_length=0
+2020-01-01 12:43:32,027 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6F4AFDCD1351AAE055000000000001
+2020-01-01 12:43:36,909 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6F4AFDCD1351AAE055000000000001, get title=403 Forbidden, content length=154
+2020-01-01 12:43:48,291 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9A6F4AFDCD1351AAE055000000000001, get res_length=0
+2020-01-01 12:43:48,300 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2577EDDB266A0E055000000000001
+2020-01-01 12:43:53,108 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2577EDDB266A0E055000000000001, get title=403 Forbidden, content length=154
+2020-01-01 12:44:04,434 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2577EDDB266A0E055000000000001, get res_length=0
+2020-01-01 12:44:04,444 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE292E8426168A0E055000000000001
+2020-01-01 12:44:10,832 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE292E8426168A0E055000000000001, get title=403 Forbidden, content length=154
+2020-01-01 12:44:12,233 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE292E8426168A0E055000000000001, get res_length=0
+2020-01-01 12:44:12,242 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2D47AF8AB6D17E055000000000001
+2020-01-01 12:44:20,240 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2D47AF8AB6D17E055000000000001, get title=403 Forbidden, content length=154
+2020-01-01 12:44:31,718 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE2D47AF8AB6D17E055000000000001, get res_length=0
+2020-01-01 12:44:31,758 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE8C7F3CBFA20D3E055000000000001
+2020-01-01 12:44:41,149 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE8C7F3CBFA20D3E055000000000001, get title=403 Forbidden, content length=154
+2020-01-01 12:44:43,778 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE8C7F3CBFA20D3E055000000000001, get res_length=0
+2020-01-01 12:44:43,803 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE91C93F32A2368E055000000000001
+2020-01-01 12:44:48,189 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE91C93F32A2368E055000000000001, get title=403 Forbidden, content length=154
+2020-01-01 12:44:50,583 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9AE91C93F32A2368E055000000000001, get res_length=0
+2020-01-01 12:44:50,605 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9f528fad-543b-4c86-b622-c3eeb52b2517
+2020-01-01 12:44:57,463 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9f528fad-543b-4c86-b622-c3eeb52b2517, get title=403 Forbidden, content length=154
+2020-01-01 12:45:08,734 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=9f528fad-543b-4c86-b622-c3eeb52b2517, get res_length=0
+2020-01-01 12:45:08,739 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=bf8f5a1a-ac06-4120-8e2a-8bf8259e124d
+2020-01-01 12:45:14,232 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=bf8f5a1a-ac06-4120-8e2a-8bf8259e124d, get title=403 Forbidden, content length=154
+2020-01-01 12:45:15,637 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=bf8f5a1a-ac06-4120-8e2a-8bf8259e124d, get res_length=0
+2020-01-01 12:45:15,644 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1
+2020-01-01 12:45:20,826 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1, get title=403 Forbidden, content length=154
+2020-01-01 12:45:22,015 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1, get res_length=0
+2020-01-01 16:08:24,899 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1
+2020-01-01 16:08:31,063 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=20574
+2020-01-01 16:08:31,143 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1, get res_length=0
+2020-01-01 16:08:49,369 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1
+2020-01-01 16:09:10,101 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47160
+2020-01-01 16:09:21,643 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1, get res_length=38
+2020-01-01 16:10:32,712 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1
+2020-01-01 16:10:40,451 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1, get title=中国土地市场网-土地市场|土地信息|土地公告|土地出让公告公示, content length=47160
+2020-01-01 16:10:40,503 - spider - INFO - CategoryLandInfo url=https://www.landchina.com/default.aspx?tabid=386&comname=default&wmguid=75c72564-ffd9-426a-954b-8ac2df0903b7&recorderguid=d226523a-88df-4c1e-b183-a004b8a560b1, get res_length=38
+2020-01-01 16:32:36,721 - spider - INFO - InterFaceLandInfo init
+2020-01-01 16:32:50,645 - spider - INFO - InterFaceLandInfo init
+2020-01-01 16:34:39,011 - spider - INFO - InterFaceLandInfo init
+2020-01-01 16:35:18,254 - spider - INFO - InterFaceLandInfo init
+2020-01-01 16:35:48,196 - spider - INFO - InterFaceLandInfo init
+2020-01-01 16:36:12,549 - spider - INFO - InterFaceLandInfo init
+2020-01-01 16:37:33,882 - spider - INFO - InterFaceLandInfo init
+2020-01-01 16:41:11,754 - spider - INFO - InterFaceLandInfo init
+2020-01-01 16:43:08,493 - spider - INFO - InterFaceLandInfo init
+2020-01-01 16:43:37,036 - spider - INFO - InterFaceLandInfo init
+2020-01-01 16:55:45,325 - spider - INFO - InterFaceLandInfo init
+2020-01-02 07:02:46,459 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813
+2020-01-02 07:02:56,822 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get title=公司概况 | 上海证券交易所, content length=234781
+2020-01-02 07:02:57,183 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600813, get res length=20
+2020-01-02 07:02:57,189 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669
+2020-01-02 07:03:05,492 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get title=公司概况 | 上海证券交易所, content length=238973
+2020-01-02 07:03:05,706 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600669, get res length=20
+2020-01-02 07:03:05,713 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761
+2020-01-02 07:03:14,625 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get title=深圳证券交易所-个股产品, content length=187510
+2020-01-02 07:03:14,792 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get res length=0
+2020-01-02 07:03:14,797 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761
+2020-01-02 07:03:22,904 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get title=深圳证券交易所-个股产品, content length=187318
+2020-01-02 07:03:23,083 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get res length=0
+2020-01-02 07:03:23,088 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498
+2020-01-02 07:03:35,111 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get title=深圳证券交易所-个股产品, content length=187500
+2020-01-02 07:03:35,283 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get res length=0
+2020-01-02 07:03:35,288 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585
+2020-01-02 07:03:46,201 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get title=深圳证券交易所-个股产品, content length=187426
+2020-01-02 07:03:46,402 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get res length=0
+2020-01-02 07:03:46,405 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597
+2020-01-02 07:03:57,206 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get title=深圳证券交易所-个股产品, content length=187423
+2020-01-02 07:03:57,502 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get res length=0
+2020-01-02 07:03:57,506 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399
+2020-01-02 07:04:09,864 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get title=公司概况 | 上海证券交易所, content length=284711
+2020-01-02 07:04:10,061 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get res length=20
+2020-01-02 07:04:10,065 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795
+2020-01-02 07:04:16,397 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get title=公司概况 | 上海证券交易所, content length=283264
+2020-01-02 07:04:16,585 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get res length=20
+2020-01-02 07:04:16,590 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751
+2020-01-02 07:04:25,916 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get title=深圳证券交易所-个股产品, content length=187332
+2020-01-02 07:04:26,071 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get res length=0
+2020-01-02 07:04:26,076 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609
+2020-01-02 07:04:36,083 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get title=公司概况 | 上海证券交易所, content length=289652
+2020-01-02 07:04:36,279 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get res length=20
+2020-01-02 07:04:36,283 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820
+2020-01-02 07:04:48,713 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get title=深圳证券交易所-个股产品, content length=187398
+2020-01-02 07:04:48,975 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get res length=0
+2020-01-02 07:04:48,979 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818
+2020-01-02 07:04:59,685 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get title=深圳证券交易所-个股产品, content length=187320
+2020-01-02 07:04:59,843 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get res length=0
+2020-01-02 07:04:59,847 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190
+2020-01-02 07:05:06,882 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get title=公司概况 | 上海证券交易所, content length=289029
+2020-01-02 07:05:07,083 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get res length=20
+2020-01-02 07:05:07,087 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952
+2020-01-02 07:05:16,358 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get title=公司概况 | 上海证券交易所, content length=269163
+2020-01-02 07:05:16,549 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get res length=0
+2020-01-02 07:05:16,554 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686
+2020-01-02 07:05:28,017 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get title=深圳证券交易所-个股产品, content length=187330
+2020-01-02 07:05:28,188 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get res length=0
+2020-01-02 07:05:28,192 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763
+2020-01-02 07:05:40,677 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get title=深圳证券交易所-个股产品, content length=187068
+2020-01-02 07:05:40,839 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get res length=0
+2020-01-02 07:05:40,843 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558
+2020-01-02 07:05:53,984 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get title=深圳证券交易所-个股产品, content length=187414
+2020-01-02 07:05:54,247 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get res length=0
+2020-01-02 07:05:54,250 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817
+2020-01-02 07:06:07,229 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get title=深圳证券交易所-个股产品, content length=187098
+2020-01-02 07:06:07,389 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get res length=0
+2020-01-02 07:06:07,394 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739
+2020-01-02 07:06:17,717 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get title=公司概况 | 上海证券交易所, content length=295296
+2020-01-02 07:06:17,922 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get res length=20
+2020-01-02 07:06:17,927 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077
+2020-01-02 07:06:27,536 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get title=公司概况 | 上海证券交易所, content length=287893
+2020-01-02 07:06:27,747 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get res length=20
+2020-01-02 07:06:27,752 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059
+2020-01-02 07:06:39,065 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get title=深圳证券交易所-个股产品, content length=187568
+2020-01-02 07:06:39,222 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get res length=0
+2020-01-02 07:06:39,226 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758
+2020-01-02 07:06:50,177 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get title=公司概况 | 上海证券交易所, content length=290352
+2020-01-02 07:06:50,494 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get res length=20
+2020-01-02 07:06:50,499 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123
+2020-01-02 07:06:59,386 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get title=深圳证券交易所-个股产品, content length=187412
+2020-01-02 07:06:59,546 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get res length=0
+2020-01-02 07:06:59,550 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241
+2020-01-02 07:07:04,637 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get title=公司概况 | 上海证券交易所, content length=294219
+2020-01-02 07:07:04,826 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get res length=20
+2020-01-02 07:07:04,830 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303
+2020-01-02 07:07:12,875 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get title=公司概况 | 上海证券交易所, content length=295570
+2020-01-02 07:07:13,070 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get res length=20
+2020-01-02 07:07:13,076 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231
+2020-01-02 07:07:18,140 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get title=公司概况 | 上海证券交易所, content length=282128
+2020-01-02 07:07:18,351 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get res length=20
+2020-01-02 07:07:18,358 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718
+2020-01-02 07:07:29,911 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get title=公司概况 | 上海证券交易所, content length=293247
+2020-01-02 07:07:30,212 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get res length=20
+2020-01-02 07:07:30,215 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769
+2020-01-02 07:07:39,367 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get title=深圳证券交易所-个股产品, content length=186772
+2020-01-02 07:07:39,535 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get res length=0
+2020-01-02 07:07:39,539 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633
+2020-01-02 07:07:48,129 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get title=深圳证券交易所-个股产品, content length=187405
+2020-01-02 07:07:48,302 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get res length=0
+2020-01-02 07:07:48,306 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698
+2020-01-02 07:07:59,142 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get title=深圳证券交易所-个股产品, content length=187300
+2020-01-02 07:07:59,275 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get res length=0
+2020-01-02 07:07:59,281 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692
+2020-01-02 07:08:06,663 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get title=深圳证券交易所-个股产品, content length=187388
+2020-01-02 07:08:06,950 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get res length=0
+2020-01-02 07:08:06,964 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410
+2020-01-02 07:08:12,555 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000761, get res length=34
+2020-01-02 07:08:12,683 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761
+2020-01-02 07:08:20,224 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get title=深圳证券交易所-个股产品, content length=187452
+2020-01-02 07:08:20,351 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get res length=0
+2020-01-02 07:08:20,354 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396
+2020-01-02 07:08:22,352 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get title=深圳证券交易所-个股产品, content length=187318
+2020-01-02 07:08:22,635 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200761, get res length=34
+2020-01-02 07:08:22,641 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498
+2020-01-02 07:08:25,373 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get title=公司概况 | 上海证券交易所, content length=292811
+2020-01-02 07:08:25,663 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get res length=20
+2020-01-02 07:08:25,666 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306
+2020-01-02 07:08:35,725 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get title=公司概况 | 上海证券交易所, content length=291426
+2020-01-02 07:08:35,892 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get res length=20
+2020-01-02 07:08:35,896 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730
+2020-01-02 07:08:36,742 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get title=深圳证券交易所-个股产品, content length=187500
+2020-01-02 10:08:46,218 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000498, get res length=34
+2020-01-02 10:08:46,235 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585
+2020-01-02 10:08:50,320 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get title=, content length=39
+2020-01-02 10:08:50,324 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get res length=0
+2020-01-02 10:08:50,328 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167
+2020-01-02 10:08:53,392 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get title=, content length=39
+2020-01-02 10:08:53,395 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000585, get res length=0
+2020-01-02 10:08:53,401 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597
+2020-01-02 10:08:55,410 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get title=, content length=39
+2020-01-02 10:08:55,413 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get res length=0
+2020-01-02 10:08:55,419 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511
+2020-01-02 10:09:00,497 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get title=, content length=39
+2020-01-02 10:09:00,499 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get res length=0
+2020-01-02 10:09:00,502 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get title=, content length=39
+2020-01-02 10:09:00,504 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000597, get res length=0
+2020-01-02 10:09:00,505 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715
+2020-01-02 10:09:00,511 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399
+2020-01-02 10:09:03,614 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get title=, content length=39
+2020-01-02 10:09:03,616 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600399, get res length=0
+2020-01-02 10:09:03,623 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795
+2020-01-02 10:09:05,582 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get title=, content length=39
+2020-01-02 10:09:05,605 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get res length=0
+2020-01-02 10:09:05,611 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706
+2020-01-02 10:09:06,707 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get title=, content length=39
+2020-01-02 10:09:06,711 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600795, get res length=0
+2020-01-02 10:09:06,722 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751
+2020-01-02 10:09:08,690 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get title=, content length=39
+2020-01-02 10:09:08,692 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get res length=0
+2020-01-02 10:09:08,698 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616
+2020-01-02 10:09:14,819 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get title=, content length=39
+2020-01-02 10:09:14,822 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000751, get res length=0
+2020-01-02 10:09:14,832 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609
+2020-01-02 10:09:17,766 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get title=, content length=39
+2020-01-02 10:09:17,768 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get res length=0
+2020-01-02 10:09:17,774 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317
+2020-02-23 11:12:05,943 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get title=, content length=39
+2020-02-23 11:12:05,950 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get title=, content length=39
+2020-02-23 11:12:06,157 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600609, get res length=0
+2020-02-23 11:12:06,163 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get res length=0
+2020-02-23 11:12:06,380 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820
+2020-02-23 11:12:06,395 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638
+2020-02-23 11:12:12,637 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get title=, content length=39
+2020-02-23 11:12:12,642 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get res length=0
+2020-02-23 11:12:12,665 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125
+2020-02-23 11:12:16,609 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get title=, content length=39
+2020-02-23 11:12:16,615 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000820, get res length=0
+2020-02-23 11:12:16,635 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818
+2020-02-23 11:12:30,724 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get title=公司概况 | 上海证券交易所, content length=126009
+2020-02-23 11:12:31,534 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get res length=0
+2020-02-23 11:12:31,560 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715
+2020-02-23 11:13:12,373 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get title=深圳证券交易所-个股产品, content length=188657
+2020-02-23 11:13:12,662 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000818, get res length=34
+2020-02-23 11:13:12,679 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190
+2020-02-23 11:13:15,553 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get title=深圳证券交易所-个股产品, content length=188684
+2020-02-23 11:13:15,680 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get res length=0
+2020-02-23 16:35:53,670 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get title=公司概况 | 上海证券交易所, content length=123024
+2020-02-23 16:35:54,202 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600190, get res length=0
+2020-02-23 16:35:54,210 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952
+2020-02-23 16:36:05,830 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get title=公司概况 | 上海证券交易所, content length=285146
+2020-02-23 16:36:06,561 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=900952, get res length=0
+2020-02-23 16:36:06,566 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686
+2020-02-23 16:36:17,657 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get title=深圳证券交易所-个股产品, content length=188654
+2020-02-23 16:36:17,925 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000686, get res length=34
+2020-02-23 16:36:17,931 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763
+2020-02-23 16:36:27,315 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get title=深圳证券交易所-个股产品, content length=188296
+2020-02-23 16:36:27,597 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000763, get res length=34
+2020-02-23 16:36:27,606 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558
+2020-02-23 16:36:43,812 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get title=深圳证券交易所-个股产品, content length=188674
+2020-02-23 16:36:44,087 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000558, get res length=34
+2020-02-23 16:36:44,095 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817
+2020-02-23 16:37:08,020 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get title=深圳证券交易所-个股产品, content length=188326
+2020-02-23 16:37:08,289 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000817, get res length=34
+2020-02-23 16:37:08,296 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739
+2020-02-23 16:37:16,840 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get title=公司概况 | 上海证券交易所, content length=296833
+2020-02-23 16:37:17,380 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600739, get res length=20
+2020-02-23 16:37:17,386 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077
+2020-02-23 16:37:21,484 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get title=公司概况 | 上海证券交易所, content length=296545
+2020-02-23 16:37:21,871 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600077, get res length=20
+2020-02-23 16:37:21,882 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059
+2020-02-23 16:37:38,448 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get title=深圳证券交易所-个股产品, content length=188859
+2020-02-23 16:37:38,698 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000059, get res length=34
+2020-02-23 16:37:38,704 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758
+2020-02-23 16:37:44,849 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get title=公司概况 | 上海证券交易所, content length=296899
+2020-02-23 16:37:45,221 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600758, get res length=20
+2020-02-23 16:37:45,227 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123
+2020-02-23 16:38:07,760 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get title=深圳证券交易所-个股产品, content length=188657
+2020-02-23 16:38:08,178 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=002123, get res length=34
+2020-02-23 16:38:08,183 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241
+2020-02-23 16:38:13,882 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get title=公司概况 | 上海证券交易所, content length=238200
+2020-02-23 16:38:14,205 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600241, get res length=20
+2020-02-23 16:38:14,211 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303
+2020-02-23 16:38:26,164 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get title=公司概况 | 上海证券交易所, content length=295810
+2020-02-23 16:38:26,633 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600303, get res length=20
+2020-02-23 16:38:26,638 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231
+2020-02-23 16:38:36,096 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get title=公司概况 | 上海证券交易所, content length=284811
+2020-02-23 16:38:36,414 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600231, get res length=20
+2020-02-23 16:38:36,419 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718
+2020-02-23 16:38:41,658 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get title=公司概况 | 上海证券交易所, content length=293607
+2020-02-23 16:38:42,077 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600718, get res length=20
+2020-02-23 16:38:42,088 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769
+2020-02-23 16:39:05,770 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get title=深圳证券交易所-个股产品, content length=188000
+2020-02-23 16:39:06,022 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000769, get res length=34
+2020-02-23 16:39:06,028 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633
+2020-02-23 16:39:28,496 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get title=深圳证券交易所-个股产品, content length=188577
+2020-02-23 16:39:28,782 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000633, get res length=34
+2020-02-23 16:39:28,787 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698
+2020-02-23 16:39:58,458 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get title=深圳证券交易所-个股产品, content length=188594
+2020-02-23 16:39:58,889 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000698, get res length=34
+2020-02-23 16:39:58,893 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692
+2020-02-23 16:40:25,184 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get title=深圳证券交易所-个股产品, content length=188692
+2020-02-23 16:40:25,781 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000692, get res length=34
+2020-02-23 16:40:25,793 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410
+2020-02-23 16:40:39,734 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get title=深圳证券交易所-个股产品, content length=188581
+2020-02-23 16:40:40,261 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000410, get res length=34
+2020-02-23 16:40:40,267 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396
+2020-02-23 16:40:48,406 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get title=公司概况 | 上海证券交易所, content length=294696
+2020-02-23 16:40:48,760 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600396, get res length=20
+2020-02-23 16:40:48,765 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306
+2020-02-23 16:40:59,793 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get title=公司概况 | 上海证券交易所, content length=292183
+2020-02-23 16:41:00,137 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600306, get res length=20
+2020-02-23 16:41:00,143 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730
+2020-02-23 16:41:36,716 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get title=深圳证券交易所-个股产品, content length=188060
+2020-02-23 16:41:36,989 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000730, get res length=34
+2020-02-23 16:41:36,997 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167
+2020-02-23 16:41:47,792 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get title=公司概况 | 上海证券交易所, content length=294828
+2020-02-23 16:41:48,239 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600167, get res length=20
+2020-02-23 16:41:48,246 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511
+2020-02-23 16:42:09,679 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get title=深圳证券交易所-个股产品, content length=188659
+2020-02-23 16:42:09,971 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000511, get res length=34
+2020-02-23 16:42:09,977 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715
+2020-02-23 16:42:16,237 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get title=公司概况 | 上海证券交易所, content length=288754
+2020-02-23 16:42:16,616 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600715, get res length=20
+2020-02-23 16:42:16,622 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706
+2020-02-23 16:42:28,347 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get title=深圳证券交易所-个股产品, content length=188551
+2020-02-23 16:42:28,597 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=200706, get res length=34
+2020-02-23 16:42:28,602 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616
+2020-02-23 16:42:39,001 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get title=深圳证券交易所-个股产品, content length=188669
+2020-02-23 16:42:39,283 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000616, get res length=34
+2020-02-23 16:42:39,289 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317
+2020-02-23 16:42:50,721 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get title=公司概况 | 上海证券交易所, content length=280851
+2020-02-23 16:42:51,131 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600317, get res length=20
+2020-02-23 16:42:51,135 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638
+2020-02-23 16:43:01,116 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get title=深圳证券交易所-个股产品, content length=188596
+2020-02-23 16:43:01,388 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000638, get res length=34
+2020-02-23 16:43:01,394 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125
+2020-02-23 16:43:09,139 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get title=公司概况 | 上海证券交易所, content length=290125
+2020-02-23 16:43:09,480 - spider - INFO - CategoryListedCompany url=http://www.sse.com.cn/assortment/stock/list/info/company/index.shtml?COMPANY_CODE=600125, get res length=20
+2020-02-23 16:43:09,487 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715
+2020-02-23 16:43:26,078 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get title=深圳证券交易所-个股产品, content length=188684
+2020-02-23 16:43:26,325 - spider - INFO - CategoryListedCompany url=http://www.szse.cn/certificate/individual/index.html?code=000715, get res length=34

@@ -53,7 +53,7 @@ loggers:
         handlers: [console, sample]
         propagate: no
 
-    my_module:
+    spider:
         level: INFO
         handlers: [console, info_file_handler]
         propagate: no

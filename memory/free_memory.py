@@ -28,26 +28,26 @@ print(usage())  #
 
 arr = np.arange(10 ** 8, dtype='O')  # create lots of objects
 print("5")  #
-
 print(usage())  #
 
 # 3135.109375
 del arr
-usage()
+# usage()
 print("6")  #
 import time
 # time.sleep(3) # wait won't work
 print(usage())  #
+#
 
-import pandas as pd
-
-df = pd.read_csv("dmkt_equd_all_technical_columns20190703.csv")
-print(usage())  #
-print(df.info(memory_usage='deep'))
-del df
-print(usage())  #
-
-import gc
-gc.collect()
-print("finally")
-print(usage())  #
+# import pandas as pd
+#
+# df = pd.read_csv("dmkt_equd_all_technical_columns20190703.csv")
+# print(usage())  #
+# print(df.info(memory_usage='deep'))
+# del df
+# print(usage())  #
+#
+# import gc
+# gc.collect()
+# print("finally")
+# print(usage())  #
