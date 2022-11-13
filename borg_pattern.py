@@ -24,8 +24,10 @@ class Testing(Borg, Base):
 a = Testing()
 a.attr = 'abc'
 print(a.attr)
+print("-")
 a2 = Testing()
 print(a2.attr)
+print("-")
 
 class T2(Base, Borg):
     pass

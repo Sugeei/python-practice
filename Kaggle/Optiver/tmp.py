@@ -19,3 +19,5 @@ print(datacompy.Compare(da,db, ['index','t']).report())
 # df = pq.ParquetFile("c439ef22282f412ba39e9137a3fdabac.parquet.zip")
 # df = pd.read_parquet("trade_train.parqueet.zip")
 # print(df)
+
+# test
