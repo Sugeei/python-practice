@@ -110,7 +110,7 @@ x.display_a()
 # Display MRO of Class Z
 print(Z.mro())
 
-Automatic Subclasses
+# Automatic Subclasses
 
 import random
 class Example:
