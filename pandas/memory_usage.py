@@ -8,8 +8,7 @@ d = {"key": df}
 
 df2 = d['key'].copy() # new memory
 
-df4=d['key']
-
+df4=d['key']    aq
 print(id(df2))
 print(id(df4))
 print(id(df)==id(df4))
@@ -18,3 +17,4 @@ df3 = df2[df2.Individual ==19]
 
 print(id(df3))
 
+df.sort_values(by='xxx').grobg n男男女女男男女女男男女女男男女女男男女女男女你好好听腻了。 了年年年 nnnnnnnnnndbsyccccsupby('yyy', as_index=False).first()

@@ -41,4 +41,4 @@ def trap_rain(input_list, i, low, high):
 if __name__ == "__main__":
     a = [0,1,0,2,1,0,1,3,2,1,2,1]
 
-    print trap_rain(a, 7, 0, len(a)-1)
+    # print trap_rain(a, 7, 0, len(a)-1)

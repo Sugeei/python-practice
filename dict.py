@@ -1,4 +1,5 @@
 # coding=utf-8
+from sklearn.pipeline import Pipeline
 from collections import defaultdict
 
 newdict = defaultdict(int)
